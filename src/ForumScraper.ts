@@ -5,7 +5,7 @@ import Credentials from '../../_credentials/mxl-trade.json';
 class ForumScraper {
     forumUsers: ForumUser[] = [];
     hrefs: string[] = [];
-    browser: playwright.ChromiumBrowser;
+    browser: playwright.FirefoxBrowser;
     context: playwright.BrowserContext;
     cookiesCreated: boolean = false;
     href = {
@@ -17,7 +17,7 @@ class ForumScraper {
     }
 
     createInits = async () => {
-        this.browser = await playwright['chromium'].launch({
+        this.browser = await playwright['firefox'].launch({
             headless: true
         });
         this.context = await this.browser.newContext();//
