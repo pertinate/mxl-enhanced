@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "target": "ES2018",
+        "module": "CommonJS",
+        "outDir": "dist",
+        "rootDirs": [
+            "src"
+        ],
+        "declaration":true,
+        "declarationMap": true,
+        "sourceMap": true,
+        "esModuleInterop":true,
+        "jsx": "react",
+        "lib": [
+            "ES2019.Array",
+            "DOM"
+        ],
+        "resolveJsonModule": true
+    },
+    "include": [
+        "src/**/*"
+    ]
+}
