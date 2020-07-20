@@ -18,7 +18,11 @@ class ForumScraper {
 
     createInits = async () => {
         this.browser = await playwright['chromium'].launch({
-            headless: true
+            headless: true,
+            args: [
+                '--no-sandbox',
+                '--disable-setuid-sandbox'
+            ]
         });
         this.context = await this.browser.newContext();//
     };
