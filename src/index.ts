@@ -1,6 +1,7 @@
 import ForumScraper from './ForumScraper';
 import express from 'express';
 import cors from 'cors';
+import path from 'path';
 
 async function startScraping() {
     console.log('createInits');
@@ -27,6 +28,19 @@ interface CharObj {
         itemSpans?: string[];
     }[];
 }
+
+app.use(
+    '/public/',
+    express.static(path.resolve('./client/public'))
+);
+
+app.use(
+    '/static/',
+    express.static(path.resolve('./client/build/static'))
+);
+
+app.get('/', (request, response) => response.sendFile(path.resolve('./client/build/index.html')));
+
 app.get('/test', (request, response) => {
     let queries = Array.isArray(request.query.searchParam) ? request.query.searchParam : [request.query.searchParam];
     let baseItem = request.query.baseItem;
