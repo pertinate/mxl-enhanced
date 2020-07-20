@@ -3,6 +3,8 @@ import express from 'express';
 import cors from 'cors';
 import path from 'path';
 
+import routes from './express/route';
+
 async function startScraping() {
     console.log('createInits');
     await ForumScraper.createInits();
@@ -21,7 +23,7 @@ interface CharObj {
     forumLink: string;
     forumName: string;
     forumPosting: string;
-    tswCharName: string;
+    tswCharName: string;//
     items: {
         baseItem?: string;
         location?: string;
@@ -39,6 +41,8 @@ app.use(
     express.static(path.resolve('./client/build/static'))
 );
 
+app.use(routes);
+
 app.get('/', (request, response) => response.sendFile(path.resolve('./client/build/index.html')));
 
 app.get('/test', (request, response) => {
@@ -47,7 +51,6 @@ app.get('/test', (request, response) => {
     // console.log('incoming request');
     let chars: Array<CharObj> = [];
     ForumScraper.forumUsers.forEach(forumUser => {
-        // console.log(forumUser);
         forumUser.itemsToSearch.forEach(item => {
             let tswCharName = item.charName.split(' (')[0];
             let tswChar = {
@@ -57,7 +60,6 @@ app.get('/test', (request, response) => {
                 tswCharName,
                 items: item.data.filter(val => val !== "")
             };
-            // console.log(tswChar);
             chars.push(tswChar);
         });
     });

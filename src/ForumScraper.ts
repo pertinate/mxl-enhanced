@@ -8,17 +8,67 @@ class ForumScraper {
     browser: playwright.ChromiumBrowser;
     context: playwright.BrowserContext;
     cookiesCreated: boolean = false;
+    itemList: {
+        forumLink: string;
+        forumName: string;
+        forumPosting: string;
+        tswCharName: string;
+        baseItem?: string;
+        location?: string;
+        itemSpans?: string[];
+    }[] = [];
     href = {
         tradeSection: 'https://forum.median-xl.com/viewforum.php?f=34',
         notArmouryLogin: 'https://tsw.vn.cz/acc/'
     };
     constructor() {
-        // this.createInits();
+        setInterval(() => {
+            console.log('creating item list');
+            let chars: {
+                forumLink: string;
+                forumName: string;
+                forumPosting: string;
+                tswCharName: string;
+                items: {
+                    baseItem?: string;
+                    location?: string;
+                    itemSpans?: string[];
+                }[];
+            }[] = [];
+
+            this.forumUsers.forEach(forumUser => {
+                forumUser.itemsToSearch.forEach(item => {
+                    let tswCharName = item.charName.split(' (')[0];
+                    let tswChar = {
+                        forumLink: forumUser.forumLink,
+                        forumName: forumUser.forumName,
+                        forumPosting: forumUser.forumPosting,
+                        tswCharName,
+                        items: item.data.filter(val => val !== "")
+                    };
+
+                    chars.push(tswChar);
+                });
+            });
+
+
+            this.itemList = chars.map(char => {
+                return char.items.map(item => {
+                    return {
+                        ...item,
+                        forumLink: char.forumLink,
+                        forumName: char.forumName,
+                        forumPosting: char.forumPosting,
+                        tswCharName: char.tswCharName,
+                    };
+                });
+            }).flat(1).filter(val => val.baseItem !== "");
+        }, 1 * 60 * 1000);
     }
 
     createInits = async () => {
         this.browser = await playwright['chromium'].launch({
-            headless: true,
+            headless: false,
             args: [
                 '--no-sandbox',
                 '--disable-setuid-sandbox'
