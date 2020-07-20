@@ -5,7 +5,7 @@ import Credentials from '../../_credentials/mxl-trade.json';
 class ForumScraper {
     forumUsers: ForumUser[] = [];
     hrefs: string[] = [];
-    browser: playwright.WebKitBrowser;
+    browser: playwright.ChromiumBrowser;
     context: playwright.BrowserContext;
     cookiesCreated: boolean = false;
     href = {
