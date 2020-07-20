@@ -68,7 +68,7 @@ class ForumScraper {
 
     createInits = async () => {
         this.browser = await playwright['chromium'].launch({
-            headless: false,
+            headless: true,
             args: [
                 '--no-sandbox',
                 '--disable-setuid-sandbox'
