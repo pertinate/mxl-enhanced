@@ -1,12 +1,12 @@
 import ForumUser, { Item } from "./types/ForumUser";
-import playwright from 'playwright';
+import { webkit, WebKitBrowser, BrowserContext } from 'playwright-webkit';
 import Credentials from '../../_credentials/mxl-trade.json';
 
 class ForumScraper {
     forumUsers: ForumUser[] = [];
     hrefs: string[] = [];
-    browser: playwright.FirefoxBrowser;
-    context: playwright.BrowserContext;
+    browser: WebKitBrowser;
+    context: BrowserContext;
     cookiesCreated: boolean = false;
     href = {
         tradeSection: 'https://forum.median-xl.com/viewforum.php?f=34',
@@ -17,7 +17,7 @@ class ForumScraper {
     }
 
     createInits = async () => {
-        this.browser = await playwright['firefox'].launch({
+        this.browser = await webkit.launch({
             headless: true
         });
         this.context = await this.browser.newContext();//
