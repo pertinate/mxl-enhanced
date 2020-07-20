@@ -41,7 +41,7 @@ class Bedrock extends Component<Props, State> {
     getData = () => {
         console.log('getting data');
         if (this.state.mods.length > 0 || this.state.baseItem !== '') {
-            fetch(`http://localhost:8080/test?${this.state.mods.filter(val => val !== '').map(mod => `searchParam=${mod}`).join('&')}${this.state.baseItem !== '' ? `&searchParam=${this.state.baseItem}` : ''}`, {
+            fetch(`http://mxl.trade.pertinate.info/test?${this.state.mods.filter(val => val !== '').map(mod => `searchParam=${mod}`).join('&')}${this.state.baseItem !== '' ? `&searchParam=${this.state.baseItem}` : ''}`, {
                 method: 'get'
             })
                 .then(result => {
