@@ -17,7 +17,7 @@ class ForumScraper {
     }
 
     createInits = async () => {
-        this.browser = await playwright['webkit'].launch({
+        this.browser = await playwright['chromium'].launch({
             headless: true
         });
         this.context = await this.browser.newContext();//
