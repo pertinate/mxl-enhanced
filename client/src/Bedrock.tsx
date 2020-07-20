@@ -94,7 +94,10 @@ class Bedrock extends Component<Props, State> {
                                         <h2 style={{ color: '#c1b294', textAlign: 'center' }}>Base Type: </h2>
                                     </Col>
                                     <Col>
-                                        <Input style={{ outlineColor: '#555', border: '1px solid #302E2E', background: 'linear-gradient(#181818,#1a1b1b 10%,#1a1b1b 80%,#181818)', color: 'white' }} />
+                                        <Input
+                                            onChange={e => this.setState({ baseItem: e.target.value })}
+                                            style={{ outlineColor: '#555', border: '1px solid #302E2E', background: 'linear-gradient(#181818,#1a1b1b 10%,#1a1b1b 80%,#181818)', color: 'white' }}
+                                        />
                                     </Col>
                                 </Row>
                             </Col>
@@ -211,7 +214,7 @@ class Bedrock extends Component<Props, State> {
             //                 <Col>
             //                     <Input
             //                         prefix={'Base: '}
-            //                         onChange={e => this.setState({ baseItem: e.target.value })}
+
             //                     />
             //                 </Col>
             //                 {
