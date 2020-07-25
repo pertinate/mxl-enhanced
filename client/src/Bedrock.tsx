@@ -38,7 +38,7 @@ export interface State {
 }
 
 class Bedrock extends Component<Props, State> {
-    host = 'mxl.trade.pertinate.info';
+    host = 'http://mxl.trade.pertinate.info';
     constructor(props: Props) {
         super(props);
 
@@ -83,7 +83,6 @@ class Bedrock extends Component<Props, State> {
                     return result.json();
                 })
                 .then(result => {
-                    console.log(result);
                     this.setState({ results: result });
                 })
                 .catch(error => console.log(error));
