@@ -1,6 +1,7 @@
 import React, { Component, ReactNode } from 'react';
 import './Bedrock.css';
 import { Layout, Table, Row, Col, Button, Input } from 'antd';
+import Search from './components/search';
 const { Content, Header } = Layout;
 
 interface ForumUser {
@@ -17,15 +18,27 @@ interface ForumUser {
 interface Props {
 
 }
-interface State {
+export interface State {
     results: ForumUser[];
     mods: string[];
     inputValue: string;
     currentIndex: number;
     baseItem: string;
+    baseItemDrop: boolean;
+    baseItems: string[];
+    baseItemFilter: string;
+    itemTiers: string[];
+    itemTier: string;
+    itemTierDrop: boolean;
+    searchItem: string;
+    modList: string[];
+    showModList: boolean[];
+    itemNames: string[];
+    searchItemDrop: boolean;
 }
 
 class Bedrock extends Component<Props, State> {
+    host = 'mxl.trade.pertinate.info';
     constructor(props: Props) {
         super(props);
 
@@ -34,34 +47,108 @@ class Bedrock extends Component<Props, State> {
             mods: [],
             inputValue: '',
             currentIndex: -1,
-            baseItem: ''
+            baseItems: [],
+            baseItem: '',
+            baseItemDrop: false,
+            baseItemFilter: '',
+            itemTiers: [],
+            itemTier: '',
+            itemTierDrop: false,
+            searchItem: '',
+            modList: [],
+            showModList: [],
+            itemNames: [],
+            searchItemDrop: false
         };
+
+        this.getBaseItems();
+        this.getItemTiers();
+        this.getAffixes();
+        this.getNames();
     }
 
     getData = () => {
-        console.log('getting data');
-        if (this.state.mods.length > 0 || this.state.baseItem !== '') {
-            fetch(`http://mxl.trade.pertinate.info/query`, {
+        if (this.state.mods.length > 0 || this.state.baseItem !== '' || this.state.searchItem) {
+            fetch(`${this.host}/query`, {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({
-                    include: this.state.mods,
+                    include: this.state.mods.filter(mod => mod !== ''),
                     exclude: [],
-                    baseItem: this.state.baseItem
+                    baseItem: this.state.baseItem,
+                    itemName: this.state.searchItem
                 })
             })
                 .then(result => {
-                    console.log('test');
                     return result.json();
                 })
                 .then(result => {
-                    this.setState({ results: result });
                     console.log(result);
+                    this.setState({ results: result });
                 })
                 .catch(error => console.log(error));
         }
     };
 
+    getBaseItems = () => {
+        if (this.state.baseItems.length === 0) {
+            fetch(`${this.host}/baseitems`, {
+                method: 'GET'
+            })
+                .then(result => result.json())
+                .then(result => {
+                    this.setState({ baseItems: result });
+                })
+                .catch(error => {
+                    console.error('Failed to get baseitems', error);
+                });
+        }
+    };
+
+    getItemTiers = () => {
+        if (this.state.itemTiers.length === 0) {
+            fetch(`${this.host}/itemtiers`, {
+                method: 'GET'
+            })
+                .then(result => result.json())
+                .then(result => {
+                    this.setState({ itemTiers: result });
+                })
+                .catch(error => {
+                    console.error('Failed to get baseitems', error);
+                });
+        }
+    };
+
+    getAffixes = () => {
+        if (this.state.itemTiers.length === 0) {
+            fetch(`${this.host}/affixes`, {
+                method: 'GET'
+            })
+                .then(result => result.json())
+                .then(result => {
+                    this.setState({ modList: result.filter((val, index) => result.indexOf(val) === index) });
+                })
+                .catch(error => {
+                    console.error('Failed to get baseitems', error);
+                });
+        }
+    };
+
+    getNames = () => {
+        if (this.state.itemTiers.length === 0) {
+            fetch(`${this.host}/names`, {
+                method: 'GET'
+            })
+                .then(result => result.json())
+                .then(result => {
+                    this.setState({ itemNames: result.filter((val, index) => result.indexOf(val) === index) });
+                })
+                .catch(error => {
+                    console.error('Failed to get baseitems', error);
+                });
+        }
+    };
     handleTextChange = ({ target: { value } }) => {
         this.setState({ inputValue: value });
     };
@@ -84,89 +171,128 @@ class Bedrock extends Component<Props, State> {
         }
     };
 
-    reset = () => {
-
+    switchDropDowns = (dropdown = {}) => {
+        this.setState({
+            itemTierDrop: false,
+            baseItemDrop: false,
+            ...dropdown
+        });
     };
 
     render(): ReactNode {
         return (
-            <div style={{ height: '100%', width: '100%' }}>
-                <div style={{ height: 'auto', width: '100%', display: 'flex', flexDirection: 'column', justifyContent: 'center', alignContent: 'center' }}>
-                    <div style={{ backgroundColor: '#1A1B1B', height: 'auto', width: '80%x', margin: '16px', border: '2px solid #555', outlineColor: '#555' }}>
-                        <Row justify='center' align='middle' style={{ margin: '8px' }}>
-                            <Col>
-                                <Row>
-                                    <Col style={{ marginRight: '8px' }}>
-                                        <h2 style={{ color: '#c1b294', textAlign: 'center' }}>Base Type: </h2>
-                                    </Col>
-                                    <Col>
-                                        <Input
-                                            onChange={e => this.setState({ baseItem: e.target.value })}
-                                            style={{ outlineColor: '#555', border: '1px solid #302E2E', background: 'linear-gradient(#181818,#1a1b1b 10%,#1a1b1b 80%,#181818)', color: 'white' }}
-                                        />
-                                    </Col>
-                                </Row>
-                            </Col>
-                        </Row>
-                        <Row justify="center">
-                            <Col>
-                                <button
-                                    onClick={() => {
-                                        let mods = [...this.state.mods];
-                                        mods.push('');
-                                        this.setState({ mods }, () => {
-                                            this.reset();
-                                        });
-                                    }}
-                                    style={{ color: '#c1b294', backgroundColor: '#1c1c18', border: '1px solid #302e2e', margin: '8px' }}
-                                >Add Search Term</button>
-                            </Col>
-                            <Col>
-                                <button
-                                    onClick={() => {
-                                        this.getData();
-                                    }}
-                                    style={{ color: '#c1b294', backgroundColor: '#1c1c18', border: '1px solid #302e2e', margin: '8px' }}
-                                >Search</button>
-                            </Col>
-                        </Row>
+            <div
+                style={{ height: '100%', width: '100%' }}
+            >
+                <Search
+                    state={{ ...this.state }}
+                    switchDropDowns={this.switchDropDowns}
+                    getInputValue={this.getInputValue}
+                    handleOnBlur={this.handleOnBlur}
+                    handleOnFocus={this.handleOnFocus}
+                    setState={(values = {}) => this.setState({ ...values })}
+                    getData={this.getData}
+                />
+                <div style={{ display: 'flex', justifyContent: 'center', alignContent: 'center' }}>
+                    <ul
+                        style={{
+                            width: '100%',
+                            listStyle: 'none',
+                            display: 'flex',
+                            flexDirection: 'column',
+                            alignContent: 'center'
+                        }}
+                    >
                         {
-                            this.state.mods.map((mod, index) => {
+                            this.state.results.map(result => {
                                 return (
-                                    <Row justify='center'>
-                                        <Col style={{ margin: '8px' }}>
-                                            <h2 style={{ color: '#c1b294', textAlign: 'center' }}>Item Matches: </h2>
-                                        </Col>
-                                        <Col style={{ margin: '8px' }}>
-                                            <Input
-                                                placeholder={''}
-                                                onChange={e => this.handleTextChange(e)}
-                                                value={this.getInputValue(index)}
-                                                onFocus={() => this.handleOnFocus(index)}
-                                                onBlur={this.handleOnBlur}
-                                                style={{ outlineColor: '#555', border: '1px solid #302E2E', background: 'linear-gradient(#181818,#1a1b1b 10%,#1a1b1b 80%,#181818)', color: 'white' }}
-                                            />
-                                        </Col>
-                                        <Col style={{ margin: '8px' }}>
-                                            <button
-                                                onClick={() => {
-                                                    let newMods = [...this.state.mods];
-                                                    newMods.splice(index, 1);
-                                                    this.setState({ mods: newMods });
-                                                }}
-                                                style={{ color: '#c1b294', backgroundColor: '#1c1c18', border: '1px solid #302e2e', margin: '8px' }}
-                                            >
-                                                Remove
-                                            </button>
-                                        </Col>
-                                    </Row>
+                                    <li style={{ color: 'white', backgroundColor: '#1A1B1B', height: 'auto', minWidth: '20%', maxWidth: '60%', margin: 'auto', border: '2px solid #555', outlineColor: '#555', marginBottom: '8px' }}>
+                                        <Row
+                                            style={{
+                                                margin: '8px'
+                                            }}
+                                        >
+                                            <Col style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', borderRight: '2px solid #555' }}>
+                                                <img src={result.imgSrc} style={{ margin: '32px' }} />
+                                            </Col>
+                                            <Col style={{ marginLeft: '32px', marginRight: '32px', display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
+                                                {
+                                                    result.itemSpans.map(line => (<p style={{ margin: '0px', textAlign: 'center' }}>{line}</p>))
+                                                }
+                                            </Col>
+                                            <Col style={{ borderLeft: '2px solid #555', paddingLeft: '16px', display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
+                                                <Row>
+                                                    <a
+                                                        href={result.forumPosting}
+                                                        target='_blank'
+                                                        style={{ color: '#c1b294', backgroundColor: '#1c1c18', border: '1px solid #302e2e', margin: '8px', padding: '8px' }}
+                                                    >
+                                                        Forum Post
+                                                    </a>
+                                                </Row>
+                                                <Row>
+                                                    <a
+                                                        href={result.forumLink}
+                                                        target='_blank'
+                                                        style={{ color: '#c1b294', backgroundColor: '#1c1c18', border: '1px solid #302e2e', margin: '8px', padding: '8px' }}
+                                                    >
+                                                        {result.forumName}
+                                                    </a>
+                                                </Row>
+                                            </Col>
+                                        </Row>
+                                    </li>
                                 );
                             })
                         }
-                    </div>
-                </div>
-                <div style={{ display: 'flex', justifyContent: 'center', alignContent: 'center' }}>
-                    <table style={{ outlineColor: '#555', border: '1px solid #302E2E', background: 'linear-gradient(#181818,#1a1b1b 10%,#1a1b1b 80%,#181818)', color: 'white' }}>
+                        {/* <li style={{ color: 'white', backgroundColor: '#1A1B1B', height: 'auto', minWidth: '20%', maxWidth: '60%', margin: 'auto', border: '2px solid #555', outlineColor: '#555' }}>
+                            <Row
+                                style={{
+                                    margin: '8px'
+                                }}
+                            >
+                                <Col style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', borderRight: '2px solid #555' }}>
+                                    <img src={'https://tsw.vn.cz/acc/items/invssd.png'} style={{ margin: '32px' }} />
+                                </Col>
+                                <Col style={{ marginLeft: '32px', marginRight: '32px', display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
+                                    {
+                                        [
+                                            'The Xiphos',
+                                            'Short Sword (Sacred)',
+                                            'Item Level: 99',
+                                            'Strength Damage Bonus',
+                                            'Orb Effects Applied to this Item are Doubled',
+                                            '2% Chance to cast level 5 Shatterblade on Striking',
+                                            '40% Attack Speed',
+                                            '+56% Enhanced Damage',
+                                            '+78 to Maximum Damage',
+                                            '3% Chance of Crushing Blow (Based on Character Level)',
+                                            'Physical Resist 5%',
+                                            'Socketed: (3), Inserted: (0)',
+                                            'Orb Effects Applied to this Item are Doubled'
+                                        ].map(line => (<p style={{ margin: '0px', textAlign: 'center' }}>{line}</p>))
+                                    }
+                                </Col>
+                                <Col style={{ borderLeft: '2px solid #555', paddingLeft: '16px', display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
+                                    <Row>
+                                        <button
+                                            style={{ color: '#c1b294', backgroundColor: '#1c1c18', border: '1px solid #302e2e', margin: '8px' }}
+                                        >
+                                            Forum Post
+                                        </button>
+                                    </Row>
+                                    <Row>
+                                        <button
+                                            style={{ color: '#c1b294', backgroundColor: '#1c1c18', border: '1px solid #302e2e', margin: '8px' }}
+                                        >
+                                            Username
+                                        </button>
+                                    </Row>
+                                </Col>
+                            </Row>
+                        </li> */}
+                    </ul>
+                    {/* <table style={{ outlineColor: '#555', border: '1px solid #302E2E', background: 'linear-gradient(#181818,#1a1b1b 10%,#1a1b1b 80%,#181818)', color: 'white' }}>
                         <thead>
                             <tr style={{ outlineColor: '#555', border: '1px solid #302E2E', background: 'linear-gradient(#181818,#1a1b1b 10%,#1a1b1b 80%,#181818)', color: 'white' }}>
                                 <th style={{ color: '#c1b294', outlineColor: '#555', border: '1px solid #302E2E', background: 'linear-gradient(#181818,#1a1b1b 10%,#1a1b1b 80%,#181818)', padding: '8px' }}>Image</th>
@@ -208,93 +334,9 @@ class Bedrock extends Component<Props, State> {
                                 })
                             }
                         </tbody>
-                    </table>
+                    </table> */}
                 </div>
             </div>
-            // <Layout>
-            //     <Content>
-            //         <Row
-            //             justify={'center'}
-            //         >
-            //             <Col>
-            //                 <Col>
-            //                     <Input
-            //                         prefix={'Base: '}
-
-            //                     />
-            //                 </Col>
-            //                 {
-            //                     this.state.mods.map((mod, index) => {
-            //                         return (
-
-            //                         );
-            //                     })
-            //                 }
-            //             </Col>
-            //             <Col>
-            //                 <Button
-            //                     type='primary'
-
-            //                 >Add Mod</Button>
-            //             </Col>
-            //             <Col>
-
-            //             </Col>
-            //         </Row>
-            //         <Table
-            //             dataSource={this.state.results}
-            //             columns={[
-            //                 {
-            //                     title: 'Image',
-            //                     dataIndex: 'imgSrc',
-            //                     key: 'imgSrc',
-            //                     width: '10%',
-            //                     render: (text, record, index) => {
-            //                         return (<img src={text} />);
-            //                     }
-            //                 },
-            //                 {
-            //                     title: 'Item',
-            //                     width: '30%',
-            //                     render: (text, record, index) => {
-            //                         return (
-            //                             <span>
-            //                                 {
-            //                                     record.itemSpans.filter(val => val !== "").map(span => {
-            //                                         return (<p>{span}</p>);
-            //                                     })
-            //                                 }
-            //                             </span>
-            //                         );
-            //                     }
-            //                 },
-            //                 {
-            //                     title: 'Controls',
-            //                     children: [
-            //                         {
-            //                             title: 'Forum Post',
-            //                             dataIndex: 'forumPosting',
-            //                             key: 'forumPost',
-            //                             width: '10%',
-            //                             render: (text, record, index) => {
-            //                                 return (<a href={text}>Forum Post</a>);
-            //                             }
-            //                         },
-            //                         {
-            //                             title: 'Profile',
-            //                             dataIndex: 'profile',
-            //                             key: 'profile',
-            //                             width: '10%',
-            //                             render: (text, record, index) => {
-            //                                 return (<a href={text}>{record.forumName}</a>);
-            //                             }
-            //                         }
-            //                     ]
-            //                 }
-            //             ]}
-            //         />
-            //     </Content>
-            // </Layout>
         );
     }
 }

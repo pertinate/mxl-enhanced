@@ -5,7 +5,7 @@ import Credentials from '../../_credentials/mxl-trade.json';
 class ForumScraper {
     forumUsers: ForumUser[] = [];
     hrefs: string[] = [];
-    browser: playwright.ChromiumBrowser;
+    browser: playwright.FirefoxBrowser;
     context: playwright.BrowserContext;
     cookiesCreated: boolean = false;
     itemList: {
@@ -67,7 +67,7 @@ class ForumScraper {
     }
 
     createInits = async () => {
-        this.browser = await playwright['chromium'].launch({
+        this.browser = await playwright['firefox'].launch({
             headless: true,
             args: [
                 '--no-sandbox',
@@ -139,7 +139,7 @@ class ForumScraper {
 
     populateForumPostings = async (hrefs = [...this.hrefs]) => {
         let forumUsers = [];
-        await Promise.all(hrefs.splice(-5).map(href => {
+        await Promise.all(hrefs.splice(-25).map(href => {
             return new Promise(async resolve => {
                 let playerForum = await this.context.newPage();
                 try {
@@ -161,15 +161,19 @@ class ForumScraper {
 
                     if (listedChars.length > 0) {
                         let forumUser = this.forumUsers.find(user => user.forumName === forumName.username);
-
+                        const shouldPush = forumUser ? true : false;
                         if (!forumUser) {
                             forumUser = this.forumUsers[this.forumUsers.push(new ForumUser(forumName.username)) - 1];
                             forumUser.forumPosting = href;
                             forumUser.forumLink = forumName.profile;
                         }
-
+                        forumUser.listedChars = [];
+                        forumUser.itemsToSearch = [];
                         forumUser.listedChars.push(...listedChars);
-                        forumUsers.push(forumUser);
+
+                        if (shouldPush) {
+                            forumUsers.push(forumUser);
+                        }
                     }
                     await playerForum.close();
                     resolve();
@@ -180,9 +184,7 @@ class ForumScraper {
             });
         }));
         this.populateItemsPerForumPost(forumUsers);
-        console.log('waiting 5s');
         await new Promise(resolve => setTimeout(() => { resolve(); }, 15000));
-        console.log('finished waiting');
         this.populateForumPostings(hrefs);
     };
 
@@ -214,7 +216,7 @@ class ForumScraper {
                                         return {
                                             baseItem: baseItem ? baseItem.innerText : '',
                                             location: location ? location.innerText : '',
-                                            imgSrc: imgHref,
+                                            imgSrc: `mxl.trade.pertinate.info/public/img/${imgHref.split('/').pop()}`,
                                             itemSpans: itemSpans.reduce((acc, next) => {//
                                                 if (typeof next === 'string') {
                                                     acc.push(next);

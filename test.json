@@ -1,0 +1,21 @@
+{
+    "uniques": [
+        {
+            "name": "Hexward",
+            "affixRolls": [
+                {
+                    "rollLine": "+#0% Enhanced Defense",
+                    "minRoll": 140,
+                    "maxRoll": 200
+                },
+                {
+                    "rollLine": "#0% to Dexterity",
+                    "minRoll": 20,
+                    "maxRoll": 30
+                }
+            ]
+        }
+    ],
+    "rare": [],
+    "charms": []
+}

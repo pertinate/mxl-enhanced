@@ -1,9 +1,21 @@
 @import '~antd/dist/antd.css';
 
+@font-face {
+    font-family: 'Diablo';
+    src: local('Diablo'), url('./fonts/DiabloHeavy.ttf') format('truetype');
+}
+
 body {
     background-color: black;
 }
 
 #root {
     height: 100%;
+}
+
+.diablo-font {
+    font-family: 'Diablo';
+}
+h1 {
+    font-family: 'Diablo';
 }

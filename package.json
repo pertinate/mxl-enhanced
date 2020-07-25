@@ -9,7 +9,7 @@
     "build": "npm run clean && tsc",
     "build:watch": "npm run clean && npm run watch && nodemon ./dist/index.js",
     "dev": "concurrently \"npm run build:watch\" \"npm run --prefix client start\"",
-    "watch": "tsc -w",
+    "watch": "ts-node-dev --respawn src/index.js",
     "clean": "rimraf dist/",
     "publish:patch": "tsc && npm version patch --no-git-tag-version && npm publish",
     "publish:minor": "tsc && npm version minor --no-git-tag-version && npm publish",
@@ -48,7 +48,7 @@
     "playwright-webkit": "^1.2.1",
     "rimraf": "^3.0.2",
     "ts-node": "^8.10.2",
-    "ts-node-dev": "^1.0.0-pre.51",
+    "ts-node-dev": "^1.0.0-pre.56",
     "typescript": "^3.9.6"
   },
   "dependencies": {

@@ -1,0 +1,1303 @@
+[
+    {
+        "name": "#% Movement Speed",
+        "min": "40"
+    },
+    {
+        "name": "30% Hit Recovery"
+    },
+    {
+        "name": "+#% Enhanced Defense",
+        "min": "100",
+        "max": "150"
+    },
+    {
+        "name": "#% to Strength",
+        "min": "11",
+        "max": "15"
+    },
+    {
+        "name": "#% to Dexterity",
+        "min": "11",
+        "max": "15"
+    },
+    {
+        "name": "Cold Resist +#%",
+        "min": "31",
+        "max": "50"
+    },
+    {
+        "name": "#% Magic Find",
+        "min": "11",
+        "max": "13"
+    },
+    {
+        "name": "Requirements -33%"
+    },
+    {
+        "name": "Fire Resist +#%",
+        "min": "31",
+        "max": "50"
+    },
+    {
+        "name": "#% Gold Find",
+        "min": "13",
+        "max": "19"
+    },
+    {
+        "name": "15% Hit Recovery"
+    },
+    {
+        "name": "Adds 13-25 damage"
+    },
+    {
+        "name": "#% Life stolen per Hit",
+        "min": "3",
+        "max": "6"
+    },
+    {
+        "name": "Lightning Resist +#%",
+        "min": "31",
+        "max": "50"
+    },
+    {
+        "name": "5% Chance to cast level 1 Arrow on Striking"
+    },
+    {
+        "name": "+#% Enhanced Damage",
+        "min": "100",
+        "max": "150"
+    },
+    {
+        "name": "Adds 25-50 damage"
+    },
+    {
+        "name": "+300 to Maximum Fire Damage"
+    },
+    {
+        "name": "+300 to Maximum Lightning Damage"
+    },
+    {
+        "name": "+300 to Maximum Cold Damage"
+    },
+    {
+        "name": "2% Chance to cast level 6 Celerity on Kill"
+    },
+    {
+        "name": "20% Hit Recovery"
+    },
+    {
+        "name": "+# to Strength",
+        "min": "31",
+        "max": "50"
+    },
+    {
+        "name": "Total Character Defense #%",
+        "min": "11",
+        "max": "15"
+    },
+    {
+        "name": "+1 to Amazon Skill Levels"
+    },
+    {
+        "name": "15% Attack Speed"
+    },
+    {
+        "name": "+# to Dexterity",
+        "min": "31",
+        "max": "50"
+    },
+    {
+        "name": "Physical Resist 5%"
+    },
+    {
+        "name": "Adds 25-38 damage"
+    },
+    {
+        "name": "#% to Vitality",
+        "min": "21",
+        "max": "25"
+    },
+    {
+        "name": "+350 Defense"
+    },
+    {
+        "name": "Elemental Resists +#%",
+        "min": "21",
+        "max": "25"
+    },
+    {
+        "name": "255 to 335"
+    },
+    {
+        "name": "1% Chance to cast level 13 Gift of the Wild on Melee Attack"
+    },
+    {
+        "name": "1% Chance to cast level 4 Sacred Armor on Melee Attack"
+    },
+    {
+        "name": "+200% Enhanced Damage"
+    },
+    {
+        "name": "Adds 75-125 damage"
+    },
+    {
+        "name": "Total Character Defense 50%"
+    },
+    {
+        "name": "+# to Maximum Damage",
+        "min": "13",
+        "max": "25"
+    },
+    {
+        "name": "-#% to Enemy Poison Resistance",
+        "min": "10",
+        "max": "15"
+    },
+    {
+        "name": "25% Block Speed"
+    },
+    {
+        "name": "5% Chance of Crushing Blow"
+    },
+    {
+        "name": "Attacker Flees after Striking #%",
+        "min": "3",
+        "max": "5"
+    },
+    {
+        "name": "40% Block Speed"
+    },
+    {
+        "name": "#% Mana stolen per Hit",
+        "min": "16",
+        "max": "20"
+    },
+    {
+        "name": "-#% to Enemy Fire Resistance",
+        "min": "6",
+        "max": "12"
+    },
+    {
+        "name": "Requirements -50%"
+    },
+    {
+        "name": "40% Attack Speed"
+    },
+    {
+        "name": "245"
+    },
+    {
+        "name": "20% Block Speed"
+    },
+    {
+        "name": "+#% to Summoned Minion Life",
+        "min": "11",
+        "max": "15"
+    },
+    {
+        "name": "+#% to Summoned Minion Resistances",
+        "min": "11",
+        "max": "15"
+    },
+    {
+        "name": "+# Life after each Kill",
+        "min": "21",
+        "max": "40"
+    },
+    {
+        "name": "25% Hit Recovery"
+    },
+    {
+        "name": "+#% to Fire Spell Damage",
+        "min": "6",
+        "max": "8"
+    },
+    {
+        "name": "+#% to Summoned Minion Damage",
+        "min": "31",
+        "max": "40"
+    },
+    {
+        "name": "+# Mana after each Kill",
+        "min": "31",
+        "max": "40"
+    },
+    {
+        "name": "+# to Amazon Skill Levels",
+        "min": "1",
+        "max": "2"
+    },
+    {
+        "name": "30% Cast Speed"
+    },
+    {
+        "name": "+# to Elemental Totem",
+        "min": "7",
+        "max": "10"
+    },
+    {
+        "name": "+# Energy Factor to Spell Damage",
+        "min": "81",
+        "max": "100"
+    },
+    {
+        "name": "40% Cast Speed"
+    },
+    {
+        "name": "+50% Damage to Undead"
+    },
+    {
+        "name": "+#% to Physical/Magic Spell Damage",
+        "min": "16",
+        "max": "20"
+    },
+    {
+        "name": "#% Attack Speed",
+        "min": "21",
+        "max": "25"
+    },
+    {
+        "name": "Enhanced Weapon Damage +#%",
+        "min": "51",
+        "max": "60"
+    },
+    {
+        "name": "+100 to Dexterity"
+    },
+    {
+        "name": "15% Chance to cast level 1 Charged Bolt when Struck"
+    },
+    {
+        "name": "#% Base Block Chance",
+        "min": "1"
+    },
+    {
+        "name": "Adds 1-150 lightning damage"
+    },
+    {
+        "name": "+#% to Lightning Spell Damage",
+        "min": "21",
+        "max": "25"
+    },
+    {
+        "name": "Physical Resist #%",
+        "min": "11",
+        "max": "15"
+    },
+    {
+        "name": "+# to Stormeye Totem",
+        "min": "18",
+        "max": "25"
+    },
+    {
+        "name": "#% to Energy",
+        "min": "26",
+        "max": "30"
+    },
+    {
+        "name": "+1000 Defense"
+    },
+    {
+        "name": "+# to Life",
+        "min": "101",
+        "max": "200"
+    },
+    {
+        "name": "Requirements -25%"
+    },
+    {
+        "name": "5% Chance to cast level 50 Supernova on Kill"
+    },
+    {
+        "name": "Adds 63-125 damage"
+    },
+    {
+        "name": "+50 Life after each Kill"
+    },
+    {
+        "name": "+# to All Skills",
+        "min": "1",
+        "max": "3"
+    },
+    {
+        "name": "50% Block Speed"
+    },
+    {
+        "name": "-#% to Enemy Lightning Resistance",
+        "min": "11",
+        "max": "20"
+    },
+    {
+        "name": "+1 to Assassin Skill Levels"
+    },
+    {
+        "name": "+450 Defense"
+    },
+    {
+        "name": "Requirements -40%"
+    },
+    {
+        "name": "5% Chance to cast level 46 Lorenado on Melee Attack"
+    },
+    {
+        "name": "3% Chance of Crushing Blow"
+    },
+    {
+        "name": "+# to Vitality",
+        "min": "31",
+        "max": "40"
+    },
+    {
+        "name": "+# to Assassin Skill Levels",
+        "min": "3",
+        "max": "5"
+    },
+    {
+        "name": "Stun Attack"
+    },
+    {
+        "name": "5% Deadly Strike"
+    },
+    {
+        "name": "20% Cast Speed"
+    },
+    {
+        "name": "+4 to Assassin Skill Levels"
+    },
+    {
+        "name": "+50 to Strength"
+    },
+    {
+        "name": "Adds 375-500 lightning damage"
+    },
+    {
+        "name": "+# to Energy",
+        "min": "31",
+        "max": "50"
+    },
+    {
+        "name": "+100 to Energy"
+    },
+    {
+        "name": "Maximum Mana #%",
+        "min": "11",
+        "max": "15"
+    },
+    {
+        "name": "5%"
+    },
+    {
+        "name": "#% Block Speed",
+        "min": "31",
+        "max": "40"
+    },
+    {
+        "name": "1% Base Block Chance"
+    },
+    {
+        "name": "+2000 Defense"
+    },
+    {
+        "name": "+200 to Energy"
+    },
+    {
+        "name": "#% Cast Speed",
+        "min": "21",
+        "max": "30"
+    },
+    {
+        "name": "+# to Doom (Assassin Only)",
+        "min": "9",
+        "max": "16"
+    },
+    {
+        "name": "Adds 38-75 lightning damage"
+    },
+    {
+        "name": "20% Attack Speed"
+    },
+    {
+        "name": "Adds 38-75 magic damage"
+    },
+    {
+        "name": "Adds 13-19 damage"
+    },
+    {
+        "name": "Adds 38-75 fire damage"
+    },
+    {
+        "name": "#% Reanimate as: Black Cat",
+        "min": "3",
+        "max": "4"
+    },
+    {
+        "name": "13% Chance to cast level 6 Knife Throw on Striking"
+    },
+    {
+        "name": "Adds 38-75 damage"
+    },
+    {
+        "name": "10% to Strength"
+    },
+    {
+        "name": "10% to Dexterity"
+    },
+    {
+        "name": "Maximum Elemental Resists +2%"
+    },
+    {
+        "name": "+2 to Assassin Skill Levels"
+    },
+    {
+        "name": "+200% Enhanced Defense"
+    },
+    {
+        "name": "+200 Life Regenerated per Second"
+    },
+    {
+        "name": "Maximum Mana 10%"
+    },
+    {
+        "name": "Adds 500-1000 lightning damage"
+    },
+    {
+        "name": "-20% to Enemy Lightning Resistance"
+    },
+    {
+        "name": "+50 Mana on Attack"
+    },
+    {
+        "name": "+100 Life after each Kill"
+    },
+    {
+        "name": "Adds 250-500 fire damage"
+    },
+    {
+        "name": "Adds 250-500 lightning damage"
+    },
+    {
+        "name": "15% Cast Speed"
+    },
+    {
+        "name": "+# Defense",
+        "min": "1001",
+        "max": "1500"
+    },
+    {
+        "name": "+# to all Attributes",
+        "min": "11",
+        "max": "40"
+    },
+    {
+        "name": "+1 to Barbarian Skill Levels"
+    },
+    {
+        "name": "-#% to Enemy Cold Resistance",
+        "min": "11",
+        "max": "15"
+    },
+    {
+        "name": "+# to Blood Hatred (Barbarian Only)",
+        "min": "3",
+        "max": "7"
+    },
+    {
+        "name": "Requirements -100%"
+    },
+    {
+        "name": "+# to Barbarian Skill Levels",
+        "min": "1"
+    },
+    {
+        "name": "+13 to Maximum Damage"
+    },
+    {
+        "name": "#% Bonus to Attack Rating",
+        "min": "51",
+        "max": "75"
+    },
+    {
+        "name": "3% Chance to cast level 31 Glacial Nova on Kill"
+    },
+    {
+        "name": "+75 to Maximum Damage"
+    },
+    {
+        "name": "Adds 250-375 cold damage"
+    },
+    {
+        "name": "+100 to Life"
+    },
+    {
+        "name": "3% Chance to cast level 29 Glacial Nova on Kill"
+    },
+    {
+        "name": "25% Attack Speed"
+    },
+    {
+        "name": "Adds 100-150 damage"
+    },
+    {
+        "name": "-100 to Life"
+    },
+    {
+        "name": "+15 Maximum Stamina"
+    },
+    {
+        "name": "+2 to Barbarian Skill Levels"
+    },
+    {
+        "name": "10% Movement Speed"
+    },
+    {
+        "name": "5% Life stolen per Hit"
+    },
+    {
+        "name": "Elemental/Magic Damage Reduced by #",
+        "min": "31",
+        "max": "50"
+    },
+    {
+        "name": "+500 Defense"
+    },
+    {
+        "name": "5% Chance to Avoid Damage"
+    },
+    {
+        "name": "3% Chance to cast level 25 Screaming Eagle on Striking"
+    },
+    {
+        "name": "Adds 40-100 damage"
+    },
+    {
+        "name": "Slow Target 15%"
+    },
+    {
+        "name": "+#% to Summoned Minion Attack Rating",
+        "min": "31",
+        "max": "50"
+    },
+    {
+        "name": "+1 to Maximum Barbarian Minions"
+    },
+    {
+        "name": "Poison Resist +#%",
+        "min": "41",
+        "max": "50"
+    },
+    {
+        "name": "+3 to Barbarian Skill Levels"
+    },
+    {
+        "name": "+2% to Runemaster Defense Bonus"
+    },
+    {
+        "name": "Maximum Mana 15%"
+    },
+    {
+        "name": "Regenerate Mana +#%",
+        "min": "31",
+        "max": "50"
+    },
+    {
+        "name": "+2 to All Skills when using an Apple"
+    },
+    {
+        "name": "60% Block Speed"
+    },
+    {
+        "name": "Adds 63-100 damage"
+    },
+    {
+        "name": "Attacker Takes Cold Damage of 500"
+    },
+    {
+        "name": "10% Chance to cast level 35 Frigid Sphere on Melee Attack"
+    },
+    {
+        "name": "Adds 50-100 damage"
+    },
+    {
+        "name": "Adds 375-625 cold damage"
+    },
+    {
+        "name": "15% Chance to cast level 35 Cataclysm on Melee Attack"
+    },
+    {
+        "name": "Adds 50-125 damage"
+    },
+    {
+        "name": "Adds 400-700 fire damage"
+    },
+    {
+        "name": "+333 to Mana"
+    },
+    {
+        "name": "+# Life on Attack",
+        "min": "31",
+        "max": "40"
+    },
+    {
+        "name": "+# Mana on Attack",
+        "min": "31",
+        "max": "40"
+    },
+    {
+        "name": "Slows Attacker by 5%"
+    },
+    {
+        "name": "-15% Penalty to Summoned Minion Life"
+    },
+    {
+        "name": "+333 to Life"
+    },
+    {
+        "name": "Slows Attacker by #%",
+        "min": "11",
+        "max": "15"
+    },
+    {
+        "name": "25% Chance to cast level 43 Forked Lightning on Melee Attack"
+    },
+    {
+        "name": "2% Chance to cast level 13 Bloodlust on Melee Attack"
+    },
+    {
+        "name": "+150% Damage to Demons"
+    },
+    {
+        "name": "Adds 1-375 lightning damage"
+    },
+    {
+        "name": "-10% to Enemy Cold Resistance"
+    },
+    {
+        "name": "Requirements -20%"
+    },
+    {
+        "name": "+#% to Cold Spell Damage",
+        "min": "6",
+        "max": "10"
+    },
+    {
+        "name": "Attacker Takes Fire Damage of 150"
+    },
+    {
+        "name": "+# to Druid Skill Levels",
+        "min": "8",
+        "max": "10"
+    },
+    {
+        "name": "50% Cast Speed"
+    },
+    {
+        "name": "+66 to Energy"
+    },
+    {
+        "name": "Physical Damage Reduced by #",
+        "min": "51",
+        "max": "60"
+    },
+    {
+        "name": "+2 to Druid Skill Levels"
+    },
+    {
+        "name": "Adds 25-125 cold damage"
+    },
+    {
+        "name": "Maximum Life 15%"
+    },
+    {
+        "name": "Adds 25-125 lightning damage"
+    },
+    {
+        "name": "40% Hit Recovery"
+    },
+    {
+        "name": "Adds 25-125 fire damage"
+    },
+    {
+        "name": "Adds 38-50 damage"
+    },
+    {
+        "name": "Adds 100-150 fire damage"
+    },
+    {
+        "name": "Adds 100-150 lightning damage"
+    },
+    {
+        "name": "Adds 100-150 cold damage"
+    },
+    {
+        "name": "Poison Length Reduced by 50%"
+    },
+    {
+        "name": "+1 to Druid Skill Levels"
+    },
+    {
+        "name": "Adds 7-13 damage"
+    },
+    {
+        "name": "+20 Life Regenerated per Second"
+    },
+    {
+        "name": "+8% Bonus Elemental Damage to Mark of the Wild"
+    },
+    {
+        "name": "2% Chance to cast level 20 Bolt on Striking"
+    },
+    {
+        "name": "50% Attack Speed"
+    },
+    {
+        "name": "Adds 50-150 damage"
+    },
+    {
+        "name": "#% Chance of Crushing Blow",
+        "min": "6",
+        "max": "10"
+    },
+    {
+        "name": "5% Chance to cast level 3 Bladestorm on Melee Attack"
+    },
+    {
+        "name": "+50 to Maximum Damage"
+    },
+    {
+        "name": "Requirements +100%"
+    },
+    {
+        "name": "5% Chance to cast level 5 Time Strike on Striking"
+    },
+    {
+        "name": "10% Chance to cast level 3 Bladestorm on Melee Attack"
+    },
+    {
+        "name": "+1 Life on Striking"
+    },
+    {
+        "name": "Maximum Life 10%"
+    },
+    {
+        "name": "Additional Strength Damage Bonus: 0.0625%"
+    },
+    {
+        "name": "+150 to Maximum Damage"
+    },
+    {
+        "name": "+250 fire damage"
+    },
+    {
+        "name": "+250 cold damage"
+    },
+    {
+        "name": "+#% to Poison Spell Damage",
+        "min": "21",
+        "max": "25"
+    },
+    {
+        "name": "-10% to Enemy Poison Resistance"
+    },
+    {
+        "name": "Maximum Life #%",
+        "min": "6",
+        "max": "10"
+    },
+    {
+        "name": "+# to Graveyard (Necromancer Only)",
+        "min": "9",
+        "max": "16"
+    },
+    {
+        "name": "Physical Resist 10%"
+    },
+    {
+        "name": "+# to Necromancer Skill Levels",
+        "min": "3"
+    },
+    {
+        "name": "Requirements -#%",
+        "min": "40",
+        "max": "50"
+    },
+    {
+        "name": "+2 to Necromancer Skill Levels"
+    },
+    {
+        "name": "+100 to Strength"
+    },
+    {
+        "name": "+1 to Necromancer Skill Levels"
+    },
+    {
+        "name": "25% Cast Speed"
+    },
+    {
+        "name": "10% to All Attributes"
+    },
+    {
+        "name": "+40 to Strength"
+    },
+    {
+        "name": "+40 to Energy"
+    },
+    {
+        "name": "Maximum Mana 20%"
+    },
+    {
+        "name": "Requirements -45%"
+    },
+    {
+        "name": "+# to Maximum Necromancer Minions",
+        "min": "1"
+    },
+    {
+        "name": "+500 to Mana"
+    },
+    {
+        "name": "+2 to Light Radius"
+    },
+    {
+        "name": "+10 Defense (Based on Character Level)"
+    },
+    {
+        "name": "Attacker Flees after Striking 5%"
+    },
+    {
+        "name": "10% Hit Recovery"
+    },
+    {
+        "name": "3% Reanimate as: Imp"
+    },
+    {
+        "name": "+12 to Nova Shot"
+    },
+    {
+        "name": "Slow Target #%",
+        "min": "21",
+        "max": "25"
+    },
+    {
+        "name": "+10 Life on Striking"
+    },
+    {
+        "name": "25% Chance to cast level 9 Guard Tower on Kill"
+    },
+    {
+        "name": "Adds 63-88 damage"
+    },
+    {
+        "name": "+25% to Summoned Minion Resistances"
+    },
+    {
+        "name": "+666 Defense"
+    },
+    {
+        "name": "Elemental Resists +35%"
+    },
+    {
+        "name": "50% Hit Recovery"
+    },
+    {
+        "name": "-20% to Enemy Fire Resistance"
+    },
+    {
+        "name": "-20% to Enemy Cold Resistance"
+    },
+    {
+        "name": "+#% to Spell Damage",
+        "min": "10",
+        "max": "15"
+    },
+    {
+        "name": "15% Life stolen per Hit"
+    },
+    {
+        "name": "+# to Paladin Skill Levels",
+        "min": "1"
+    },
+    {
+        "name": "+75 magic damage"
+    },
+    {
+        "name": "-200 Defense"
+    },
+    {
+        "name": "+15% Damage to Vessel of Justice"
+    },
+    {
+        "name": "+15% Damage to Vessel of Retribution"
+    },
+    {
+        "name": "+# to Sacred Armor",
+        "min": "3",
+        "max": "7"
+    },
+    {
+        "name": "+# to Demiurge",
+        "min": "3",
+        "max": "7"
+    },
+    {
+        "name": "Requirements +50%"
+    },
+    {
+        "name": "Adds 50-75 cold damage"
+    },
+    {
+        "name": "Enhanced Weapon Damage +15%"
+    },
+    {
+        "name": "Requirements +25%"
+    },
+    {
+        "name": "+1 to Paladin Skill Levels"
+    },
+    {
+        "name": "15% Block Speed"
+    },
+    {
+        "name": "#% to All Attributes",
+        "min": "15",
+        "max": "20"
+    },
+    {
+        "name": "2% Reanimate as: Night Clan"
+    },
+    {
+        "name": "5% Chance to cast level 34 Lava Pit on Melee Attack"
+    },
+    {
+        "name": "Adds 63-125 magic damage"
+    },
+    {
+        "name": "8% Chance to cast level 44 Immolation Bomb on Melee Attack"
+    },
+    {
+        "name": "75% Attack Speed"
+    },
+    {
+        "name": "10% Block Speed"
+    },
+    {
+        "name": "+# to Mana",
+        "min": "101",
+        "max": "500"
+    },
+    {
+        "name": "+# to Sorceress Skill Levels",
+        "min": "1",
+        "max": "2"
+    },
+    {
+        "name": "+300 Defense"
+    },
+    {
+        "name": "+150 Mana when Struck by an Enemy"
+    },
+    {
+        "name": "+2 to Sorceress Skill Levels"
+    },
+    {
+        "name": "0.375% to Cold Spell Damage (Based on Character Level)"
+    },
+    {
+        "name": "Freezes attacker +2"
+    },
+    {
+        "name": "Cold Absorb 5%"
+    },
+    {
+        "name": "1% Chance to cast level 12 Rune of Ice when Struck"
+    },
+    {
+        "name": "+315 to Mana"
+    },
+    {
+        "name": "Maximum Cold Resist +2%"
+    },
+    {
+        "name": "+20% to Lightning Spell Damage"
+    },
+    {
+        "name": "-10% to Enemy Lightning Resistance"
+    },
+    {
+        "name": "10% Chance to Avoid Damage"
+    },
+    {
+        "name": "Requirements -15%"
+    },
+    {
+        "name": "+1 to Sorceress Skill Levels"
+    },
+    {
+        "name": "+50 to Dexterity"
+    },
+    {
+        "name": "+50 to Energy"
+    },
+    {
+        "name": "+2 to Pagan Rites"
+    },
+    {
+        "name": "+500 to Life"
+    },
+    {
+        "name": "Fire Absorb 5%"
+    },
+    {
+        "name": "+150 to Energy"
+    },
+    {
+        "name": "#% Reanimate as: Fire Drake",
+        "min": "3",
+        "max": "4"
+    },
+    {
+        "name": "Increase Maximum Life and Mana #%",
+        "min": "11",
+        "max": "15"
+    },
+    {
+        "name": "+3 to Sorceress Skill Levels"
+    },
+    {
+        "name": "10% Chance to cast level 25 Spike Nova when Attacked"
+    },
+    {
+        "name": "35% Block Speed"
+    },
+    {
+        "name": "#% Bonus to Miasma Haunt Duration",
+        "min": "101",
+        "max": "150"
+    },
+    {
+        "name": "1% Chance to cast level 25 Sanguine Covenant on Melee Attack"
+    },
+    {
+        "name": "+100 Life Regenerated per Second"
+    },
+    {
+        "name": "+#% Bonus to Poison Skill Duration",
+        "min": "31",
+        "max": "40"
+    },
+    {
+        "name": "+# Life when Struck by an Enemy",
+        "min": "41",
+        "max": "50"
+    },
+    {
+        "name": "-5% to All Vendor Prices"
+    },
+    {
+        "name": "+15 to Mana (Based on Character Level)"
+    },
+    {
+        "name": "Elemental Resists -10%"
+    },
+    {
+        "name": "-50 Life Regenerated per Second"
+    },
+    {
+        "name": "-4 to Light Radius"
+    },
+    {
+        "name": "Hive Duration Reduced to 30 Seconds"
+    },
+    {
+        "name": "-20% Gold Find"
+    },
+    {
+        "name": "#% Hit Recovery",
+        "min": "31",
+        "max": "50"
+    },
+    {
+        "name": "20% Chance to cast level 9 Arrow on Striking"
+    },
+    {
+        "name": "2% Reanimate as: Simian Rex"
+    },
+    {
+        "name": "2% Reanimate as: Hellion"
+    },
+    {
+        "name": "Target Takes Additional Damage of #",
+        "min": "201",
+        "max": "250"
+    },
+    {
+        "name": "+2 to All Skills"
+    },
+    {
+        "name": "Adds 150-200 fire damage"
+    },
+    {
+        "name": "Adds 150-200 lightning damage"
+    },
+    {
+        "name": "Adds 150-200 cold damage"
+    },
+    {
+        "name": "-#% to Enemy Elemental Resistances",
+        "min": "14",
+        "max": "15"
+    },
+    {
+        "name": "2% Chance to cast level 37 Powder Keg on Kill"
+    },
+    {
+        "name": "2% Chance to cast level 37 Lightning Wall on Kill"
+    },
+    {
+        "name": "25% Movement Speed"
+    },
+    {
+        "name": "-2% Base Block Chance"
+    },
+    {
+        "name": "+#% Bonus to Summoned Edyrem Life",
+        "min": "51",
+        "max": "100"
+    },
+    {
+        "name": "Adds 30-50 damage"
+    },
+    {
+        "name": "25% Combat Speeds"
+    },
+    {
+        "name": "#% Reanimate as: Edyrem of Destruction",
+        "min": "2",
+        "max": "5"
+    },
+    {
+        "name": "2% Chance to cast level 12 Nightmare when Struck"
+    },
+    {
+        "name": "10% Attack Speed"
+    },
+    {
+        "name": "+25% to Fire Spell Damage"
+    },
+    {
+        "name": "+22 to Rising Dawn"
+    },
+    {
+        "name": "10% to Energy"
+    },
+    {
+        "name": "Maximum Fire Resist +2%"
+    },
+    {
+        "name": "2% Chance to cast level 13 Psionic Scream on Kill"
+    },
+    {
+        "name": "+1 to All Skills"
+    },
+    {
+        "name": "Adds 3-5 damage"
+    },
+    {
+        "name": "50% Bonus to Attack Rating"
+    },
+    {
+        "name": "+18 to Wolf Companion"
+    },
+    {
+        "name": "+20 Life after each Kill"
+    },
+    {
+        "name": "Fire Resist +50%"
+    },
+    {
+        "name": "Level 5 Patriot Sentry #",
+        "min": "20/20"
+    },
+    {
+        "name": "1608 to 1830"
+    },
+    {
+        "name": "1% Chance to cast level 37 Fire Fountain on Death Blow"
+    },
+    {
+        "name": "-15% to Enemy Fire Resistance"
+    },
+    {
+        "name": "+# to Pyroblast",
+        "min": "23",
+        "max": "31"
+    },
+    {
+        "name": "+5 Fire Absorb"
+    },
+    {
+        "name": "2% Chance to cast level 33 Punisher Bolt on Striking"
+    },
+    {
+        "name": "30% Attack Speed"
+    },
+    {
+        "name": "50% Combat Speeds"
+    },
+    {
+        "name": "4437 to 4914"
+    },
+    {
+        "name": "15% to Strength"
+    },
+    {
+        "name": "+25% to Lightning Spell Damage"
+    },
+    {
+        "name": "-15% to Enemy Lightning Resistance"
+    },
+    {
+        "name": "15% to Vitality"
+    },
+    {
+        "name": "+50 to Vitality"
+    },
+    {
+        "name": "Maximum Lightning Resist +2%"
+    },
+    {
+        "name": "+25% to Cold Spell Damage"
+    },
+    {
+        "name": "-15% to Enemy Cold Resistance"
+    },
+    {
+        "name": "15% to Dexterity"
+    },
+    {
+        "name": "+25% to Poison Spell Damage"
+    },
+    {
+        "name": "-15% to Enemy Poison Resistance"
+    },
+    {
+        "name": "15% to Energy"
+    },
+    {
+        "name": "Maximum Poison Resist +2%"
+    },
+    {
+        "name": "+3333 Defense"
+    },
+    {
+        "name": "Magic Resist +#%",
+        "min": "2",
+        "max": "5"
+    },
+    {
+        "name": "-1% Base Block Chance"
+    },
+    {
+        "name": "Increase Maximum Life and Mana 10%"
+    }
+]

@@ -2,6 +2,7 @@ import ForumScraper from './ForumScraper';
 import express from 'express';
 import cors from 'cors';
 import path from 'path';
+import fs from 'fs';
 
 import routes from './express/route';
 
@@ -19,61 +20,55 @@ app.listen(8080, () => {
 });
 
 app.use(cors());
-interface CharObj {
-    forumLink: string;
-    forumName: string;
-    forumPosting: string;
-    tswCharName: string;//
-    items: {
-        baseItem?: string;
-        location?: string;
-        itemSpans?: string[];
-    }[];
-}
-
-app.use(
-    '/public/',
-    express.static(path.resolve('./client/public'))
-);
-
-app.use(
-    '/static/',
-    express.static(path.resolve('./client/build/static'))
-);
 
 app.use(routes);
 
-app.get('/', (request, response) => response.sendFile(path.resolve('./client/build/index.html')));
+// import json from './JSON/uniques.json';
+// console.log(json.length);
 
-app.get('/test', (request, response) => {
-    let queries = Array.isArray(request.query.searchParam) ? request.query.searchParam : [request.query.searchParam];
-    let baseItem = request.query.baseItem;
-    // console.log('incoming request');
-    let chars: Array<CharObj> = [];
-    ForumScraper.forumUsers.forEach(forumUser => {
-        forumUser.itemsToSearch.forEach(item => {
-            let tswCharName = item.charName.split(' (')[0];
-            let tswChar = {
-                forumLink: forumUser.forumLink,
-                forumName: forumUser.forumName,
-                forumPosting: forumUser.forumPosting,
-                tswCharName,
-                items: item.data.filter(val => val !== "")
-            };
-            chars.push(tswChar);
-        });
-    });
-    let itemList = chars.map(char => {
-        return char.items.map(item => {
-            return {
-                ...item,
-                forumLink: char.forumLink,
-                forumName: char.forumName,
-                forumPosting: char.forumPosting,
-                tswCharName: char.tswCharName,
-            };
-        });
-    }).flat(1).filter(val => val.baseItem !== "");
-    // console.log('sending response', ForumScraper.forumUsers.length, itemList, queries);
-    response.send(itemList.filter(item => queries.some(query => item.itemSpans.find(span => span.toLowerCase().includes(query.toString().toLowerCase()))) && (baseItem ? item.baseItem.split(' (')[0].toLowerCase() === baseItem.toString().toLowerCase() : true)));
-});
+// let test = json.filter((value, index) => json.findIndex(val => val.name === value.name) === index);
+// console.log(test.length);
+// fs.writeFileSync('E:\\Pertinate\\Documents\\GitHub\\mxl-enhanced\\src\\JSON\\uniques.json', JSON.stringify(test));
+
+//https://docs.median-xl.com/doc/items/sacreduniques
+// import playwright from 'playwright';
+
+// (
+//     async () => {
+//         const browser = await playwright['firefox'].launch({
+//             headless: false
+//         });
+//         const context = await browser.newContext();
+//         const page = await context.newPage();
+//         await page.goto('https://docs.median-xl.com/doc/items/tiereduniques');
+//         await page.waitForLoadState('networkidle');
+//         let test = [];
+//         let pageEval = await page.evaluate(() => {
+//             let tables = Array.from(document.querySelectorAll('table'));
+
+//             let modRoll = tables.map(table => {
+//                 let trs = Array.from(table.querySelectorAll('tr'));
+//                 return trs.map(tr =>
+//                     Array.from(tr.querySelectorAll('td')).map(td =>
+//                         Array.from(td.querySelectorAll('span')).filter(span => span.className === 'item-magic').map(span => {
+//                             return span.innerText.split('\n');
+//                         }).filter(val => val.length > 0).flat()).filter(val => val.length > 0)).filter(val => val.length > 0);
+//             });
+//             return modRoll;
+//         });
+//         pageEval.forEach(a => a.forEach(b => b.forEach(c => test.push(c.filter(val => val !== '').map(roll => {
+//             let minMax = /(\([^)]+\))/gm.exec(roll);
+//             let rollName = minMax && minMax.length > 0 && /([0-9]+)/g.test(minMax[0]) || false ? roll.replace(minMax[0], '#') : roll;//.replace(minMax, '#');
+//             let minMaxRolls = minMax && minMax.length > 0 && /([0-9]+)/g.test(minMax[0]) ? minMax[0].replace('(', '').replace(')', '').split(' ').filter(v => parseInt(v)) : '';
+//             return ({
+//                 name: rollName,
+//                 min: minMaxRolls[0],
+//                 max: minMaxRolls[1]
+//             });
+//         })))));
+
+        // fs.writeFileSync('E:\\Pertinate\\Documents\\GitHub\\tiereduniques.json', JSON.stringify(test.flat()));
+
+//         console.log(JSON.stringify(test.flat(), null, '\t'));
+//     }
+// )();

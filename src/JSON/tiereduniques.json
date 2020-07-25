@@ -1,0 +1,8524 @@
+[
+    {
+        "name": "# to 7",
+        "min": "4",
+        "max": "5"
+    },
+    {
+        "name": "+#% Enhanced Damage",
+        "min": "18",
+        "max": "29"
+    },
+    {
+        "name": "#% Life stolen per Hit",
+        "min": "3",
+        "max": "5"
+    },
+    {
+        "name": "-3% to Enemy Poison Resistance"
+    },
+    {
+        "name": "+# to Plague (Paladin Only)",
+        "min": "1",
+        "max": "3"
+    },
+    {
+        "name": "+10 to Strength"
+    },
+    {
+        "name": "Poison Resist +#%",
+        "min": "11",
+        "max": "15"
+    },
+    {
+        "name": "Socketed #",
+        "min": "1"
+    },
+    {
+        "name": "# to (12 - 13)",
+        "min": "12",
+        "max": "13"
+    },
+    {
+        "name": "-6% to Enemy Poison Resistance"
+    },
+    {
+        "name": "+20 to Strength"
+    },
+    {
+        "name": "# to (24 - 26)",
+        "min": "22",
+        "max": "24"
+    },
+    {
+        "name": "-9% to Enemy Poison Resistance"
+    },
+    {
+        "name": "+30 to Strength"
+    },
+    {
+        "name": "# to (33 - 35)",
+        "min": "29",
+        "max": "31"
+    },
+    {
+        "name": "-12% to Enemy Poison Resistance"
+    },
+    {
+        "name": "+40 to Strength"
+    },
+    {
+        "name": "# to (18 - 29)",
+        "min": "6",
+        "max": "7"
+    },
+    {
+        "name": "15% Attack Speed"
+    },
+    {
+        "name": "+# to Maximum Damage",
+        "min": "11",
+        "max": "20"
+    },
+    {
+        "name": "#% Bonus to Attack Rating",
+        "min": "41",
+        "max": "60"
+    },
+    {
+        "name": "Adds #-(11 to 13) fire damage",
+        "min": "6",
+        "max": "10"
+    },
+    {
+        "name": "Slow Target #%",
+        "min": "3",
+        "max": "5"
+    },
+    {
+        "name": "#% to Strength",
+        "min": "3",
+        "max": "5"
+    },
+    {
+        "name": "# to (40 - 51)",
+        "min": "17",
+        "max": "19"
+    },
+    {
+        "name": "25% Attack Speed"
+    },
+    {
+        "name": "Adds #-(31 to 35) fire damage",
+        "min": "16",
+        "max": "20"
+    },
+    {
+        "name": "# to (67 - 79)",
+        "min": "32",
+        "max": "35"
+    },
+    {
+        "name": "35% Attack Speed"
+    },
+    {
+        "name": "Adds #-(86 to 100) fire damage",
+        "min": "46",
+        "max": "55"
+    },
+    {
+        "name": "# to (91 - 105)",
+        "min": "44",
+        "max": "48"
+    },
+    {
+        "name": "50% Attack Speed"
+    },
+    {
+        "name": "Adds #-(261 to 300) fire damage",
+        "min": "121",
+        "max": "160"
+    },
+    {
+        "name": "#% Attack Speed",
+        "min": "31",
+        "max": "35"
+    },
+    {
+        "name": "#% Chance of Crushing Blow",
+        "min": "4",
+        "max": "6"
+    },
+    {
+        "name": "+# Defense vs. Missile",
+        "min": "51",
+        "max": "200"
+    },
+    {
+        "name": "Physical Resist 1%"
+    },
+    {
+        "name": "Total Character Defense 15%"
+    },
+    {
+        "name": "+2% to Experience Gained"
+    },
+    {
+        "name": "30% Attack Speed"
+    },
+    {
+        "name": "Physical Resist 2%"
+    },
+    {
+        "name": "Total Character Defense 30%"
+    },
+    {
+        "name": "+3% to Experience Gained"
+    },
+    {
+        "name": "45% Attack Speed"
+    },
+    {
+        "name": "Physical Resist 3%"
+    },
+    {
+        "name": "Total Character Defense 45%"
+    },
+    {
+        "name": "+4% to Experience Gained"
+    },
+    {
+        "name": "60% Attack Speed"
+    },
+    {
+        "name": "Physical Resist 4%"
+    },
+    {
+        "name": "Total Character Defense 60%"
+    },
+    {
+        "name": "+5% to Experience Gained"
+    },
+    {
+        "name": "# to (11 - 12)",
+        "min": "9",
+        "max": "11"
+    },
+    {
+        "name": "3% Chance to cast level 2 Shower of Rocks on Melee Attack"
+    },
+    {
+        "name": "Adds 10-16 fire damage"
+    },
+    {
+        "name": "Adds 10-16 lightning damage"
+    },
+    {
+        "name": "Adds 10-16 cold damage"
+    },
+    {
+        "name": "Fire Resist +#%",
+        "min": "11",
+        "max": "15"
+    },
+    {
+        "name": "# to (26 - 29)",
+        "min": "22",
+        "max": "24"
+    },
+    {
+        "name": "7% Chance to cast level 6 Shower of Rocks on Melee Attack"
+    },
+    {
+        "name": "Adds 30-50 fire damage"
+    },
+    {
+        "name": "Adds 30-50 lightning damage"
+    },
+    {
+        "name": "Adds 30-50 cold damage"
+    },
+    {
+        "name": "# to (49 - 54)",
+        "min": "42",
+        "max": "45"
+    },
+    {
+        "name": "11% Chance to cast level 10 Shower of Rocks on Melee Attack"
+    },
+    {
+        "name": "Adds 90-150 fire damage"
+    },
+    {
+        "name": "Adds 90-150 lightning damage"
+    },
+    {
+        "name": "Adds 90-150 cold damage"
+    },
+    {
+        "name": "# to (64 - 70)",
+        "min": "54",
+        "max": "58"
+    },
+    {
+        "name": "13% Chance to cast level 12 Shower of Rocks on Melee Attack"
+    },
+    {
+        "name": "Adds 280-440 fire damage"
+    },
+    {
+        "name": "Adds 280-440 lightning damage"
+    },
+    {
+        "name": "Adds 280-440 cold damage"
+    },
+    {
+        "name": "# to (25 - 27)",
+        "min": "12",
+        "max": "14"
+    },
+    {
+        "name": "20% Attack Speed"
+    },
+    {
+        "name": "+10 to Maximum Damage"
+    },
+    {
+        "name": "+# to Vitality",
+        "min": "11",
+        "max": "15"
+    },
+    {
+        "name": "+1 Mana on Striking"
+    },
+    {
+        "name": "+# Life when Struck by an Enemy",
+        "min": "11",
+        "max": "15"
+    },
+    {
+        "name": "#% Gold Find",
+        "min": "4",
+        "max": "7"
+    },
+    {
+        "name": "# to (52 - 56)",
+        "min": "27",
+        "max": "30"
+    },
+    {
+        "name": "+20 to Maximum Damage"
+    },
+    {
+        "name": "# to (88 - 93)",
+        "min": "50",
+        "max": "55"
+    },
+    {
+        "name": "40% Attack Speed"
+    },
+    {
+        "name": "+30 to Maximum Damage"
+    },
+    {
+        "name": "+2 Mana on Striking"
+    },
+    {
+        "name": "# to (120 - 127)",
+        "min": "66",
+        "max": "72"
+    },
+    {
+        "name": "+40 to Maximum Damage"
+    },
+    {
+        "name": "58 to 72"
+    },
+    {
+        "name": "+1 to All Skills"
+    },
+    {
+        "name": "+#% to Physical/Magic Spell Damage",
+        "min": "6",
+        "max": "10"
+    },
+    {
+        "name": "+# to Energy",
+        "min": "11",
+        "max": "20"
+    },
+    {
+        "name": "2% Reanimate as: Dark Templar"
+    },
+    {
+        "name": "-#% Magic Find",
+        "min": "1",
+        "max": "20"
+    },
+    {
+        "name": "Requirements -#%",
+        "min": "1",
+        "max": "20"
+    },
+    {
+        "name": "77 to 97"
+    },
+    {
+        "name": "+# to All Skills",
+        "min": "1",
+        "max": "2"
+    },
+    {
+        "name": "3% Reanimate as: Dark Templar"
+    },
+    {
+        "name": "140 to 181"
+    },
+    {
+        "name": "+2 to All Skills"
+    },
+    {
+        "name": "4% Reanimate as: Dark Templar"
+    },
+    {
+        "name": "256 to 337"
+    },
+    {
+        "name": "+3 to All Skills"
+    },
+    {
+        "name": "5% Reanimate as: Dark Templar"
+    },
+    {
+        "name": "# to (20 - 23)",
+        "min": "17",
+        "max": "19"
+    },
+    {
+        "name": "4% Chance to cast level 3 Spike Nova on Melee Attack"
+    },
+    {
+        "name": "+1 to Paladin Skill Levels"
+    },
+    {
+        "name": "+#% Damage to Demons",
+        "min": "101",
+        "max": "125"
+    },
+    {
+        "name": "+#% Damage to Undead",
+        "min": "101",
+        "max": "125"
+    },
+    {
+        "name": "+# to Strength",
+        "min": "16",
+        "max": "25"
+    },
+    {
+        "name": "+# to Dexterity",
+        "min": "16",
+        "max": "25"
+    },
+    {
+        "name": "Elemental Resists +#%",
+        "min": "11",
+        "max": "15"
+    },
+    {
+        "name": "# to (46 - 50)",
+        "min": "38",
+        "max": "41"
+    },
+    {
+        "name": "5% Chance to cast level 11 Spike Nova on Melee Attack"
+    },
+    {
+        "name": "+# to Paladin Skill Levels",
+        "min": "1",
+        "max": "2"
+    },
+    {
+        "name": "# to (84 - 91)",
+        "min": "72",
+        "max": "78"
+    },
+    {
+        "name": "6% Chance to cast level 19 Spike Nova on Melee Attack"
+    },
+    {
+        "name": "# to (118 - 126)",
+        "min": "98",
+        "max": "105"
+    },
+    {
+        "name": "7% Chance to cast level 23 Spike Nova on Melee Attack"
+    },
+    {
+        "name": "+3 to Paladin Skill Levels"
+    },
+    {
+        "name": "# to (19 - 23)",
+        "min": "8",
+        "max": "9"
+    },
+    {
+        "name": "# to (24 - 29)",
+        "min": "8",
+        "max": "9"
+    },
+    {
+        "name": "+2 to Amazon Skill Levels"
+    },
+    {
+        "name": "+# to Wyrd",
+        "min": "2",
+        "max": "3"
+    },
+    {
+        "name": "# to (35 - 41)",
+        "min": "17",
+        "max": "18"
+    },
+    {
+        "name": "# to (40 - 47)",
+        "min": "24",
+        "max": "27"
+    },
+    {
+        "name": "+3 to Amazon Skill Levels"
+    },
+    {
+        "name": "# to (59 - 66)",
+        "min": "29",
+        "max": "32"
+    },
+    {
+        "name": "# to (72 - 80)",
+        "min": "44",
+        "max": "48"
+    },
+    {
+        "name": "+5 to Amazon Skill Levels"
+    },
+    {
+        "name": "# to (82 - 90)",
+        "min": "39",
+        "max": "42"
+    },
+    {
+        "name": "# to (98 - 107)",
+        "min": "57",
+        "max": "62"
+    },
+    {
+        "name": "+7 to Amazon Skill Levels"
+    },
+    {
+        "name": "# to (13 - 17)",
+        "min": "8",
+        "max": "9"
+    },
+    {
+        "name": "# to (18 - 22)",
+        "min": "12",
+        "max": "14"
+    },
+    {
+        "name": "5% Chance to cast level 4 Spike Nova on Melee Attack"
+    },
+    {
+        "name": "+# Life on Attack",
+        "min": "21",
+        "max": "30"
+    },
+    {
+        "name": "# to (30 - 36)",
+        "min": "20",
+        "max": "22"
+    },
+    {
+        "name": "# to (40 - 48)",
+        "min": "30",
+        "max": "34"
+    },
+    {
+        "name": "10% Chance to cast level 8 Spike Nova on Melee Attack"
+    },
+    {
+        "name": "# to (58 - 70)",
+        "min": "36",
+        "max": "39"
+    },
+    {
+        "name": "# to (80 - 94)",
+        "min": "58",
+        "max": "63"
+    },
+    {
+        "name": "15% Chance to cast level 12 Spike Nova on Melee Attack"
+    },
+    {
+        "name": "# to (89 - 110)",
+        "min": "48",
+        "max": "52"
+    },
+    {
+        "name": "# to (117 - 140)",
+        "min": "83",
+        "max": "90"
+    },
+    {
+        "name": "20% Chance to cast level 14 Spike Nova on Melee Attack"
+    },
+    {
+        "name": "# to (14 - 16)",
+        "min": "12",
+        "max": "14"
+    },
+    {
+        "name": "5% Attack Speed"
+    },
+    {
+        "name": "+# to Iron Spiral",
+        "min": "2",
+        "max": "5"
+    },
+    {
+        "name": "Enhanced Weapon Damage +#%",
+        "min": "16",
+        "max": "25"
+    },
+    {
+        "name": "+# Defense",
+        "min": "21",
+        "max": "50"
+    },
+    {
+        "name": "Maximum Life #%",
+        "min": "3",
+        "max": "5"
+    },
+    {
+        "name": "# to (32 - 35)",
+        "min": "26",
+        "max": "29"
+    },
+    {
+        "name": "# to (57 - 65)",
+        "min": "48",
+        "max": "55"
+    },
+    {
+        "name": "# to (88 - 100)",
+        "min": "83",
+        "max": "95"
+    },
+    {
+        "name": "# to (80 - 93)",
+        "min": "67",
+        "max": "78"
+    },
+    {
+        "name": "# to (125 - 144)",
+        "min": "117",
+        "max": "135"
+    },
+    {
+        "name": "+#% to Cold Spell Damage",
+        "min": "11",
+        "max": "15"
+    },
+    {
+        "name": "-3% to Enemy Cold Resistance"
+    },
+    {
+        "name": "+# to Winter Avatar",
+        "min": "1",
+        "max": "2"
+    },
+    {
+        "name": "#% to Energy",
+        "min": "3",
+        "max": "5"
+    },
+    {
+        "name": "Total Character Defense #%",
+        "min": "3",
+        "max": "5"
+    },
+    {
+        "name": "+2 to Paladin Skill Levels"
+    },
+    {
+        "name": "-6% to Enemy Cold Resistance"
+    },
+    {
+        "name": "-9% to Enemy Cold Resistance"
+    },
+    {
+        "name": "+4 to Paladin Skill Levels"
+    },
+    {
+        "name": "-12% to Enemy Cold Resistance"
+    },
+    {
+        "name": "# to (23 - 30)",
+        "min": "12",
+        "max": "14"
+    },
+    {
+        "name": "# to (32 - 41)",
+        "min": "22",
+        "max": "25"
+    },
+    {
+        "name": "25% Chance to cast level 5 Ice Lance on Melee Attack"
+    },
+    {
+        "name": "Cold Resist +#%",
+        "min": "21",
+        "max": "25"
+    },
+    {
+        "name": "# to (52 - 61)",
+        "min": "28",
+        "max": "32"
+    },
+    {
+        "name": "# to (75 - 87)",
+        "min": "54",
+        "max": "60"
+    },
+    {
+        "name": "35% Chance to cast level 15 Ice Lance on Melee Attack"
+    },
+    {
+        "name": "# to (95 - 106)",
+        "min": "56",
+        "max": "60"
+    },
+    {
+        "name": "# to (136 - 150)",
+        "min": "102",
+        "max": "111"
+    },
+    {
+        "name": "45% Chance to cast level 25 Ice Lance on Melee Attack"
+    },
+    {
+        "name": "# to (118 - 130)",
+        "min": "71",
+        "max": "77"
+    },
+    {
+        "name": "# to (173 - 189)",
+        "min": "132",
+        "max": "143"
+    },
+    {
+        "name": "50% Chance to cast level 30 Ice Lance on Melee Attack"
+    },
+    {
+        "name": "# to (32 - 45)",
+        "min": "14",
+        "max": "16"
+    },
+    {
+        "name": "# to (42 - 56)",
+        "min": "25",
+        "max": "29"
+    },
+    {
+        "name": "15% Hit Recovery"
+    },
+    {
+        "name": "+1% to Experience Gained"
+    },
+    {
+        "name": "# to (70 - 83)",
+        "min": "31",
+        "max": "35"
+    },
+    {
+        "name": "# to (96 - 112)",
+        "min": "60",
+        "max": "67"
+    },
+    {
+        "name": "25% Hit Recovery"
+    },
+    {
+        "name": "# to (123 - 149)",
+        "min": "59",
+        "max": "64"
+    },
+    {
+        "name": "# to (172 - 201)",
+        "min": "114",
+        "max": "123"
+    },
+    {
+        "name": "35% Hit Recovery"
+    },
+    {
+        "name": "# to (166 - 193)",
+        "min": "77",
+        "max": "83"
+    },
+    {
+        "name": "# to (228 - 259)",
+        "min": "148",
+        "max": "160"
+    },
+    {
+        "name": "+4 to All Skills"
+    },
+    {
+        "name": "40% Hit Recovery"
+    },
+    {
+        "name": "+1 to Druid Skill Levels"
+    },
+    {
+        "name": "Adds 12-18 cold damage"
+    },
+    {
+        "name": "Physical Damage Reduced by #",
+        "min": "5",
+        "max": "10"
+    },
+    {
+        "name": "+2 to Druid Skill Levels"
+    },
+    {
+        "name": "30% Hit Recovery"
+    },
+    {
+        "name": "Adds 24-36 cold damage"
+    },
+    {
+        "name": "+3 to Druid Skill Levels"
+    },
+    {
+        "name": "45% Hit Recovery"
+    },
+    {
+        "name": "Adds 72-108 cold damage"
+    },
+    {
+        "name": "+4 to Druid Skill Levels"
+    },
+    {
+        "name": "60% Hit Recovery"
+    },
+    {
+        "name": "Adds 288-432 cold damage"
+    },
+    {
+        "name": "# to (6 - 7)",
+        "min": "4",
+        "max": "5"
+    },
+    {
+        "name": "3% Chance to cast level 2 Banish on Kill"
+    },
+    {
+        "name": "5% Chance of Crushing Blow"
+    },
+    {
+        "name": "+# to Deathgaze",
+        "min": "1",
+        "max": "2"
+    },
+    {
+        "name": "-# to Energy",
+        "min": "1",
+        "max": "10"
+    },
+    {
+        "name": "# to (15 - 18)",
+        "min": "12",
+        "max": "14"
+    },
+    {
+        "name": "5% Chance to cast level 8 Banish on Kill"
+    },
+    {
+        "name": "6% Chance of Crushing Blow"
+    },
+    {
+        "name": "# to (30 - 35)",
+        "min": "24",
+        "max": "28"
+    },
+    {
+        "name": "7% Chance to cast level 14 Banish on Kill"
+    },
+    {
+        "name": "7% Chance of Crushing Blow"
+    },
+    {
+        "name": "# to (46 - 52)",
+        "min": "36",
+        "max": "41"
+    },
+    {
+        "name": "8% Chance to cast level 17 Banish on Kill"
+    },
+    {
+        "name": "8% Chance of Crushing Blow"
+    },
+    {
+        "name": "7 to #",
+        "min": "15",
+        "max": "23"
+    },
+    {
+        "name": "# to (42 - 50)",
+        "min": "15",
+        "max": "16"
+    },
+    {
+        "name": "# to (75 - 85)",
+        "min": "27",
+        "max": "29"
+    },
+    {
+        "name": "+# to Druid Skill Levels",
+        "min": "2",
+        "max": "3"
+    },
+    {
+        "name": "# to (92 - 102)",
+        "min": "36",
+        "max": "39"
+    },
+    {
+        "name": "# to (21 - 30)",
+        "min": "12",
+        "max": "16"
+    },
+    {
+        "name": "1% Chance to cast level 5 Glacial Nova on Melee Attack"
+    },
+    {
+        "name": "10% Hit Recovery"
+    },
+    {
+        "name": "Adds #-(6 to 13) damage",
+        "min": "3",
+        "max": "5"
+    },
+    {
+        "name": "Adds #-(11 to 15) cold damage",
+        "min": "8",
+        "max": "10"
+    },
+    {
+        "name": "# to (55 - 66)",
+        "min": "31",
+        "max": "36"
+    },
+    {
+        "name": "2% Chance to cast level 13 Glacial Nova on Melee Attack"
+    },
+    {
+        "name": "20% Hit Recovery"
+    },
+    {
+        "name": "Adds #-(21 to 28) damage",
+        "min": "8",
+        "max": "10"
+    },
+    {
+        "name": "Adds #-(31 to 60) cold damage",
+        "min": "21",
+        "max": "40"
+    },
+    {
+        "name": "# to (98 - 111)",
+        "min": "57",
+        "max": "63"
+    },
+    {
+        "name": "3% Chance to cast level 21 Glacial Nova on Melee Attack"
+    },
+    {
+        "name": "Adds #-(36 to 43) damage",
+        "min": "13",
+        "max": "15"
+    },
+    {
+        "name": "Adds #-(121 to 240) cold damage",
+        "min": "81",
+        "max": "160"
+    },
+    {
+        "name": "# to (128 - 142)",
+        "min": "76",
+        "max": "83"
+    },
+    {
+        "name": "4% Chance to cast level 25 Glacial Nova on Melee Attack"
+    },
+    {
+        "name": "Adds #-(43 to 50) damage",
+        "min": "16",
+        "max": "18"
+    },
+    {
+        "name": "Adds #-(241 to 480) cold damage",
+        "min": "161",
+        "max": "320"
+    },
+    {
+        "name": "# to (24 - 35)",
+        "min": "15",
+        "max": "16"
+    },
+    {
+        "name": "#% Mana stolen per Hit",
+        "min": "3",
+        "max": "5"
+    },
+    {
+        "name": "#% Magic Find",
+        "min": "16",
+        "max": "20"
+    },
+    {
+        "name": "# to (103 - 115)",
+        "min": "54",
+        "max": "57"
+    },
+    {
+        "name": "# to (134 - 148)",
+        "min": "69",
+        "max": "72"
+    },
+    {
+        "name": "10% Cast Speed"
+    },
+    {
+        "name": "10% Attack Speed"
+    },
+    {
+        "name": "+#% to Fire Spell Damage",
+        "min": "6",
+        "max": "8"
+    },
+    {
+        "name": "+#% to Lightning Spell Damage",
+        "min": "6",
+        "max": "8"
+    },
+    {
+        "name": "Lightning Resist +#%",
+        "min": "21",
+        "max": "25"
+    },
+    {
+        "name": "Elemental/Magic Damage Reduced by #",
+        "min": "3",
+        "max": "5"
+    },
+    {
+        "name": "20% Cast Speed"
+    },
+    {
+        "name": "30% Cast Speed"
+    },
+    {
+        "name": "40% Cast Speed"
+    },
+    {
+        "name": "# to (10 - 11)",
+        "min": "8",
+        "max": "9"
+    },
+    {
+        "name": "1% Chance to cast level 6 Lifeblood on Death Blow"
+    },
+    {
+        "name": "-#% to Enemy Lightning Resistance",
+        "min": "3",
+        "max": "5"
+    },
+    {
+        "name": "# to (22 - 24)",
+        "min": "19",
+        "max": "21"
+    },
+    {
+        "name": "2% Chance to cast level 12 Lifeblood on Death Blow"
+    },
+    {
+        "name": "# to (45 - 49)",
+        "min": "39",
+        "max": "42"
+    },
+    {
+        "name": "3% Chance to cast level 18 Lifeblood on Death Blow"
+    },
+    {
+        "name": "# to (57 - 61)",
+        "min": "50",
+        "max": "53"
+    },
+    {
+        "name": "4% Chance to cast level 21 Lifeblood on Death Blow"
+    },
+    {
+        "name": "# to (26 - 32)",
+        "min": "11",
+        "max": "13"
+    },
+    {
+        "name": "5% Chance to cast level 2 Lifeblood on Kill"
+    },
+    {
+        "name": "+50% Damage to Undead"
+    },
+    {
+        "name": "5% Mana stolen per Hit"
+    },
+    {
+        "name": "# to (59 - 72)",
+        "min": "30",
+        "max": "33"
+    },
+    {
+        "name": "7% Chance to cast level 6 Lifeblood on Kill"
+    },
+    {
+        "name": "+100% Damage to Undead"
+    },
+    {
+        "name": "10% Mana stolen per Hit"
+    },
+    {
+        "name": "# to (117 - 133)",
+        "min": "63",
+        "max": "69"
+    },
+    {
+        "name": "9% Chance to cast level 10 Lifeblood on Kill"
+    },
+    {
+        "name": "+150% Damage to Undead"
+    },
+    {
+        "name": "15% Mana stolen per Hit"
+    },
+    {
+        "name": "# to (150 - 177)",
+        "min": "81",
+        "max": "88"
+    },
+    {
+        "name": "11% Chance to cast level 12 Lifeblood on Kill"
+    },
+    {
+        "name": "+200% Damage to Undead"
+    },
+    {
+        "name": "20% Mana stolen per Hit"
+    },
+    {
+        "name": "10% Chance to cast level 10 Lava Pit on Melee Attack"
+    },
+    {
+        "name": "Adds #-(31 to 33) fire damage",
+        "min": "22",
+        "max": "25"
+    },
+    {
+        "name": "-#% to Enemy Fire Resistance",
+        "min": "11",
+        "max": "13"
+    },
+    {
+        "name": "Maximum Mana -#%",
+        "min": "3",
+        "max": "5"
+    },
+    {
+        "name": "+20 Life on Attack"
+    },
+    {
+        "name": "12% Chance to cast level 20 Lava Pit on Melee Attack"
+    },
+    {
+        "name": "Adds #-(79 to 83) fire damage",
+        "min": "57",
+        "max": "61"
+    },
+    {
+        "name": "+50 Life on Attack"
+    },
+    {
+        "name": "14% Chance to cast level 30 Lava Pit on Melee Attack"
+    },
+    {
+        "name": "Adds #-(255 to 284) fire damage",
+        "min": "189",
+        "max": "208"
+    },
+    {
+        "name": "+75 Life on Attack"
+    },
+    {
+        "name": "16% Chance to cast level 40 Lava Pit on Melee Attack"
+    },
+    {
+        "name": "Adds #-(827 to 856) fire damage",
+        "min": "613",
+        "max": "632"
+    },
+    {
+        "name": "+100 Life on Attack"
+    },
+    {
+        "name": "# to (41 - 53)",
+        "min": "21",
+        "max": "24"
+    },
+    {
+        "name": "+40 Life Regenerated per Second"
+    },
+    {
+        "name": "#% Reanimate as: Infernal Defiler",
+        "min": "2",
+        "max": "3"
+    },
+    {
+        "name": "Target Takes Additional Damage of #",
+        "min": "31",
+        "max": "50"
+    },
+    {
+        "name": "# to (102 - 119)",
+        "min": "57",
+        "max": "65"
+    },
+    {
+        "name": "+50 Life Regenerated per Second"
+    },
+    {
+        "name": "# to (189 - 211)",
+        "min": "113",
+        "max": "125"
+    },
+    {
+        "name": "+60 Life Regenerated per Second"
+    },
+    {
+        "name": "# to (241 - 266)",
+        "min": "147",
+        "max": "161"
+    },
+    {
+        "name": "+70 Life Regenerated per Second"
+    },
+    {
+        "name": "# to (34 - 40)",
+        "min": "24",
+        "max": "29"
+    },
+    {
+        "name": "19% Chance to cast level 6 Gamma Field on Kill"
+    },
+    {
+        "name": "+#% to Poison Spell Damage",
+        "min": "6",
+        "max": "10"
+    },
+    {
+        "name": "-#% to Enemy Poison Resistance",
+        "min": "6",
+        "max": "8"
+    },
+    {
+        "name": "#% Reanimate as: Zombie",
+        "min": "2",
+        "max": "3"
+    },
+    {
+        "name": "# to (86 - 97)",
+        "min": "65",
+        "max": "74"
+    },
+    {
+        "name": "21% Chance to cast level 18 Gamma Field on Kill"
+    },
+    {
+        "name": "# to (169 - 187)",
+        "min": "129",
+        "max": "142"
+    },
+    {
+        "name": "23% Chance to cast level 30 Gamma Field on Kill"
+    },
+    {
+        "name": "# to (235 - 257)",
+        "min": "154",
+        "max": "169"
+    },
+    {
+        "name": "25% Chance to cast level 36 Gamma Field on Kill"
+    },
+    {
+        "name": "+5 to Druid Skill Levels"
+    },
+    {
+        "name": "10% to All Attributes"
+    },
+    {
+        "name": "+10 Life Regenerated per Second"
+    },
+    {
+        "name": "16% to All Attributes"
+    },
+    {
+        "name": "+20 Life Regenerated per Second"
+    },
+    {
+        "name": "65% Attack Speed"
+    },
+    {
+        "name": "23% to All Attributes"
+    },
+    {
+        "name": "+30 Life Regenerated per Second"
+    },
+    {
+        "name": "Physical Resist 6%"
+    },
+    {
+        "name": "75% Attack Speed"
+    },
+    {
+        "name": "30% to All Attributes"
+    },
+    {
+        "name": "Physical Resist 8%"
+    },
+    {
+        "name": "# to (20 - 22)",
+        "min": "7",
+        "max": "9"
+    },
+    {
+        "name": "Adds 1-# lightning damage",
+        "min": "31",
+        "max": "40"
+    },
+    {
+        "name": "#% to Dexterity",
+        "min": "3",
+        "max": "5"
+    },
+    {
+        "name": "# to (37 - 40)",
+        "min": "16",
+        "max": "18"
+    },
+    {
+        "name": "+15 to Maximum Damage"
+    },
+    {
+        "name": "# to (60 - 67)",
+        "min": "30",
+        "max": "36"
+    },
+    {
+        "name": "+21 to Maximum Damage"
+    },
+    {
+        "name": "# to (86 - 94)",
+        "min": "42",
+        "max": "48"
+    },
+    {
+        "name": "# to (13 - 15)",
+        "min": "9",
+        "max": "10"
+    },
+    {
+        "name": "15% Chance to cast level 4 Bloodlust on Kill"
+    },
+    {
+        "name": "+#% Bonus Damage to Bloodlust",
+        "min": "10",
+        "max": "15"
+    },
+    {
+        "name": "# to (32 - 36)",
+        "min": "22",
+        "max": "24"
+    },
+    {
+        "name": "21% Chance to cast level 12 Bloodlust on Kill"
+    },
+    {
+        "name": "# to (60 - 66)",
+        "min": "40",
+        "max": "44"
+    },
+    {
+        "name": "27% Chance to cast level 20 Bloodlust on Kill"
+    },
+    {
+        "name": "# to (80 - 87)",
+        "min": "55",
+        "max": "60"
+    },
+    {
+        "name": "30% Chance to cast level 24 Bloodlust on Kill"
+    },
+    {
+        "name": "-3% to Enemy Fire Resistance"
+    },
+    {
+        "name": "+# to Dragon Wyrms (Paladin Only)",
+        "min": "1",
+        "max": "3"
+    },
+    {
+        "name": "-6% to Enemy Fire Resistance"
+    },
+    {
+        "name": "-9% to Enemy Fire Resistance"
+    },
+    {
+        "name": "-12% to Enemy Fire Resistance"
+    },
+    {
+        "name": "13 to 22"
+    },
+    {
+        "name": "+50% Enhanced Damage"
+    },
+    {
+        "name": "2% Deadly Strike"
+    },
+    {
+        "name": "+# to Noctule",
+        "min": "1",
+        "max": "4"
+    },
+    {
+        "name": "+# to all Attributes",
+        "min": "11",
+        "max": "15"
+    },
+    {
+        "name": "34 to 54"
+    },
+    {
+        "name": "+100% Enhanced Damage"
+    },
+    {
+        "name": "4% Deadly Strike"
+    },
+    {
+        "name": "62 to 102"
+    },
+    {
+        "name": "+150% Enhanced Damage"
+    },
+    {
+        "name": "6% Deadly Strike"
+    },
+    {
+        "name": "93 to 147"
+    },
+    {
+        "name": "+200% Enhanced Damage"
+    },
+    {
+        "name": "8% Deadly Strike"
+    },
+    {
+        "name": "33"
+    },
+    {
+        "name": "10% Chance to cast level 10 Apocalypse on Melee Attack"
+    },
+    {
+        "name": "Requirements -40%"
+    },
+    {
+        "name": "40"
+    },
+    {
+        "name": "10% Chance to cast level 19 Apocalypse on Melee Attack"
+    },
+    {
+        "name": "Requirements -55%"
+    },
+    {
+        "name": "73"
+    },
+    {
+        "name": "10% Chance to cast level 33 Apocalypse on Melee Attack"
+    },
+    {
+        "name": "Requirements -60%"
+    },
+    {
+        "name": "128"
+    },
+    {
+        "name": "10% Chance to cast level 43 Apocalypse on Melee Attack"
+    },
+    {
+        "name": "Requirements -65%"
+    },
+    {
+        "name": "# to (53 - 75)",
+        "min": "17",
+        "max": "20"
+    },
+    {
+        "name": "#% Reanimate as: Bone Archer",
+        "min": "2",
+        "max": "3"
+    },
+    {
+        "name": "#% Reanimate as: Reignited Archer",
+        "min": "2",
+        "max": "3"
+    },
+    {
+        "name": "#% Reanimate as: Horror Archer",
+        "min": "2",
+        "max": "3"
+    },
+    {
+        "name": "# to (116 - 132)",
+        "min": "42",
+        "max": "47"
+    },
+    {
+        "name": "# to (187 - 205)",
+        "min": "81",
+        "max": "89"
+    },
+    {
+        "name": "# to (237 - 258)",
+        "min": "105",
+        "max": "114"
+    },
+    {
+        "name": "# to (28 - 51)",
+        "min": "19",
+        "max": "22"
+    },
+    {
+        "name": "+1 to Hammertime"
+    },
+    {
+        "name": "# to (84 - 111)",
+        "min": "49",
+        "max": "54"
+    },
+    {
+        "name": "+# to Hammertime",
+        "min": "4",
+        "max": "8"
+    },
+    {
+        "name": "# to (153 - 193)",
+        "min": "93",
+        "max": "102"
+    },
+    {
+        "name": "# to (209 - 262)",
+        "min": "109",
+        "max": "119"
+    },
+    {
+        "name": "+1 to Amazon Skill Levels"
+    },
+    {
+        "name": "#% Cast Speed",
+        "min": "5",
+        "max": "20"
+    },
+    {
+        "name": "+4 to Amazon Skill Levels"
+    },
+    {
+        "name": "5% Cast Speed"
+    },
+    {
+        "name": "Regenerate Mana +#%",
+        "min": "21",
+        "max": "25"
+    },
+    {
+        "name": "Slows Attacker by #%",
+        "min": "3",
+        "max": "5"
+    },
+    {
+        "name": "15% Cast Speed"
+    },
+    {
+        "name": "25% Cast Speed"
+    },
+    {
+        "name": "# to (21 - 26)",
+        "min": "13",
+        "max": "15"
+    },
+    {
+        "name": "4% Chance to cast level 8 Nightmare on Melee Attack"
+    },
+    {
+        "name": "Adds #-(4 to 8) damage",
+        "min": "2",
+        "max": "3"
+    },
+    {
+        "name": "Adds 4-8 lightning damage"
+    },
+    {
+        "name": "14% Life stolen per Hit"
+    },
+    {
+        "name": "Total Character Defense 10%"
+    },
+    {
+        "name": "# to (48 - 58)",
+        "min": "32",
+        "max": "37"
+    },
+    {
+        "name": "8% Chance to cast level 16 Nightmare on Melee Attack"
+    },
+    {
+        "name": "+# to Amazon Skill Levels",
+        "min": "1",
+        "max": "2"
+    },
+    {
+        "name": "Adds #-(13 to 19) damage",
+        "min": "7",
+        "max": "9"
+    },
+    {
+        "name": "Adds 15-30 lightning damage"
+    },
+    {
+        "name": "16% Life stolen per Hit"
+    },
+    {
+        "name": "# to (97 - 110)",
+        "min": "62",
+        "max": "69"
+    },
+    {
+        "name": "12% Chance to cast level 22 Nightmare on Melee Attack"
+    },
+    {
+        "name": "Adds #-(27 to 33) damage",
+        "min": "14",
+        "max": "17"
+    },
+    {
+        "name": "Adds 60-120 lightning damage"
+    },
+    {
+        "name": "18% Life stolen per Hit"
+    },
+    {
+        "name": "Total Character Defense 50%"
+    },
+    {
+        "name": "# to (124 - 138)",
+        "min": "82",
+        "max": "89"
+    },
+    {
+        "name": "16% Chance to cast level 24 Nightmare on Melee Attack"
+    },
+    {
+        "name": "Adds #-(34 to 40) damage",
+        "min": "18",
+        "max": "20"
+    },
+    {
+        "name": "Adds 120-240 lightning damage"
+    },
+    {
+        "name": "20% Life stolen per Hit"
+    },
+    {
+        "name": "40% Chance to cast level 1 Javelin on Kill"
+    },
+    {
+        "name": "100% Chance to cast level 45 Pentagram when you Level-Up"
+    },
+    {
+        "name": "Adds 10-20 fire damage"
+    },
+    {
+        "name": "+# to Wild and Free (Amazon Only)",
+        "min": "4",
+        "max": "6"
+    },
+    {
+        "name": "3% Reanimate as: Heretic"
+    },
+    {
+        "name": "+# Mana after each Kill",
+        "min": "3",
+        "max": "5"
+    },
+    {
+        "name": "43% Chance to cast level 1 Javelin on Kill"
+    },
+    {
+        "name": "100% Chance to cast level 50 Pentagram when you Level-Up"
+    },
+    {
+        "name": "Adds 30-60 fire damage"
+    },
+    {
+        "name": "#% Reanimate as: Heretic",
+        "min": "3",
+        "max": "4"
+    },
+    {
+        "name": "46% Chance to cast level 1 Javelin on Kill"
+    },
+    {
+        "name": "100% Chance to cast level 55 Pentagram when you Level-Up"
+    },
+    {
+        "name": "Adds 90-170 fire damage"
+    },
+    {
+        "name": "4% Reanimate as: Heretic"
+    },
+    {
+        "name": "50% Chance to cast level 1 Javelin on Kill"
+    },
+    {
+        "name": "100% Chance to cast level 61 Pentagram when you Level-Up"
+    },
+    {
+        "name": "Adds 280-500 fire damage"
+    },
+    {
+        "name": "5% Reanimate as: Heretic"
+    },
+    {
+        "name": "# to (13 - 18)",
+        "min": "4",
+        "max": "5"
+    },
+    {
+        "name": "15% Chance to cast level 5 Punishers on Kill"
+    },
+    {
+        "name": "-6% to Enemy Elemental Resistances"
+    },
+    {
+        "name": "3% Chance of Crushing Blow"
+    },
+    {
+        "name": "# to (31 - 36)",
+        "min": "15",
+        "max": "17"
+    },
+    {
+        "name": "20% Chance to cast level 17 Punishers on Kill"
+    },
+    {
+        "name": "-9% to Enemy Elemental Resistances"
+    },
+    {
+        "name": "# to (83 - 92)",
+        "min": "46",
+        "max": "50"
+    },
+    {
+        "name": "# to (54 - 60)",
+        "min": "30",
+        "max": "33"
+    },
+    {
+        "name": "25% Chance to cast level 29 Punishers on Kill"
+    },
+    {
+        "name": "80% Attack Speed"
+    },
+    {
+        "name": "-12% to Enemy Elemental Resistances"
+    },
+    {
+        "name": "# to (108 - 118)",
+        "min": "62",
+        "max": "67"
+    },
+    {
+        "name": "# to (69 - 75)",
+        "min": "37",
+        "max": "40"
+    },
+    {
+        "name": "30% Chance to cast level 35 Punishers on Kill"
+    },
+    {
+        "name": "100% Attack Speed"
+    },
+    {
+        "name": "-15% to Enemy Elemental Resistances"
+    },
+    {
+        "name": "10% Chance of Crushing Blow"
+    },
+    {
+        "name": "# to (22 - 27)",
+        "min": "8",
+        "max": "9"
+    },
+    {
+        "name": "7% Chance to cast level 10 Shatter the Flesh on Kill"
+    },
+    {
+        "name": "Adds 6-10 cold damage"
+    },
+    {
+        "name": "-#% to Enemy Cold Resistance",
+        "min": "4",
+        "max": "6"
+    },
+    {
+        "name": "# to (56 - 64)",
+        "min": "22",
+        "max": "24"
+    },
+    {
+        "name": "# to (41 - 47)",
+        "min": "16",
+        "max": "18"
+    },
+    {
+        "name": "8% Chance to cast level 20 Shatter the Flesh on Kill"
+    },
+    {
+        "name": "Adds 16-20 cold damage"
+    },
+    {
+        "name": "# to (99 - 109)",
+        "min": "47",
+        "max": "50"
+    },
+    {
+        "name": "# to (65 - 72)",
+        "min": "29",
+        "max": "31"
+    },
+    {
+        "name": "9% Chance to cast level 30 Shatter the Flesh on Kill"
+    },
+    {
+        "name": "Adds 61-70 cold damage"
+    },
+    {
+        "name": "# to (127 - 137)",
+        "min": "63",
+        "max": "66"
+    },
+    {
+        "name": "# to (82 - 89)",
+        "min": "36",
+        "max": "39"
+    },
+    {
+        "name": "10% Chance to cast level 40 Shatter the Flesh on Kill"
+    },
+    {
+        "name": "Adds 160-200 cold damage"
+    },
+    {
+        "name": "# to (34 - 42)",
+        "min": "10",
+        "max": "12"
+    },
+    {
+        "name": "# to (28 - 34)",
+        "min": "10",
+        "max": "12"
+    },
+    {
+        "name": "4% Chance to cast level 4 Fortress on Kill"
+    },
+    {
+        "name": "# to (76 - 89)",
+        "min": "31",
+        "max": "35"
+    },
+    {
+        "name": "# to (52 - 63)",
+        "min": "20",
+        "max": "22"
+    },
+    {
+        "name": "5% Chance to cast level 10 Fortress on Kill"
+    },
+    {
+        "name": "# to (148 - 168)",
+        "min": "66",
+        "max": "73"
+    },
+    {
+        "name": "# to (97 - 112)",
+        "min": "38",
+        "max": "42"
+    },
+    {
+        "name": "6% Chance to cast level 16 Fortress on Kill"
+    },
+    {
+        "name": "# to (227 - 250)",
+        "min": "92",
+        "max": "100"
+    },
+    {
+        "name": "# to (154 - 171)",
+        "min": "53",
+        "max": "57"
+    },
+    {
+        "name": "7% Chance to cast level 19 Fortress on Kill"
+    },
+    {
+        "name": "# to (44 - 59)",
+        "min": "15",
+        "max": "18"
+    },
+    {
+        "name": "# to (33 - 47)",
+        "min": "12",
+        "max": "14"
+    },
+    {
+        "name": "95"
+    },
+    {
+        "name": "Adds #-(16 to 30) magic damage",
+        "min": "11",
+        "max": "15"
+    },
+    {
+        "name": "Requirements +15%"
+    },
+    {
+        "name": "# to (98 - 120)",
+        "min": "41",
+        "max": "48"
+    },
+    {
+        "name": "# to (66 - 82)",
+        "min": "27",
+        "max": "31"
+    },
+    {
+        "name": "153"
+    },
+    {
+        "name": "Adds #-(51 to 75) magic damage",
+        "min": "31",
+        "max": "40"
+    },
+    {
+        "name": "Requirements +25%"
+    },
+    {
+        "name": "# to (181 - 210)",
+        "min": "80",
+        "max": "91"
+    },
+    {
+        "name": "# to (114 - 133)",
+        "min": "48",
+        "max": "55"
+    },
+    {
+        "name": "322"
+    },
+    {
+        "name": "Adds #-(251 to 300) magic damage",
+        "min": "201",
+        "max": "240"
+    },
+    {
+        "name": "Requirements +35%"
+    },
+    {
+        "name": "# to (255 - 294)",
+        "min": "113",
+        "max": "126"
+    },
+    {
+        "name": "# to (157 - 183)",
+        "min": "62",
+        "max": "70"
+    },
+    {
+        "name": "708"
+    },
+    {
+        "name": "Adds #-(501 to 600) magic damage",
+        "min": "401",
+        "max": "480"
+    },
+    {
+        "name": "Requirements +50%"
+    },
+    {
+        "name": "# to (32 - 43)",
+        "min": "5",
+        "max": "6"
+    },
+    {
+        "name": "15% Chance to cast level 15 Flamefront on Melee Attack"
+    },
+    {
+        "name": "20% Chance to cast level 20 Flamefront on Melee Attack"
+    },
+    {
+        "name": "# to (84 - 96)",
+        "min": "33",
+        "max": "36"
+    },
+    {
+        "name": "30% Chance to cast level 30 Flamefront on Melee Attack"
+    },
+    {
+        "name": "# to (110 - 123)",
+        "min": "44",
+        "max": "48"
+    },
+    {
+        "name": "40% Chance to cast level 40 Flamefront on Melee Attack"
+    },
+    {
+        "name": "# to (12 - 14)",
+        "min": "6",
+        "max": "7"
+    },
+    {
+        "name": "5% Chance to cast level 2 Glacial Nova on Melee Attack"
+    },
+    {
+        "name": "Adds #-(9 to 13) cold damage",
+        "min": "6",
+        "max": "9"
+    },
+    {
+        "name": "+8 Life Regenerated per Second"
+    },
+    {
+        "name": "# to (33 - 36)",
+        "min": "18",
+        "max": "21"
+    },
+    {
+        "name": "6% Chance to cast level 6 Glacial Nova on Melee Attack"
+    },
+    {
+        "name": "Adds #-(41 to 50) cold damage",
+        "min": "26",
+        "max": "35"
+    },
+    {
+        "name": "# to (63 - 68)",
+        "min": "38",
+        "max": "41"
+    },
+    {
+        "name": "7% Chance to cast level 10 Glacial Nova on Melee Attack"
+    },
+    {
+        "name": "Adds #-(161 to 200) cold damage",
+        "min": "101",
+        "max": "140"
+    },
+    {
+        "name": "+13 Life Regenerated per Second"
+    },
+    {
+        "name": "# to (83 - 90)",
+        "min": "50",
+        "max": "54"
+    },
+    {
+        "name": "8% Chance to cast level 12 Glacial Nova on Melee Attack"
+    },
+    {
+        "name": "Adds #-(351 to 400) cold damage",
+        "min": "231",
+        "max": "280"
+    },
+    {
+        "name": "+15 Life Regenerated per Second"
+    },
+    {
+        "name": "# to (33 - 45)",
+        "min": "9",
+        "max": "10"
+    },
+    {
+        "name": "# to (82 - 96)",
+        "min": "24",
+        "max": "27"
+    },
+    {
+        "name": "# to (146 - 163)",
+        "min": "48",
+        "max": "52"
+    },
+    {
+        "name": "# to (209 - 227)",
+        "min": "65",
+        "max": "70"
+    },
+    {
+        "name": "# to (44 - 56)",
+        "min": "17",
+        "max": "20"
+    },
+    {
+        "name": "10% Chance to cast level 5 Miasma on Melee Attack"
+    },
+    {
+        "name": "Adds #-(21 to 30) damage",
+        "min": "8",
+        "max": "10"
+    },
+    {
+        "name": "#% Bonus to Miasma Haunt Duration",
+        "min": "61",
+        "max": "100"
+    },
+    {
+        "name": "+# to Daedalus (Barbarian Only)",
+        "min": "1",
+        "max": "3"
+    },
+    {
+        "name": "+# Life after each Kill",
+        "min": "11",
+        "max": "15"
+    },
+    {
+        "name": "# to (86 - 101)",
+        "min": "33",
+        "max": "40"
+    },
+    {
+        "name": "15% Chance to cast level 11 Miasma on Melee Attack"
+    },
+    {
+        "name": "Adds #-(31 to 40) damage",
+        "min": "11",
+        "max": "15"
+    },
+    {
+        "name": "# to (143 - 161)",
+        "min": "63",
+        "max": "71"
+    },
+    {
+        "name": "20% Chance to cast level 18 Miasma on Melee Attack"
+    },
+    {
+        "name": "Adds #-(41 to 50) damage",
+        "min": "16",
+        "max": "20"
+    },
+    {
+        "name": "# to (184 - 203)",
+        "min": "83",
+        "max": "97"
+    },
+    {
+        "name": "25% Chance to cast level 25 Miasma on Melee Attack"
+    },
+    {
+        "name": "Adds #-(51 to 60) damage",
+        "min": "21",
+        "max": "30"
+    },
+    {
+        "name": "# to (34 - 47)",
+        "min": "12",
+        "max": "16"
+    },
+    {
+        "name": "45 to 48"
+    },
+    {
+        "name": "68 to 71"
+    },
+    {
+        "name": "14% Chance to cast level 4 Arachnomancy on Melee Attack"
+    },
+    {
+        "name": "Adds #-(6 to 15) damage",
+        "min": "2",
+        "max": "4"
+    },
+    {
+        "name": "+# to Divine Judgment (Paladin Only)",
+        "min": "3",
+        "max": "6"
+    },
+    {
+        "name": "Poison Length Reduced by 30%"
+    },
+    {
+        "name": "# to (91 - 109)",
+        "min": "33",
+        "max": "45"
+    },
+    {
+        "name": "63 to 67"
+    },
+    {
+        "name": "88 to 93"
+    },
+    {
+        "name": "16% Chance to cast level 17 Arachnomancy on Melee Attack"
+    },
+    {
+        "name": "Poison Length Reduced by 45%"
+    },
+    {
+        "name": "# to (171 - 199)",
+        "min": "72",
+        "max": "87"
+    },
+    {
+        "name": "111 to 118"
+    },
+    {
+        "name": "150 to 160"
+    },
+    {
+        "name": "18% Chance to cast level 30 Arachnomancy on Melee Attack"
+    },
+    {
+        "name": "Adds #-(36 to 50) damage",
+        "min": "16",
+        "max": "25"
+    },
+    {
+        "name": "Poison Length Reduced by 60%"
+    },
+    {
+        "name": "# to (265 - 292)",
+        "min": "83",
+        "max": "96"
+    },
+    {
+        "name": "205 to 218"
+    },
+    {
+        "name": "274 to 293"
+    },
+    {
+        "name": "20% Chance to cast level 44 Arachnomancy on Melee Attack"
+    },
+    {
+        "name": "Adds #-(61 to 70) damage",
+        "min": "31",
+        "max": "40"
+    },
+    {
+        "name": "Poison Length Reduced by 75%"
+    },
+    {
+        "name": "# to (38 - 50)",
+        "min": "4",
+        "max": "5"
+    },
+    {
+        "name": "6% Chance to cast level 5 Crucify on Melee Attack"
+    },
+    {
+        "name": "# to (83 - 97)",
+        "min": "15",
+        "max": "17"
+    },
+    {
+        "name": "8% Chance to cast level 10 Crucify on Melee Attack"
+    },
+    {
+        "name": "# to (145 - 163)",
+        "min": "32",
+        "max": "35"
+    },
+    {
+        "name": "10% Chance to cast level 15 Crucify on Melee Attack"
+    },
+    {
+        "name": "# to (190 - 210)",
+        "min": "43",
+        "max": "47"
+    },
+    {
+        "name": "12% Chance to cast level 20 Crucify on Melee Attack"
+    },
+    {
+        "name": "# to (5 - 6)",
+        "min": "4",
+        "max": "5"
+    },
+    {
+        "name": "+25 poison damage over 1 seconds"
+    },
+    {
+        "name": "+50 poison damage over 1 seconds"
+    },
+    {
+        "name": "# to (28 - 31)",
+        "min": "26",
+        "max": "29"
+    },
+    {
+        "name": "+125 poison damage over 1 seconds"
+    },
+    {
+        "name": "# to (38 - 42)",
+        "min": "36",
+        "max": "39"
+    },
+    {
+        "name": "+363 poison damage over 1 seconds"
+    },
+    {
+        "name": "+1 to Necromancer Skill Levels"
+    },
+    {
+        "name": "-4% to Enemy Fire Resistance"
+    },
+    {
+        "name": "-4% to Enemy Poison Resistance"
+    },
+    {
+        "name": "#% Reanimate as: Succubus",
+        "min": "3",
+        "max": "4"
+    },
+    {
+        "name": "#% Reanimate as: Dark Magistrate",
+        "min": "3",
+        "max": "4"
+    },
+    {
+        "name": "+2 to Necromancer Skill Levels"
+    },
+    {
+        "name": "-8% to Enemy Fire Resistance"
+    },
+    {
+        "name": "-8% to Enemy Poison Resistance"
+    },
+    {
+        "name": "+3 to Necromancer Skill Levels"
+    },
+    {
+        "name": "35% Cast Speed"
+    },
+    {
+        "name": "+# to Necromancer Skill Levels",
+        "min": "4",
+        "max": "5"
+    },
+    {
+        "name": "-15% to Enemy Fire Resistance"
+    },
+    {
+        "name": "-15% to Enemy Poison Resistance"
+    },
+    {
+        "name": "+1 to Sorceress Skill Levels"
+    },
+    {
+        "name": "+2 to Sorceress Skill Levels"
+    },
+    {
+        "name": "+3 to Sorceress Skill Levels"
+    },
+    {
+        "name": "+4 to Sorceress Skill Levels"
+    },
+    {
+        "name": "# to (19 - 30)",
+        "min": "7",
+        "max": "8"
+    },
+    {
+        "name": "+5% Bonus Damage to Mark of the Wild"
+    },
+    {
+        "name": "#% Duration Bonus to Mark of the Wild",
+        "min": "11",
+        "max": "25"
+    },
+    {
+        "name": "# to (54 - 66)",
+        "min": "20",
+        "max": "23"
+    },
+    {
+        "name": "+10% Bonus Damage to Mark of the Wild"
+    },
+    {
+        "name": "# to (96 - 109)",
+        "min": "40",
+        "max": "45"
+    },
+    {
+        "name": "+15% Bonus Damage to Mark of the Wild"
+    },
+    {
+        "name": "# to (122 - 137)",
+        "min": "52",
+        "max": "57"
+    },
+    {
+        "name": "+20% Bonus Damage to Mark of the Wild"
+    },
+    {
+        "name": "17"
+    },
+    {
+        "name": "2% Chance to cast level 8 Scorpion Blade on Kill"
+    },
+    {
+        "name": "+1 to Assassin Skill Levels"
+    },
+    {
+        "name": "45"
+    },
+    {
+        "name": "3% Chance to cast level 16 Scorpion Blade on Kill"
+    },
+    {
+        "name": "+2 to Assassin Skill Levels"
+    },
+    {
+        "name": "109"
+    },
+    {
+        "name": "5% Chance to cast level 24 Scorpion Blade on Kill"
+    },
+    {
+        "name": "+3 to Assassin Skill Levels"
+    },
+    {
+        "name": "250"
+    },
+    {
+        "name": "6% Chance to cast level 32 Scorpion Blade on Kill"
+    },
+    {
+        "name": "+# to Assassin Skill Levels",
+        "min": "4",
+        "max": "5"
+    },
+    {
+        "name": "# to (8 - 9)",
+        "min": "7",
+        "max": "8"
+    },
+    {
+        "name": "1% Chance to cast level 2 Shackles of Ice on Striking"
+    },
+    {
+        "name": "Adds #-(9 to 17) cold damage",
+        "min": "6",
+        "max": "7"
+    },
+    {
+        "name": "+# to APF-20 'Maelstrom' MkI",
+        "min": "1",
+        "max": "2"
+    },
+    {
+        "name": "Cold Absorb 2%"
+    },
+    {
+        "name": "8% Magic Find"
+    },
+    {
+        "name": "# to (29 - 33)",
+        "min": "26",
+        "max": "29"
+    },
+    {
+        "name": "# to (19 - 22)",
+        "min": "18",
+        "max": "20"
+    },
+    {
+        "name": "1% Chance to cast level 6 Shackles of Ice on Striking"
+    },
+    {
+        "name": "Adds #-(51 to 65) cold damage",
+        "min": "21",
+        "max": "25"
+    },
+    {
+        "name": "Cold Absorb 3%"
+    },
+    {
+        "name": "13% Magic Find"
+    },
+    {
+        "name": "# to (64 - 71)",
+        "min": "56",
+        "max": "62"
+    },
+    {
+        "name": "# to (37 - 41)",
+        "min": "33",
+        "max": "37"
+    },
+    {
+        "name": "1% Chance to cast level 10 Shackles of Ice on Striking"
+    },
+    {
+        "name": "Adds #-(241 to 260) cold damage",
+        "min": "81",
+        "max": "100"
+    },
+    {
+        "name": "Cold Absorb 4%"
+    },
+    {
+        "name": "18% Magic Find"
+    },
+    {
+        "name": "# to (85 - 93)",
+        "min": "76",
+        "max": "83"
+    },
+    {
+        "name": "# to (48 - 53)",
+        "min": "44",
+        "max": "48"
+    },
+    {
+        "name": "1% Chance to cast level 12 Shackles of Ice on Striking"
+    },
+    {
+        "name": "Adds #-(421 to 520) cold damage",
+        "min": "181",
+        "max": "200"
+    },
+    {
+        "name": "Cold Absorb 5%"
+    },
+    {
+        "name": "20% Magic Find"
+    },
+    {
+        "name": "# to (22 - 34)",
+        "min": "12",
+        "max": "14"
+    },
+    {
+        "name": "5% Chance to cast level 10 Cold Fear on Kill"
+    },
+    {
+        "name": "5% Chance to cast level 3 Knife Throw on Striking"
+    },
+    {
+        "name": "Enhanced Weapon Damage +20%"
+    },
+    {
+        "name": "# to (69 - 83)",
+        "min": "37",
+        "max": "42"
+    },
+    {
+        "name": "# to (53 - 64)",
+        "min": "23",
+        "max": "26"
+    },
+    {
+        "name": "6% Chance to cast level 20 Cold Fear on Kill"
+    },
+    {
+        "name": "6% Chance to cast level 7 Knife Throw on Striking"
+    },
+    {
+        "name": "Enhanced Weapon Damage +40%"
+    },
+    {
+        "name": "# to (133 - 151)",
+        "min": "79",
+        "max": "87"
+    },
+    {
+        "name": "# to (94 - 108)",
+        "min": "45",
+        "max": "49"
+    },
+    {
+        "name": "7% Chance to cast level 30 Cold Fear on Kill"
+    },
+    {
+        "name": "7% Chance to cast level 11 Knife Throw on Striking"
+    },
+    {
+        "name": "Enhanced Weapon Damage +60%"
+    },
+    {
+        "name": "# to (173 - 192)",
+        "min": "104",
+        "max": "114"
+    },
+    {
+        "name": "# to (118 - 132)",
+        "min": "57",
+        "max": "62"
+    },
+    {
+        "name": "8% Chance to cast level 40 Cold Fear on Kill"
+    },
+    {
+        "name": "8% Chance to cast level 13 Knife Throw on Striking"
+    },
+    {
+        "name": "Enhanced Weapon Damage +80%"
+    },
+    {
+        "name": "+1 to Barbarian Skill Levels"
+    },
+    {
+        "name": "Adds #-(7 to 10) fire damage",
+        "min": "3",
+        "max": "6"
+    },
+    {
+        "name": "Adds 12-18 lightning damage"
+    },
+    {
+        "name": "Adds #-(7 to 10) cold damage",
+        "min": "3",
+        "max": "6"
+    },
+    {
+        "name": "-#% to Enemy Elemental Resistances",
+        "min": "6",
+        "max": "8"
+    },
+    {
+        "name": "+100 Defense"
+    },
+    {
+        "name": "+2 to Barbarian Skill Levels"
+    },
+    {
+        "name": "Adds #-(24 to 30) fire damage",
+        "min": "16",
+        "max": "22"
+    },
+    {
+        "name": "Adds 24-36 lightning damage"
+    },
+    {
+        "name": "Adds #-(24 to 30) cold damage",
+        "min": "16",
+        "max": "22"
+    },
+    {
+        "name": "+250 Defense"
+    },
+    {
+        "name": "+3 to Barbarian Skill Levels"
+    },
+    {
+        "name": "Adds #-(76 to 105) fire damage",
+        "min": "46",
+        "max": "60"
+    },
+    {
+        "name": "Adds 72-108 lightning damage"
+    },
+    {
+        "name": "Adds #-(76 to 105) cold damage",
+        "min": "46",
+        "max": "60"
+    },
+    {
+        "name": "+500 Defense"
+    },
+    {
+        "name": "+4 to Barbarian Skill Levels"
+    },
+    {
+        "name": "Adds #-(241 to 300) fire damage",
+        "min": "121",
+        "max": "180"
+    },
+    {
+        "name": "Adds 288-432 lightning damage"
+    },
+    {
+        "name": "Adds #-(241 to 300) cold damage",
+        "min": "121",
+        "max": "180"
+    },
+    {
+        "name": "+1000 Defense"
+    },
+    {
+        "name": "# to (33 - 46)",
+        "min": "4",
+        "max": "5"
+    },
+    {
+        "name": "# to (25 - 36)",
+        "min": "5",
+        "max": "7"
+    },
+    {
+        "name": "1% Chance to cast level 7 Blast Wave on Kill"
+    },
+    {
+        "name": "# to (81 - 98)",
+        "min": "19",
+        "max": "22"
+    },
+    {
+        "name": "# to (55 - 69)",
+        "min": "14",
+        "max": "16"
+    },
+    {
+        "name": "2% Chance to cast level 19 Blast Wave on Kill"
+    },
+    {
+        "name": "# to (154 - 176)",
+        "min": "45",
+        "max": "51"
+    },
+    {
+        "name": "# to (97 - 114)",
+        "min": "29",
+        "max": "32"
+    },
+    {
+        "name": "2% Chance to cast level 31 Blast Wave on Kill"
+    },
+    {
+        "name": "# to (205 - 230)",
+        "min": "62",
+        "max": "68"
+    },
+    {
+        "name": "# to (126 - 143)",
+        "min": "37",
+        "max": "40"
+    },
+    {
+        "name": "3% Chance to cast level 37 Blast Wave on Kill"
+    },
+    {
+        "name": "+# Energy Factor to Spell Damage",
+        "min": "31",
+        "max": "50"
+    },
+    {
+        "name": "45% Cast Speed"
+    },
+    {
+        "name": "60% Cast Speed"
+    },
+    {
+        "name": "+# to Flash",
+        "min": "3",
+        "max": "5"
+    },
+    {
+        "name": "+# to Apocalypse",
+        "min": "3",
+        "max": "5"
+    },
+    {
+        "name": "+#% Bonus to Poison Skill Duration",
+        "min": "10",
+        "max": "20"
+    },
+    {
+        "name": "+3% to Poison Spell Damage"
+    },
+    {
+        "name": "+#% to Summoned Minion Life",
+        "min": "11",
+        "max": "15"
+    },
+    {
+        "name": "Poison Length Reduced by #%",
+        "min": "21",
+        "max": "25"
+    },
+    {
+        "name": "+6% to Poison Spell Damage"
+    },
+    {
+        "name": "+9% to Poison Spell Damage"
+    },
+    {
+        "name": "+12% to Poison Spell Damage"
+    },
+    {
+        "name": "Regenerate Mana +20%"
+    },
+    {
+        "name": "Regenerate Mana +30%"
+    },
+    {
+        "name": "Regenerate Mana +40%"
+    },
+    {
+        "name": "Regenerate Mana +50%"
+    },
+    {
+        "name": "+#% Bonus to Energy Factor",
+        "min": "21",
+        "max": "25"
+    },
+    {
+        "name": "#% Reanimate as: Knight of Death",
+        "min": "1",
+        "max": "2"
+    },
+    {
+        "name": "50% Cast Speed"
+    },
+    {
+        "name": "2 to #",
+        "min": "4",
+        "max": "5"
+    },
+    {
+        "name": "Adds 11-15 magic damage"
+    },
+    {
+        "name": "# to (11 - 14)",
+        "min": "9",
+        "max": "11"
+    },
+    {
+        "name": "Adds 40-45 magic damage"
+    },
+    {
+        "name": "Total Character Defense 20%"
+    },
+    {
+        "name": "# to (27 - 32)",
+        "min": "24",
+        "max": "28"
+    },
+    {
+        "name": "Adds 120-135 magic damage"
+    },
+    {
+        "name": "# to (37 - 48)",
+        "min": "34",
+        "max": "44"
+    },
+    {
+        "name": "Adds 360-400 magic damage"
+    },
+    {
+        "name": "Total Character Defense 40%"
+    },
+    {
+        "name": "# to (16 - 17)",
+        "min": "4",
+        "max": "5"
+    },
+    {
+        "name": "Adds 1-10 damage"
+    },
+    {
+        "name": "#% Deadly Strike",
+        "min": "6",
+        "max": "10"
+    },
+    {
+        "name": "+# to Arrow Swarm",
+        "min": "1",
+        "max": "5"
+    },
+    {
+        "name": "# to (40 - 43)",
+        "min": "17",
+        "max": "19"
+    },
+    {
+        "name": "Adds 1-20 damage"
+    },
+    {
+        "name": "# to (75 - 80)",
+        "min": "39",
+        "max": "43"
+    },
+    {
+        "name": "Adds 1-30 damage"
+    },
+    {
+        "name": "# to (106 - 112)",
+        "min": "56",
+        "max": "61"
+    },
+    {
+        "name": "Adds 1-40 damage"
+    },
+    {
+        "name": "+3 fire damage"
+    },
+    {
+        "name": "+3 lightning damage"
+    },
+    {
+        "name": "+3 cold damage"
+    },
+    {
+        "name": "-10% to Enemy Fire Resistance"
+    },
+    {
+        "name": "-10% to Enemy Lightning Resistance"
+    },
+    {
+        "name": "-10% to Enemy Cold Resistance"
+    },
+    {
+        "name": "+# Mana on Striking",
+        "min": "3",
+        "max": "5"
+    },
+    {
+        "name": "+13 fire damage"
+    },
+    {
+        "name": "+13 lightning damage"
+    },
+    {
+        "name": "+13 cold damage"
+    },
+    {
+        "name": "-15% to Enemy Lightning Resistance"
+    },
+    {
+        "name": "-15% to Enemy Cold Resistance"
+    },
+    {
+        "name": "# to (50 - 54)",
+        "min": "39",
+        "max": "42"
+    },
+    {
+        "name": "+50 fire damage"
+    },
+    {
+        "name": "+50 lightning damage"
+    },
+    {
+        "name": "+50 cold damage"
+    },
+    {
+        "name": "-20% to Enemy Fire Resistance"
+    },
+    {
+        "name": "-20% to Enemy Lightning Resistance"
+    },
+    {
+        "name": "-20% to Enemy Cold Resistance"
+    },
+    {
+        "name": "# to (66 - 70)",
+        "min": "52",
+        "max": "55"
+    },
+    {
+        "name": "70% Attack Speed"
+    },
+    {
+        "name": "+100 fire damage"
+    },
+    {
+        "name": "+100 lightning damage"
+    },
+    {
+        "name": "+100 cold damage"
+    },
+    {
+        "name": "-25% to Enemy Fire Resistance"
+    },
+    {
+        "name": "-25% to Enemy Lightning Resistance"
+    },
+    {
+        "name": "-25% to Enemy Cold Resistance"
+    },
+    {
+        "name": "# to (20 - 25)",
+        "min": "9",
+        "max": "10"
+    },
+    {
+        "name": "-10% Attack Speed"
+    },
+    {
+        "name": "+# Life on Striking",
+        "min": "1",
+        "max": "2"
+    },
+    {
+        "name": "# to (48 - 63)",
+        "min": "25",
+        "max": "30"
+    },
+    {
+        "name": "-20% Attack Speed"
+    },
+    {
+        "name": "# to (93 - 113)",
+        "min": "55",
+        "max": "63"
+    },
+    {
+        "name": "-30% Attack Speed"
+    },
+    {
+        "name": "# to (132 - 155)",
+        "min": "77",
+        "max": "87"
+    },
+    {
+        "name": "-40% Attack Speed"
+    },
+    {
+        "name": "10% Chance to cast level 10 Tempest on Kill"
+    },
+    {
+        "name": "Adds #-(31 to 33) lightning damage",
+        "min": "22",
+        "max": "25"
+    },
+    {
+        "name": "Adds 8-10 cold damage"
+    },
+    {
+        "name": "12% Chance to cast level 20 Tempest on Kill"
+    },
+    {
+        "name": "Adds #-(79 to 83) lightning damage",
+        "min": "57",
+        "max": "61"
+    },
+    {
+        "name": "Adds 25-30 cold damage"
+    },
+    {
+        "name": "14% Chance to cast level 30 Tempest on Kill"
+    },
+    {
+        "name": "Adds #-(255 to 284) lightning damage",
+        "min": "189",
+        "max": "208"
+    },
+    {
+        "name": "Adds 100-120 cold damage"
+    },
+    {
+        "name": "16% Chance to cast level 40 Tempest on Kill"
+    },
+    {
+        "name": "Adds #-(827 to 856) lightning damage",
+        "min": "613",
+        "max": "632"
+    },
+    {
+        "name": "Adds 200-240 cold damage"
+    },
+    {
+        "name": "67"
+    },
+    {
+        "name": "+# to Poison Flash (Druid Only)",
+        "min": "3",
+        "max": "6"
+    },
+    {
+        "name": "Requirements -10%"
+    },
+    {
+        "name": "89"
+    },
+    {
+        "name": "Requirements -20%"
+    },
+    {
+        "name": "154"
+    },
+    {
+        "name": "Requirements -30%"
+    },
+    {
+        "name": "261"
+    },
+    {
+        "name": "# to (32 - 39)",
+        "min": "14",
+        "max": "16"
+    },
+    {
+        "name": "73 to 77"
+    },
+    {
+        "name": "5% Chance to cast level 5 Arachnomancy on Kill"
+    },
+    {
+        "name": "3% Chance to cast level 4 Miasma on Striking"
+    },
+    {
+        "name": "Miasma Effect Duration: +2 seconds"
+    },
+    {
+        "name": "# to (70 - 85)",
+        "min": "38",
+        "max": "42"
+    },
+    {
+        "name": "95 to 100"
+    },
+    {
+        "name": "6% Chance to cast level 10 Arachnomancy on Kill"
+    },
+    {
+        "name": "4% Chance to cast level 10 Miasma on Striking"
+    },
+    {
+        "name": "# to (135 - 153)",
+        "min": "76",
+        "max": "83"
+    },
+    {
+        "name": "161 to 171"
+    },
+    {
+        "name": "7% Chance to cast level 14 Arachnomancy on Kill"
+    },
+    {
+        "name": "5% Chance to cast level 16 Miasma on Striking"
+    },
+    {
+        "name": "# to (179 - 199)",
+        "min": "102",
+        "max": "110"
+    },
+    {
+        "name": "294 to 313"
+    },
+    {
+        "name": "8% Chance to cast level 18 Arachnomancy on Kill"
+    },
+    {
+        "name": "6% Chance to cast level 19 Miasma on Striking"
+    },
+    {
+        "name": "# to (28 - 41)",
+        "min": "17",
+        "max": "20"
+    },
+    {
+        "name": "108"
+    },
+    {
+        "name": "1% Chance to cast level 1 Barrage on Kill"
+    },
+    {
+        "name": "+# to Tantrum",
+        "min": "5",
+        "max": "8"
+    },
+    {
+        "name": "Requirements +10%"
+    },
+    {
+        "name": "# to (81 - 109)",
+        "min": "48",
+        "max": "54"
+    },
+    {
+        "name": "200"
+    },
+    {
+        "name": "1% Chance to cast level 5 Barrage on Kill"
+    },
+    {
+        "name": "Requirements +40%"
+    },
+    {
+        "name": "# to (171 - 204)",
+        "min": "101",
+        "max": "112"
+    },
+    {
+        "name": "498"
+    },
+    {
+        "name": "1% Chance to cast level 10 Barrage on Kill"
+    },
+    {
+        "name": "Requirements +80%"
+    },
+    {
+        "name": "# to (254 - 300)",
+        "min": "134",
+        "max": "146"
+    },
+    {
+        "name": "1357"
+    },
+    {
+        "name": "1% Chance to cast level 16 Barrage on Kill"
+    },
+    {
+        "name": "Requirements +150%"
+    },
+    {
+        "name": "+# to Cluster Bomb",
+        "min": "7",
+        "max": "10"
+    },
+    {
+        "name": "+# to Life",
+        "min": "101",
+        "max": "200"
+    },
+    {
+        "name": "#% Curse Length Reduction",
+        "min": "31",
+        "max": "35"
+    },
+    {
+        "name": "# to (24 - 31)",
+        "min": "12",
+        "max": "14"
+    },
+    {
+        "name": "+10% Bonus Damage to Bloodlust"
+    },
+    {
+        "name": "25% Bonus to Attack Rating"
+    },
+    {
+        "name": "# to (69 - 79)",
+        "min": "39",
+        "max": "43"
+    },
+    {
+        "name": "+20% Bonus Damage to Bloodlust"
+    },
+    {
+        "name": "50% Bonus to Attack Rating"
+    },
+    {
+        "name": "# to (136 - 149)",
+        "min": "82",
+        "max": "89"
+    },
+    {
+        "name": "+30% Bonus Damage to Bloodlust"
+    },
+    {
+        "name": "75% Bonus to Attack Rating"
+    },
+    {
+        "name": "# to (178 - 194)",
+        "min": "106",
+        "max": "114"
+    },
+    {
+        "name": "+40% Bonus Damage to Bloodlust"
+    },
+    {
+        "name": "100% Bonus to Attack Rating"
+    },
+    {
+        "name": "# to (40 - 50)",
+        "min": "22",
+        "max": "25"
+    },
+    {
+        "name": "+# to Summon Fallen",
+        "min": "2",
+        "max": "6"
+    },
+    {
+        "name": "# to (104 - 119)",
+        "min": "63",
+        "max": "71"
+    },
+    {
+        "name": "# to (197 - 218)",
+        "min": "130",
+        "max": "142"
+    },
+    {
+        "name": "# to (259 - 283)",
+        "min": "174",
+        "max": "189"
+    },
+    {
+        "name": "# to (36 - 40)",
+        "min": "22",
+        "max": "24"
+    },
+    {
+        "name": "14% Chance to cast level 8 Flamefront on Kill"
+    },
+    {
+        "name": "Adds #-(21 to 25) fire damage",
+        "min": "11",
+        "max": "15"
+    },
+    {
+        "name": "+20 to Vitality"
+    },
+    {
+        "name": "Fire Absorb 2%"
+    },
+    {
+        "name": "# to (90 - 99)",
+        "min": "60",
+        "max": "66"
+    },
+    {
+        "name": "16% Chance to cast level 20 Flamefront on Kill"
+    },
+    {
+        "name": "Adds #-(71 to 80) fire damage",
+        "min": "33",
+        "max": "50"
+    },
+    {
+        "name": "+40 to Vitality"
+    },
+    {
+        "name": "Fire Absorb 3%"
+    },
+    {
+        "name": "# to (172 - 186)",
+        "min": "120",
+        "max": "130"
+    },
+    {
+        "name": "18% Chance to cast level 32 Flamefront on Kill"
+    },
+    {
+        "name": "Adds #-(211 to 250) fire damage",
+        "min": "101",
+        "max": "140"
+    },
+    {
+        "name": "+60 to Strength"
+    },
+    {
+        "name": "+60 to Vitality"
+    },
+    {
+        "name": "Fire Absorb 4%"
+    },
+    {
+        "name": "# to (219 - 236)",
+        "min": "159",
+        "max": "171"
+    },
+    {
+        "name": "20% Chance to cast level 42 Flamefront on Kill"
+    },
+    {
+        "name": "Adds #-(651 to 750) fire damage",
+        "min": "301",
+        "max": "400"
+    },
+    {
+        "name": "+80 to Strength"
+    },
+    {
+        "name": "+80 to Vitality"
+    },
+    {
+        "name": "Fire Absorb 5%"
+    },
+    {
+        "name": "2% Chance to cast level 6 Lifeblood on Kill"
+    },
+    {
+        "name": "5% Chance to cast level 12 Death Blossom on Kill"
+    },
+    {
+        "name": "Adds 8-14 fire damage"
+    },
+    {
+        "name": "Adds 6-8 lightning damage"
+    },
+    {
+        "name": "Adds 6-8 cold damage"
+    },
+    {
+        "name": "+6 Life Regenerated per Second"
+    },
+    {
+        "name": "3% Chance to cast level 12 Lifeblood on Kill"
+    },
+    {
+        "name": "10% Chance to cast level 20 Death Blossom on Kill"
+    },
+    {
+        "name": "Adds 20-36 fire damage"
+    },
+    {
+        "name": "Adds 12-16 lightning damage"
+    },
+    {
+        "name": "Adds 12-16 cold damage"
+    },
+    {
+        "name": "+9 Life Regenerated per Second"
+    },
+    {
+        "name": "4% Chance to cast level 18 Lifeblood on Kill"
+    },
+    {
+        "name": "15% Chance to cast level 35 Death Blossom on Kill"
+    },
+    {
+        "name": "Adds 66-98 fire damage"
+    },
+    {
+        "name": "Adds 36-48 lightning damage"
+    },
+    {
+        "name": "Adds 36-48 cold damage"
+    },
+    {
+        "name": "+12 Life Regenerated per Second"
+    },
+    {
+        "name": "4% Chance to cast level 21 Lifeblood on Kill"
+    },
+    {
+        "name": "20% Chance to cast level 50 Death Blossom on Kill"
+    },
+    {
+        "name": "Adds 204-292 fire damage"
+    },
+    {
+        "name": "Adds 144-192 lightning damage"
+    },
+    {
+        "name": "Adds 144-192 cold damage"
+    },
+    {
+        "name": "# to (43 - 56)",
+        "min": "25",
+        "max": "32"
+    },
+    {
+        "name": "1% Chance to cast level 3 Phalanx on Kill"
+    },
+    {
+        "name": "1% Chance to cast level 6 Celerity on Kill"
+    },
+    {
+        "name": "10% Magic Find"
+    },
+    {
+        "name": "2% Chance to cast level 7 Phalanx on Kill"
+    },
+    {
+        "name": "2% Chance to cast level 10 Celerity on Kill"
+    },
+    {
+        "name": "# to (173 - 204)",
+        "min": "124",
+        "max": "142"
+    },
+    {
+        "name": "3% Chance to cast level 11 Phalanx on Kill"
+    },
+    {
+        "name": "3% Chance to cast level 14 Celerity on Kill"
+    },
+    {
+        "name": "Adds #-(51 to 70) damage",
+        "min": "36",
+        "max": "45"
+    },
+    {
+        "name": "30% Magic Find"
+    },
+    {
+        "name": "# to (230 - 263)",
+        "min": "168",
+        "max": "187"
+    },
+    {
+        "name": "4% Chance to cast level 13 Phalanx on Kill"
+    },
+    {
+        "name": "4% Chance to cast level 20 Celerity on Kill"
+    },
+    {
+        "name": "Adds #-(71 to 90) damage",
+        "min": "51",
+        "max": "60"
+    },
+    {
+        "name": "40% Magic Find"
+    },
+    {
+        "name": "# to (35 - 38)",
+        "min": "13",
+        "max": "14"
+    },
+    {
+        "name": "Adds 5-13 damage"
+    },
+    {
+        "name": "3% Mana stolen per Hit"
+    },
+    {
+        "name": "3% Life stolen per Hit"
+    },
+    {
+        "name": "# to (74 - 80)",
+        "min": "32",
+        "max": "34"
+    },
+    {
+        "name": "55% Attack Speed"
+    },
+    {
+        "name": "Adds 10-25 damage"
+    },
+    {
+        "name": "6% Mana stolen per Hit"
+    },
+    {
+        "name": "6% Life stolen per Hit"
+    },
+    {
+        "name": "# to (140 - 149)",
+        "min": "62",
+        "max": "66"
+    },
+    {
+        "name": "Adds 20-50 damage"
+    },
+    {
+        "name": "9% Mana stolen per Hit"
+    },
+    {
+        "name": "9% Life stolen per Hit"
+    },
+    {
+        "name": "# to (214 - 230)",
+        "min": "97",
+        "max": "105"
+    },
+    {
+        "name": "Adds 40-90 damage"
+    },
+    {
+        "name": "12% Mana stolen per Hit"
+    },
+    {
+        "name": "12% Life stolen per Hit"
+    },
+    {
+        "name": "# to (37 - 50)",
+        "min": "9",
+        "max": "11"
+    },
+    {
+        "name": "10% Chance to cast level 10 Elemental on Melee Attack"
+    },
+    {
+        "name": "Physical Resist #%",
+        "min": "4",
+        "max": "6"
+    },
+    {
+        "name": "# to (75 - 91)",
+        "min": "22",
+        "max": "25"
+    },
+    {
+        "name": "13% Chance to cast level 24 Elemental on Melee Attack"
+    },
+    {
+        "name": "# to (126 - 146)",
+        "min": "39",
+        "max": "44"
+    },
+    {
+        "name": "16% Chance to cast level 33 Elemental on Melee Attack"
+    },
+    {
+        "name": "# to (183 - 206)",
+        "min": "38",
+        "max": "41"
+    },
+    {
+        "name": "20% Chance to cast level 40 Elemental on Melee Attack"
+    },
+    {
+        "name": "# to (35 - 48)",
+        "min": "10",
+        "max": "12"
+    },
+    {
+        "name": "# to (28 - 39)",
+        "min": "10",
+        "max": "12"
+    },
+    {
+        "name": "7% Chance to cast level 4 Banish on Kill"
+    },
+    {
+        "name": "7% Chance to cast level 12 Apocalypse on Kill"
+    },
+    {
+        "name": "# to (80 - 96)",
+        "min": "30",
+        "max": "34"
+    },
+    {
+        "name": "# to (56 - 69)",
+        "min": "20",
+        "max": "23"
+    },
+    {
+        "name": "8% Chance to cast level 12 Banish on Kill"
+    },
+    {
+        "name": "8% Chance to cast level 20 Apocalypse on Kill"
+    },
+    {
+        "name": "Adds #-(60 to 70) fire damage",
+        "min": "40",
+        "max": "50"
+    },
+    {
+        "name": "# to (145 - 166)",
+        "min": "63",
+        "max": "69"
+    },
+    {
+        "name": "# to (94 - 109)",
+        "min": "38",
+        "max": "42"
+    },
+    {
+        "name": "9% Chance to cast level 20 Banish on Kill"
+    },
+    {
+        "name": "9% Chance to cast level 28 Apocalypse on Kill"
+    },
+    {
+        "name": "Adds #-(170 to 200) fire damage",
+        "min": "130",
+        "max": "150"
+    },
+    {
+        "name": "# to (202 - 225)",
+        "min": "90",
+        "max": "98"
+    },
+    {
+        "name": "# to (127 - 143)",
+        "min": "50",
+        "max": "55"
+    },
+    {
+        "name": "10% Chance to cast level 24 Banish on Kill"
+    },
+    {
+        "name": "10% Chance to cast level 36 Apocalypse on Kill"
+    },
+    {
+        "name": "Adds #-(501 to 600) fire damage",
+        "min": "401",
+        "max": "450"
+    },
+    {
+        "name": "+# to Meteor Shower",
+        "min": "2",
+        "max": "5"
+    },
+    {
+        "name": "#% Reanimate as: Accursed Demihuman",
+        "min": "1"
+    },
+    {
+        "name": "1% Reanimate as: Accursed Demihuman"
+    },
+    {
+        "name": "2% Reanimate as: Accursed Demihuman"
+    },
+    {
+        "name": "5% Chance to cast level 10 Hunting Banshee on Melee Attack"
+    },
+    {
+        "name": "-2% to Enemy Fire Resistance"
+    },
+    {
+        "name": "-2% to Enemy Lightning Resistance"
+    },
+    {
+        "name": "-2% to Enemy Cold Resistance"
+    },
+    {
+        "name": "10% Chance to cast level 18 Hunting Banshee on Melee Attack"
+    },
+    {
+        "name": "-4% to Enemy Lightning Resistance"
+    },
+    {
+        "name": "-4% to Enemy Cold Resistance"
+    },
+    {
+        "name": "15% Chance to cast level 26 Hunting Banshee on Melee Attack"
+    },
+    {
+        "name": "-8% to Enemy Lightning Resistance"
+    },
+    {
+        "name": "-8% to Enemy Cold Resistance"
+    },
+    {
+        "name": "20% Chance to cast level 38 Hunting Banshee on Melee Attack"
+    },
+    {
+        "name": "+4 to Assassin Skill Levels"
+    },
+    {
+        "name": "-12% to Enemy Lightning Resistance"
+    },
+    {
+        "name": "43"
+    },
+    {
+        "name": "Adds 11-25 magic damage"
+    },
+    {
+        "name": "+# to ATMG Sentry",
+        "min": "5",
+        "max": "7"
+    },
+    {
+        "name": "+# to Doom (Assassin Only)",
+        "min": "2",
+        "max": "3"
+    },
+    {
+        "name": "# to (19 - 21)",
+        "min": "16",
+        "max": "18"
+    },
+    {
+        "name": "100"
+    },
+    {
+        "name": "Adds 33-70 magic damage"
+    },
+    {
+        "name": "Requirements +100%"
+    },
+    {
+        "name": "318"
+    },
+    {
+        "name": "Adds 100-200 magic damage"
+    },
+    {
+        "name": "Requirements +200%"
+    },
+    {
+        "name": "1060"
+    },
+    {
+        "name": "Adds 300-600 magic damage"
+    },
+    {
+        "name": "Requirements +400%"
+    },
+    {
+        "name": "# to (15 - 17)",
+        "min": "11",
+        "max": "12"
+    },
+    {
+        "name": "Adds 3-6 damage"
+    },
+    {
+        "name": "+# to Batstrike (Assassin Only)",
+        "min": "2",
+        "max": "3"
+    },
+    {
+        "name": "+25% to Summoned Minion Life"
+    },
+    {
+        "name": "+33% to Summoned Minion Damage"
+    },
+    {
+        "name": "Adds 6-12 damage"
+    },
+    {
+        "name": "+50% to Summoned Minion Life"
+    },
+    {
+        "name": "+66% to Summoned Minion Damage"
+    },
+    {
+        "name": "# to (68 - 72)",
+        "min": "50",
+        "max": "53"
+    },
+    {
+        "name": "Adds 12-24 damage"
+    },
+    {
+        "name": "+75% to Summoned Minion Life"
+    },
+    {
+        "name": "+99% to Summoned Minion Damage"
+    },
+    {
+        "name": "# to (92 - 97)",
+        "min": "72",
+        "max": "75"
+    },
+    {
+        "name": "Adds 24-36 damage"
+    },
+    {
+        "name": "+100% to Summoned Minion Life"
+    },
+    {
+        "name": "+130% to Summoned Minion Damage"
+    },
+    {
+        "name": "Stun Attack"
+    },
+    {
+        "name": "30% Gold Find"
+    },
+    {
+        "name": "Adds 35-45 magic damage"
+    },
+    {
+        "name": "Adds 100-135 magic damage"
+    },
+    {
+        "name": "Adds 300-400 magic damage"
+    },
+    {
+        "name": "# to (32 - 38)",
+        "min": "13",
+        "max": "15"
+    },
+    {
+        "name": "5% Chance to cast level 4 Crucify on Melee Attack"
+    },
+    {
+        "name": "# to (62 - 75)",
+        "min": "30",
+        "max": "33"
+    },
+    {
+        "name": "10% Chance to cast level 14 Crucify on Melee Attack"
+    },
+    {
+        "name": "# to (108 - 123)",
+        "min": "55",
+        "max": "60"
+    },
+    {
+        "name": "15% Chance to cast level 24 Crucify on Melee Attack"
+    },
+    {
+        "name": "# to (136 - 152)",
+        "min": "71",
+        "max": "76"
+    },
+    {
+        "name": "20% Chance to cast level 29 Crucify on Melee Attack"
+    },
+    {
+        "name": "# to (14 - 17)",
+        "min": "12",
+        "max": "14"
+    },
+    {
+        "name": "+12% to Fire Spell Damage"
+    },
+    {
+        "name": "+5 Mana after each Kill"
+    },
+    {
+        "name": "# to (35 - 40)",
+        "min": "28",
+        "max": "32"
+    },
+    {
+        "name": "+20% to Fire Spell Damage"
+    },
+    {
+        "name": "+20% to Poison Spell Damage"
+    },
+    {
+        "name": "+10 Mana after each Kill"
+    },
+    {
+        "name": "# to (66 - 73)",
+        "min": "55",
+        "max": "61"
+    },
+    {
+        "name": "+28% to Fire Spell Damage"
+    },
+    {
+        "name": "+28% to Poison Spell Damage"
+    },
+    {
+        "name": "+15 Mana after each Kill"
+    },
+    {
+        "name": "# to (88 - 96)",
+        "min": "73",
+        "max": "80"
+    },
+    {
+        "name": "+36% to Fire Spell Damage"
+    },
+    {
+        "name": "+36% to Poison Spell Damage"
+    },
+    {
+        "name": "+20 Mana after each Kill"
+    },
+    {
+        "name": "# to (22 - 28)",
+        "min": "17",
+        "max": "22"
+    },
+    {
+        "name": "Slow Target 10%"
+    },
+    {
+        "name": "# to (68 - 88)",
+        "min": "54",
+        "max": "70"
+    },
+    {
+        "name": "Slow Target 15%"
+    },
+    {
+        "name": "# to (148 - 160)",
+        "min": "121",
+        "max": "132"
+    },
+    {
+        "name": "Slow Target 20%"
+    },
+    {
+        "name": "# to (197 - 229)",
+        "min": "159",
+        "max": "184"
+    },
+    {
+        "name": "Slow Target 25%"
+    },
+    {
+        "name": "20% Chance to cast level 4 Flamefront on Melee Attack"
+    },
+    {
+        "name": "5% Chance to cast level 2 Bloodlust on Melee Attack"
+    },
+    {
+        "name": "Adds #-(13 to 20) damage",
+        "min": "8",
+        "max": "10"
+    },
+    {
+        "name": "# to (113 - 130)",
+        "min": "94",
+        "max": "106"
+    },
+    {
+        "name": "30% Chance to cast level 12 Flamefront on Melee Attack"
+    },
+    {
+        "name": "7% Chance to cast level 8 Bloodlust on Melee Attack"
+    },
+    {
+        "name": "Adds #-(28 to 35) damage",
+        "min": "13",
+        "max": "15"
+    },
+    {
+        "name": "# to (221 - 246)",
+        "min": "194",
+        "max": "214"
+    },
+    {
+        "name": "40% Chance to cast level 20 Flamefront on Melee Attack"
+    },
+    {
+        "name": "9% Chance to cast level 14 Bloodlust on Melee Attack"
+    },
+    {
+        "name": "# to (290 - 320)",
+        "min": "255",
+        "max": "277"
+    },
+    {
+        "name": "45% Chance to cast level 24 Flamefront on Melee Attack"
+    },
+    {
+        "name": "10% Chance to cast level 17 Bloodlust on Melee Attack"
+    },
+    {
+        "name": "Adds 5-15 damage"
+    },
+    {
+        "name": "# to (57 - 60)",
+        "min": "33",
+        "max": "36"
+    },
+    {
+        "name": "Adds 10-30 damage"
+    },
+    {
+        "name": "# to (102 - 107)",
+        "min": "64",
+        "max": "68"
+    },
+    {
+        "name": "# to (139 - 145)",
+        "min": "90",
+        "max": "95"
+    },
+    {
+        "name": "Adds 30-70 damage"
+    },
+    {
+        "name": "6% Reanimate as: The Pack"
+    },
+    {
+        "name": "# to (63 - 76)",
+        "min": "27",
+        "max": "30"
+    },
+    {
+        "name": "8% Reanimate as: The Pack"
+    },
+    {
+        "name": "# to (104 - 118)",
+        "min": "50",
+        "max": "55"
+    },
+    {
+        "name": "10% Reanimate as: The Pack"
+    },
+    {
+        "name": "# to (141 - 157)",
+        "min": "69",
+        "max": "75"
+    },
+    {
+        "name": "12% Reanimate as: The Pack"
+    },
+    {
+        "name": "10% Chance to cast level 7 Ice Lance on Melee Attack"
+    },
+    {
+        "name": "Adds 11-15 cold damage"
+    },
+    {
+        "name": "+# to Wolf Stance (Barbarian Only)",
+        "min": "1",
+        "max": "3"
+    },
+    {
+        "name": "Maximum Cold Resist +2%"
+    },
+    {
+        "name": "Half Freeze Duration"
+    },
+    {
+        "name": "# to (31 - 37)",
+        "min": "27",
+        "max": "32"
+    },
+    {
+        "name": "16% Chance to cast level 14 Ice Lance on Melee Attack"
+    },
+    {
+        "name": "Adds 31-40 cold damage"
+    },
+    {
+        "name": "Maximum Cold Resist +3%"
+    },
+    {
+        "name": "# to (63 - 72)",
+        "min": "55",
+        "max": "63"
+    },
+    {
+        "name": "22% Chance to cast level 21 Ice Lance on Melee Attack"
+    },
+    {
+        "name": "Adds 100-110 cold damage"
+    },
+    {
+        "name": "Maximum Cold Resist +4%"
+    },
+    {
+        "name": "Cannot Be Frozen"
+    },
+    {
+        "name": "# to (92 - 104)",
+        "min": "78",
+        "max": "88"
+    },
+    {
+        "name": "25% Chance to cast level 28 Ice Lance on Melee Attack"
+    },
+    {
+        "name": "Adds 300-340 cold damage"
+    },
+    {
+        "name": "Maximum Cold Resist +5%"
+    },
+    {
+        "name": "# to (16 - 18)",
+        "min": "13",
+        "max": "15"
+    },
+    {
+        "name": "+#% to Summoned Minion Damage",
+        "min": "11",
+        "max": "15"
+    },
+    {
+        "name": "Maximum Mana #%",
+        "min": "21",
+        "max": "25"
+    },
+    {
+        "name": "# to (37 - 42)",
+        "min": "31",
+        "max": "35"
+    },
+    {
+        "name": "# to (71 - 77)",
+        "min": "59",
+        "max": "64"
+    },
+    {
+        "name": "# to (94 - 101)",
+        "min": "77",
+        "max": "83"
+    },
+    {
+        "name": "+# to Barbarian Skill Levels",
+        "min": "3",
+        "max": "4"
+    },
+    {
+        "name": "# to (18 - 21)",
+        "min": "14",
+        "max": "16"
+    },
+    {
+        "name": "2% Chance to cast level 4 Spike Nova on Melee Attack"
+    },
+    {
+        "name": "+0.4375 to Maximum Damage (Based on Character Level)"
+    },
+    {
+        "name": "# to (41 - 45)",
+        "min": "33",
+        "max": "36"
+    },
+    {
+        "name": "4% Chance to cast level 8 Spike Nova on Melee Attack"
+    },
+    {
+        "name": "+0.5625 to Maximum Damage (Based on Character Level)"
+    },
+    {
+        "name": "# to (76 - 83)",
+        "min": "65",
+        "max": "71"
+    },
+    {
+        "name": "6% Chance to cast level 12 Spike Nova on Melee Attack"
+    },
+    {
+        "name": "+0.6875 to Maximum Damage (Based on Character Level)"
+    },
+    {
+        "name": "# to (100 - 108)",
+        "min": "83",
+        "max": "90"
+    },
+    {
+        "name": "8% Chance to cast level 14 Spike Nova on Melee Attack"
+    },
+    {
+        "name": "+0.75 to Maximum Damage (Based on Character Level)"
+    },
+    {
+        "name": "# to (15 - 26)",
+        "min": "7",
+        "max": "8"
+    },
+    {
+        "name": "+# Enhanced Stance Radius",
+        "min": "5",
+        "max": "6"
+    },
+    {
+        "name": "7% Chance to cast level 6 Spike Nova on Melee Attack"
+    },
+    {
+        "name": "# to (36 - 47)",
+        "min": "18",
+        "max": "20"
+    },
+    {
+        "name": "8% Chance to cast level 8 Spike Nova on Melee Attack"
+    },
+    {
+        "name": "# to (66 - 79)",
+        "min": "38",
+        "max": "41"
+    },
+    {
+        "name": "9% Chance to cast level 10 Spike Nova on Melee Attack"
+    },
+    {
+        "name": "# to (89 - 102)",
+        "min": "53",
+        "max": "57"
+    },
+    {
+        "name": "10% Chance to cast level 12 Spike Nova on Melee Attack"
+    },
+    {
+        "name": "# to (23 - 33)",
+        "min": "14",
+        "max": "16"
+    },
+    {
+        "name": "2% Chance to cast level 6 Mark of the Wild on Melee Attack"
+    },
+    {
+        "name": "Adds #-(11 to 15) fire damage",
+        "min": "6",
+        "max": "10"
+    },
+    {
+        "name": "Adds #-(11 to 15) lightning damage",
+        "min": "6",
+        "max": "10"
+    },
+    {
+        "name": "# to (62 - 73)",
+        "min": "33",
+        "max": "37"
+    },
+    {
+        "name": "3% Chance to cast level 18 Mark of the Wild on Melee Attack"
+    },
+    {
+        "name": "Adds #-(51 to 60) fire damage",
+        "min": "31",
+        "max": "40"
+    },
+    {
+        "name": "Adds #-(51 to 60) lightning damage",
+        "min": "31",
+        "max": "40"
+    },
+    {
+        "name": "# to (112 - 126)",
+        "min": "63",
+        "max": "69"
+    },
+    {
+        "name": "4% Chance to cast level 30 Mark of the Wild on Melee Attack"
+    },
+    {
+        "name": "Adds #-(201 to 240) fire damage",
+        "min": "131",
+        "max": "160"
+    },
+    {
+        "name": "Adds #-(201 to 240) lightning damage",
+        "min": "131",
+        "max": "160"
+    },
+    {
+        "name": "# to (142 - 157)",
+        "min": "83",
+        "max": "90"
+    },
+    {
+        "name": "4% Chance to cast level 36 Mark of the Wild on Melee Attack"
+    },
+    {
+        "name": "Adds #-(401 to 480) fire damage",
+        "min": "261",
+        "max": "320"
+    },
+    {
+        "name": "Adds #-(401 to 480) lightning damage",
+        "min": "261",
+        "max": "320"
+    },
+    {
+        "name": "+# to Forked Lightning",
+        "min": "3",
+        "max": "5"
+    },
+    {
+        "name": "+# Mana on Attack",
+        "min": "81",
+        "max": "100"
+    },
+    {
+        "name": "# to (48 - 62)",
+        "min": "23",
+        "max": "27"
+    },
+    {
+        "name": "Adds 5-7 fire damage"
+    },
+    {
+        "name": "Adds 5-7 lightning damage"
+    },
+    {
+        "name": "Adds 5-7 cold damage"
+    },
+    {
+        "name": "+# to Blood Hatred (Barbarian Only)",
+        "min": "2",
+        "max": "3"
+    },
+    {
+        "name": "# to (118 - 139)",
+        "min": "62",
+        "max": "71"
+    },
+    {
+        "name": "Adds 14-20 fire damage"
+    },
+    {
+        "name": "Adds 14-20 lightning damage"
+    },
+    {
+        "name": "Adds 14-20 cold damage"
+    },
+    {
+        "name": "# to (221 - 247)",
+        "min": "126",
+        "max": "139"
+    },
+    {
+        "name": "Adds 40-60 fire damage"
+    },
+    {
+        "name": "Adds 40-60 lightning damage"
+    },
+    {
+        "name": "Adds 40-60 cold damage"
+    },
+    {
+        "name": "# to (282 - 311)",
+        "min": "168",
+        "max": "184"
+    },
+    {
+        "name": "Adds 120-180 fire damage"
+    },
+    {
+        "name": "Adds 120-180 lightning damage"
+    },
+    {
+        "name": "Adds 120-180 cold damage"
+    },
+    {
+        "name": "# to (50 - 70)",
+        "min": "29",
+        "max": "35"
+    },
+    {
+        "name": "+# to Earthquake (Barbarian Only)",
+        "min": "3",
+        "max": "6"
+    },
+    {
+        "name": "+12 Mana on Attack"
+    },
+    {
+        "name": "# to (132 - 157)",
+        "min": "79",
+        "max": "90"
+    },
+    {
+        "name": "+20 Mana on Attack"
+    },
+    {
+        "name": "# to (245 - 277)",
+        "min": "159",
+        "max": "175"
+    },
+    {
+        "name": "+30 Mana on Attack"
+    },
+    {
+        "name": "# to (326 - 367)",
+        "min": "190",
+        "max": "208"
+    },
+    {
+        "name": "+40 Mana on Attack"
+    },
+    {
+        "name": "# to (18 - 34)",
+        "min": "8",
+        "max": "9"
+    },
+    {
+        "name": "+5% Bonus Elemental Damage to Mark of the Wild"
+    },
+    {
+        "name": "# to (57 - 80)",
+        "min": "27",
+        "max": "30"
+    },
+    {
+        "name": "+10% Bonus Elemental Damage to Mark of the Wild"
+    },
+    {
+        "name": "# to (112 - 148)",
+        "min": "61",
+        "max": "66"
+    },
+    {
+        "name": "+15% Bonus Elemental Damage to Mark of the Wild"
+    },
+    {
+        "name": "# to (142 - 182)",
+        "min": "81",
+        "max": "88"
+    },
+    {
+        "name": "+20% Bonus Elemental Damage to Mark of the Wild"
+    },
+    {
+        "name": "# to (33 - 44)",
+        "min": "13",
+        "max": "15"
+    },
+    {
+        "name": "10% Chance to cast level 20 Venomous Spirit on Kill"
+    },
+    {
+        "name": "# to (80 - 105)",
+        "min": "37",
+        "max": "41"
+    },
+    {
+        "name": "15% Chance to cast level 30 Venomous Spirit on Kill"
+    },
+    {
+        "name": "# to (147 - 175)",
+        "min": "76",
+        "max": "83"
+    },
+    {
+        "name": "20% Chance to cast level 40 Venomous Spirit on Kill"
+    },
+    {
+        "name": "# to (202 - 232)",
+        "min": "103",
+        "max": "112"
+    },
+    {
+        "name": "25% Chance to cast level 50 Venomous Spirit on Kill"
+    },
+    {
+        "name": "# to (22 - 25)",
+        "min": "15",
+        "max": "17"
+    },
+    {
+        "name": "7% Chance to cast level 1 Arrow on Striking"
+    },
+    {
+        "name": "Adds 25-100 poison damage over 2 seconds"
+    },
+    {
+        "name": "# to (58 - 64)",
+        "min": "42",
+        "max": "47"
+    },
+    {
+        "name": "8% Chance to cast level 1 Arrow on Striking"
+    },
+    {
+        "name": "Adds 75-200 poison damage over 2 seconds"
+    },
+    {
+        "name": "# to (110 - 121)",
+        "min": "86",
+        "max": "94"
+    },
+    {
+        "name": "9% Chance to cast level 1 Arrow on Striking"
+    },
+    {
+        "name": "Adds 150-400 poison damage over 2 seconds"
+    },
+    {
+        "name": "# to (152 - 165)",
+        "min": "117",
+        "max": "127"
+    },
+    {
+        "name": "10% Chance to cast level 1 Arrow on Striking"
+    },
+    {
+        "name": "Adds 300-600 poison damage over 2 seconds"
+    },
+    {
+        "name": "# to (39 - 47)",
+        "min": "24",
+        "max": "28"
+    },
+    {
+        "name": "10% Chance to cast level 7 Flamefront on Kill"
+    },
+    {
+        "name": "Adds #-(16 to 20) damage",
+        "min": "8",
+        "max": "10"
+    },
+    {
+        "name": "# to (85 - 102)",
+        "min": "58",
+        "max": "68"
+    },
+    {
+        "name": "15% Chance to cast level 14 Flamefront on Kill"
+    },
+    {
+        "name": "50% Hit Recovery"
+    },
+    {
+        "name": "# to (165 - 187)",
+        "min": "119",
+        "max": "134"
+    },
+    {
+        "name": "20% Chance to cast level 21 Flamefront on Kill"
+    },
+    {
+        "name": "75% Hit Recovery"
+    },
+    {
+        "name": "Adds #-(36 to 45) damage",
+        "min": "21",
+        "max": "25"
+    },
+    {
+        "name": "# to (227 - 252)",
+        "min": "161",
+        "max": "178"
+    },
+    {
+        "name": "25% Chance to cast level 28 Flamefront on Kill"
+    },
+    {
+        "name": "100% Hit Recovery"
+    },
+    {
+        "name": "# to (32 - 40)",
+        "min": "17",
+        "max": "20"
+    },
+    {
+        "name": "5% Chance to cast level 1 Barrage on Kill"
+    },
+    {
+        "name": "Attacker Flees after Striking #%",
+        "min": "4",
+        "max": "5"
+    },
+    {
+        "name": "# to (81 - 100)",
+        "min": "52",
+        "max": "59"
+    },
+    {
+        "name": "7% Chance to cast level 5 Barrage on Kill"
+    },
+    {
+        "name": "# to (162 - 186)",
+        "min": "107",
+        "max": "118"
+    },
+    {
+        "name": "9% Chance to cast level 9 Barrage on Kill"
+    },
+    {
+        "name": "# to (219 - 245)",
+        "min": "142",
+        "max": "156"
+    },
+    {
+        "name": "10% Chance to cast level 11 Barrage on Kill"
+    },
+    {
+        "name": "+6% Bonus Elemental Damage to Mark of the Wild"
+    },
+    {
+        "name": "+# to Charm",
+        "min": "1",
+        "max": "4"
+    },
+    {
+        "name": "+9% Bonus Elemental Damage to Mark of the Wild"
+    },
+    {
+        "name": "+12% Bonus Elemental Damage to Mark of the Wild"
+    },
+    {
+        "name": "+6 to Druid Skill Levels"
+    },
+    {
+        "name": "# to (16 - 27)",
+        "min": "5",
+        "max": "6"
+    },
+    {
+        "name": "# to (38 - 56)",
+        "min": "16",
+        "max": "19"
+    },
+    {
+        "name": "# to (82 - 102)",
+        "min": "39",
+        "max": "44"
+    },
+    {
+        "name": "# to (116 - 137)",
+        "min": "55",
+        "max": "60"
+    },
+    {
+        "name": "# to (29 - 41)",
+        "min": "4",
+        "max": "5"
+    },
+    {
+        "name": "15% Chance to cast level 14 Hunting Banshee on Kill"
+    },
+    {
+        "name": "Adds 7-10 cold damage"
+    },
+    {
+        "name": "#% Chance to Avoid Damage",
+        "min": "3",
+        "max": "5"
+    },
+    {
+        "name": "# to (81 - 96)",
+        "min": "18",
+        "max": "20"
+    },
+    {
+        "name": "20% Chance to cast level 25 Hunting Banshee on Kill"
+    },
+    {
+        "name": "Adds 20-30 cold damage"
+    },
+    {
+        "name": "# to (159 - 179)",
+        "min": "39",
+        "max": "44"
+    },
+    {
+        "name": "25% Chance to cast level 38 Hunting Banshee on Kill"
+    },
+    {
+        "name": "Adds 60-80 cold damage"
+    },
+    {
+        "name": "# to (205 - 227)",
+        "min": "53",
+        "max": "58"
+    },
+    {
+        "name": "30% Chance to cast level 50 Hunting Banshee on Kill"
+    },
+    {
+        "name": "Adds 180-240 cold damage"
+    },
+    {
+        "name": "1% Chance to cast level 5 Spike Nova when Struck by a Missile"
+    },
+    {
+        "name": "Hit Causes Monster to Flee +3%"
+    },
+    {
+        "name": "+# to Maximum Necromancer Minions",
+        "min": "1"
+    },
+    {
+        "name": "2% Chance to cast level 9 Spike Nova when Struck by a Missile"
+    },
+    {
+        "name": "Hit Causes Monster to Flee +#%",
+        "min": "6",
+        "max": "7"
+    },
+    {
+        "name": "3% Chance to cast level 13 Spike Nova when Struck by a Missile"
+    },
+    {
+        "name": "70% Cast Speed"
+    },
+    {
+        "name": "+1 to Maximum Necromancer Minions"
+    },
+    {
+        "name": "4% Chance to cast level 15 Spike Nova when Struck by a Missile"
+    },
+    {
+        "name": "80% Cast Speed"
+    },
+    {
+        "name": "# to (7 - 9)",
+        "min": "5",
+        "max": "6"
+    },
+    {
+        "name": "# to (53 - 57)",
+        "min": "28",
+        "max": "31"
+    },
+    {
+        "name": "+# to Dragonfire Oil (Necromancer Only)",
+        "min": "1",
+        "max": "3"
+    },
+    {
+        "name": "+20 to Dexterity"
+    },
+    {
+        "name": "+35 to Strength"
+    },
+    {
+        "name": "+35 to Dexterity"
+    },
+    {
+        "name": "# to (55 - 60)",
+        "min": "28",
+        "max": "31"
+    },
+    {
+        "name": "+50 to Strength"
+    },
+    {
+        "name": "+50 to Dexterity"
+    },
+    {
+        "name": "# to (71 - 76)",
+        "min": "37",
+        "max": "40"
+    },
+    {
+        "name": "+65 to Strength"
+    },
+    {
+        "name": "+65 to Dexterity"
+    },
+    {
+        "name": "19"
+    },
+    {
+        "name": "7% Chance to cast level 10 Vindicate on Striking"
+    },
+    {
+        "name": "+#% to Summoned Minion Resistances",
+        "min": "21",
+        "max": "30"
+    },
+    {
+        "name": "28"
+    },
+    {
+        "name": "8% Chance to cast level 10 Vindicate on Striking"
+    },
+    {
+        "name": "50"
+    },
+    {
+        "name": "9% Chance to cast level 10 Vindicate on Striking"
+    },
+    {
+        "name": "Requirements -50%"
+    },
+    {
+        "name": "80"
+    },
+    {
+        "name": "10% Chance to cast level 10 Vindicate on Striking"
+    },
+    {
+        "name": "Adds #-(11 to 20) fire damage",
+        "min": "6",
+        "max": "9"
+    },
+    {
+        "name": "Adds #-(11 to 20) lightning damage",
+        "min": "6",
+        "max": "9"
+    },
+    {
+        "name": "Adds #-(41 to 80) fire damage",
+        "min": "18",
+        "max": "35"
+    },
+    {
+        "name": "Adds #-(41 to 80) lightning damage",
+        "min": "18",
+        "max": "35"
+    },
+    {
+        "name": "Adds #-(161 to 320) fire damage",
+        "min": "71",
+        "max": "140"
+    },
+    {
+        "name": "Adds #-(161 to 320) lightning damage",
+        "min": "71",
+        "max": "140"
+    },
+    {
+        "name": "Adds #-(321 to 640) fire damage",
+        "min": "141",
+        "max": "280"
+    },
+    {
+        "name": "Adds #-(321 to 640) lightning damage",
+        "min": "141",
+        "max": "280"
+    },
+    {
+        "name": "# to (39 - 44)",
+        "min": "30",
+        "max": "34"
+    },
+    {
+        "name": "4% Chance to cast level 10 Abyss on Kill"
+    },
+    {
+        "name": "# to (94 - 104)",
+        "min": "77",
+        "max": "86"
+    },
+    {
+        "name": "6% Chance to cast level 20 Abyss on Kill"
+    },
+    {
+        "name": "# to (175 - 190)",
+        "min": "147",
+        "max": "161"
+    },
+    {
+        "name": "8% Chance to cast level 30 Abyss on Kill"
+    },
+    {
+        "name": "Adds 101-120 cold damage"
+    },
+    {
+        "name": "# to (243 - 262)",
+        "min": "207",
+        "max": "223"
+    },
+    {
+        "name": "10% Chance to cast level 40 Abyss on Kill"
+    },
+    {
+        "name": "# to (48 - 59)",
+        "min": "25",
+        "max": "29"
+    },
+    {
+        "name": "5% Chance to cast level 5 Plague Avatar on Kill"
+    },
+    {
+        "name": "-5% Attack Speed"
+    },
+    {
+        "name": "# to (121 - 139)",
+        "min": "74",
+        "max": "83"
+    },
+    {
+        "name": "6% Chance to cast level 15 Plague Avatar on Kill"
+    },
+    {
+        "name": "# to (227 - 253)",
+        "min": "151",
+        "max": "166"
+    },
+    {
+        "name": "7% Chance to cast level 25 Plague Avatar on Kill"
+    },
+    {
+        "name": "-15% Attack Speed"
+    },
+    {
+        "name": "# to (295 - 323)",
+        "min": "201",
+        "max": "219"
+    },
+    {
+        "name": "8% Chance to cast level 35 Plague Avatar on Kill"
+    },
+    {
+        "name": "-2% to Enemy Poison Resistance"
+    },
+    {
+        "name": "+# to Pestilence (Necromancer Only)",
+        "min": "1",
+        "max": "3"
+    },
+    {
+        "name": "-7% to Enemy Poison Resistance"
+    },
+    {
+        "name": "-10% to Enemy Poison Resistance"
+    },
+    {
+        "name": "1% Chance to cast level 6 Flamefront on Death Blow"
+    },
+    {
+        "name": "1% Chance to cast level 12 Flamefront on Death Blow"
+    },
+    {
+        "name": "1% Chance to cast level 18 Flamefront on Death Blow"
+    },
+    {
+        "name": "1% Chance to cast level 24 Flamefront on Death Blow"
+    },
+    {
+        "name": "+15% to Summoned Minion Resistances"
+    },
+    {
+        "name": "+25% to Summoned Minion Resistances"
+    },
+    {
+        "name": "+35% to Summoned Minion Resistances"
+    },
+    {
+        "name": "+4 to Necromancer Skill Levels"
+    },
+    {
+        "name": "+50% to Summoned Minion Resistances"
+    },
+    {
+        "name": "10% Bonus to Buff/Debuff/Cold Skill Duration"
+    },
+    {
+        "name": "+1 to Dark Power"
+    },
+    {
+        "name": "+# to Summon Darklings",
+        "min": "6",
+        "max": "9"
+    },
+    {
+        "name": "+1 Life Regenerated per Second (Based on Character Level)"
+    },
+    {
+        "name": "20% Bonus to Buff/Debuff/Cold Skill Duration"
+    },
+    {
+        "name": "+2 to Dark Power"
+    },
+    {
+        "name": "30% Bonus to Buff/Debuff/Cold Skill Duration"
+    },
+    {
+        "name": "+3 to Dark Power"
+    },
+    {
+        "name": "40% Bonus to Buff/Debuff/Cold Skill Duration"
+    },
+    {
+        "name": "+4 to Dark Power"
+    },
+    {
+        "name": "2% Chance to cast level 4 Cataclysm on Melee Attack"
+    },
+    {
+        "name": "4% Chance to cast level 18 Cataclysm on Melee Attack"
+    },
+    {
+        "name": "6% Chance to cast level 28 Cataclysm on Melee Attack"
+    },
+    {
+        "name": "8% Chance to cast level 35 Cataclysm on Melee Attack"
+    },
+    {
+        "name": "# to (15 - 22)",
+        "min": "9",
+        "max": "11"
+    },
+    {
+        "name": "4% Chance to cast level 1 Ice Elementals on Death Blow"
+    },
+    {
+        "name": "+#% to Spell Damage",
+        "min": "4",
+        "max": "6"
+    },
+    {
+        "name": "+10% to Summoned Minion Resistances"
+    },
+    {
+        "name": "# to (45 - 53)",
+        "min": "24",
+        "max": "27"
+    },
+    {
+        "name": "5% Chance to cast level 5 Ice Elementals on Death Blow"
+    },
+    {
+        "name": "6% Chance to cast level 10 Ice Elementals on Death Blow"
+    },
+    {
+        "name": "+20% to Summoned Minion Resistances"
+    },
+    {
+        "name": "# to (112 - 124)",
+        "min": "67",
+        "max": "73"
+    },
+    {
+        "name": "8% Chance to cast level 16 Ice Elementals on Death Blow"
+    },
+    {
+        "name": "+30% to Summoned Minion Resistances"
+    },
+    {
+        "name": "55 to 58"
+    },
+    {
+        "name": "1% Chance to cast level 2 Celerity when Struck"
+    },
+    {
+        "name": "#% Reanimate as: Broken Soul",
+        "min": "2",
+        "max": "4"
+    },
+    {
+        "name": "80 to 84"
+    },
+    {
+        "name": "2% Chance to cast level 6 Celerity when Struck"
+    },
+    {
+        "name": "143 to 151"
+    },
+    {
+        "name": "2% Chance to cast level 10 Celerity when Struck"
+    },
+    {
+        "name": "265 to 282"
+    },
+    {
+        "name": "2% Chance to cast level 12 Celerity when Struck"
+    },
+    {
+        "name": "# to (34 - 46)",
+        "min": "23",
+        "max": "27"
+    },
+    {
+        "name": "3% Chance to cast level 4 Thunder Slam on Melee Attack"
+    },
+    {
+        "name": "# to (93 - 110)",
+        "min": "60",
+        "max": "69"
+    },
+    {
+        "name": "4% Chance to cast level 12 Thunder Slam on Melee Attack"
+    },
+    {
+        "name": "# to (175 - 197)",
+        "min": "120",
+        "max": "132"
+    },
+    {
+        "name": "5% Chance to cast level 20 Thunder Slam on Melee Attack"
+    },
+    {
+        "name": "# to (238 - 263)",
+        "min": "142",
+        "max": "156"
+    },
+    {
+        "name": "5% Chance to cast level 24 Thunder Slam on Melee Attack"
+    },
+    {
+        "name": "# to (30 - 43)",
+        "min": "6",
+        "max": "7"
+    },
+    {
+        "name": "5% Chance to cast level 1 Arrow on Striking"
+    },
+    {
+        "name": "# to (72 - 89)",
+        "min": "18",
+        "max": "22"
+    },
+    {
+        "name": "8% Chance to cast level 3 Arrow on Striking"
+    },
+    {
+        "name": "# to (133 - 155)",
+        "min": "39",
+        "max": "45"
+    },
+    {
+        "name": "11% Chance to cast level 5 Arrow on Striking"
+    },
+    {
+        "name": "# to (194 - 219)",
+        "min": "59",
+        "max": "66"
+    },
+    {
+        "name": "14% Chance to cast level 6 Arrow on Striking"
+    },
+    {
+        "name": "2% Reanimate as: Daystar"
+    },
+    {
+        "name": "# to (49 - 53)",
+        "min": "26",
+        "max": "28"
+    },
+    {
+        "name": "3% Reanimate as: Daystar"
+    },
+    {
+        "name": "# to (88 - 94)",
+        "min": "52",
+        "max": "56"
+    },
+    {
+        "name": "4% Reanimate as: Daystar"
+    },
+    {
+        "name": "# to (129 - 137)",
+        "min": "59",
+        "max": "63"
+    },
+    {
+        "name": "5% Reanimate as: Daystar"
+    },
+    {
+        "name": "+3 to Light Radius"
+    },
+    {
+        "name": "+4 to Light Radius"
+    },
+    {
+        "name": "+5 to Light Radius"
+    },
+    {
+        "name": "+6% to Experience Gained"
+    },
+    {
+        "name": "+6 to Light Radius"
+    },
+    {
+        "name": "+# Defense vs. Melee",
+        "min": "200",
+        "max": "300"
+    },
+    {
+        "name": "Regenerate Mana +10%"
+    },
+    {
+        "name": "+# to Thunderstone (Sorceress Only)",
+        "min": "3",
+        "max": "4"
+    },
+    {
+        "name": "Lightning Resist +30%"
+    },
+    {
+        "name": "Lightning Resist +60%"
+    },
+    {
+        "name": "+# to Sorceress Skill Levels",
+        "min": "2",
+        "max": "3"
+    },
+    {
+        "name": "Lightning Resist +90%"
+    },
+    {
+        "name": "Lightning Resist +120%"
+    },
+    {
+        "name": "1% Chance to cast level 2 Blast Wave when Attacked"
+    },
+    {
+        "name": "0.125% to Fire Spell Damage (Based on Character Level)"
+    },
+    {
+        "name": "1% Chance to cast level 8 Blast Wave when Attacked"
+    },
+    {
+        "name": "0.1875% to Fire Spell Damage (Based on Character Level)"
+    },
+    {
+        "name": "1% Chance to cast level 14 Blast Wave when Attacked"
+    },
+    {
+        "name": "0.25% to Fire Spell Damage (Based on Character Level)"
+    },
+    {
+        "name": "1% Chance to cast level 17 Blast Wave when Attacked"
+    },
+    {
+        "name": "0.34375% to Fire Spell Damage (Based on Character Level)"
+    },
+    {
+        "name": "# to (30 - 45)",
+        "min": "11",
+        "max": "13"
+    },
+    {
+        "name": "39 to 41"
+    },
+    {
+        "name": "5% Chance to cast level 12 Energy Beam on Melee Attack"
+    },
+    {
+        "name": "#% Reanimate as: Flayer Archon",
+        "min": "3",
+        "max": "4"
+    },
+    {
+        "name": "# to (85 - 103)",
+        "min": "27",
+        "max": "30"
+    },
+    {
+        "name": "53 to 56"
+    },
+    {
+        "name": "10% Chance to cast level 20 Energy Beam on Melee Attack"
+    },
+    {
+        "name": "# to (157 - 179)",
+        "min": "49",
+        "max": "54"
+    },
+    {
+        "name": "91 to 96"
+    },
+    {
+        "name": "15% Chance to cast level 28 Energy Beam on Melee Attack"
+    },
+    {
+        "name": "166 to 177"
+    },
+    {
+        "name": "20% Chance to cast level 36 Energy Beam on Melee Attack"
+    },
+    {
+        "name": "# to (59 - 64)",
+        "min": "28",
+        "max": "30"
+    },
+    {
+        "name": "Adds 5-9 damage"
+    },
+    {
+        "name": "2% Life stolen per Hit"
+    },
+    {
+        "name": "+#% Enhanced Defense",
+        "min": "18",
+        "max": "29"
+    },
+    {
+        "name": "# to (224 - 241)",
+        "min": "149",
+        "max": "161"
+    },
+    {
+        "name": "Adds 10-14 damage"
+    },
+    {
+        "name": "# to (572 - 610)",
+        "min": "403",
+        "max": "430"
+    },
+    {
+        "name": "Adds 15-18 damage"
+    },
+    {
+        "name": "4% Life stolen per Hit"
+    },
+    {
+        "name": "# to (834 - 887)",
+        "min": "595",
+        "max": "632"
+    },
+    {
+        "name": "Adds 20-25 damage"
+    },
+    {
+        "name": "5% Life stolen per Hit"
+    },
+    {
+        "name": "+80 Life Regenerated per Second"
+    },
+    {
+        "name": "+# to Rotting Flesh (Necromancer Only)",
+        "min": "1",
+        "max": "3"
+    },
+    {
+        "name": "# to (322 - 366)",
+        "min": "198",
+        "max": "225"
+    },
+    {
+        "name": "# to (815 - 906)",
+        "min": "530",
+        "max": "589"
+    },
+    {
+        "name": "# to (1312 - 1501)",
+        "min": "858",
+        "max": "982"
+    },
+    {
+        "name": "# to (132 - 151)",
+        "min": "66",
+        "max": "75"
+    },
+    {
+        "name": "+# to Whirlpool",
+        "min": "2",
+        "max": "4"
+    },
+    {
+        "name": "#% to Vitality",
+        "min": "3",
+        "max": "5"
+    },
+    {
+        "name": "# to (449 - 500)",
+        "min": "267",
+        "max": "297"
+    },
+    {
+        "name": "# to (1131 - 1228)",
+        "min": "701",
+        "max": "761"
+    },
+    {
+        "name": "# to (1691 - 1823)",
+        "min": "1052",
+        "max": "1135"
+    },
+    {
+        "name": "# to (169 - 194)",
+        "min": "82",
+        "max": "94"
+    },
+    {
+        "name": "2% Chance to cast level 9 Lifeblood on Kill"
+    },
+    {
+        "name": "10% Gold Find"
+    },
+    {
+        "name": "# to (551 - 613)",
+        "min": "316",
+        "max": "351"
+    },
+    {
+        "name": "3% Chance to cast level 13 Lifeblood on Kill"
+    },
+    {
+        "name": "Regenerate Mana +22%"
+    },
+    {
+        "name": "Total Character Defense 22%"
+    },
+    {
+        "name": "15% Gold Find"
+    },
+    {
+        "name": "# to (1380 - 1498)",
+        "min": "820",
+        "max": "891"
+    },
+    {
+        "name": "4% Chance to cast level 17 Lifeblood on Kill"
+    },
+    {
+        "name": "Regenerate Mana +34%"
+    },
+    {
+        "name": "Total Character Defense 34%"
+    },
+    {
+        "name": "20% Gold Find"
+    },
+    {
+        "name": "# to (2044 - 2204)",
+        "min": "1224",
+        "max": "1320"
+    },
+    {
+        "name": "5% Chance to cast level 21 Lifeblood on Kill"
+    },
+    {
+        "name": "Regenerate Mana +45%"
+    },
+    {
+        "name": "25% Gold Find"
+    },
+    {
+        "name": "# to (226 - 259)",
+        "min": "111",
+        "max": "127"
+    },
+    {
+        "name": "1% Chance to cast level 6 Bloodlust on Death Blow"
+    },
+    {
+        "name": "# to (735 - 817)",
+        "min": "410",
+        "max": "456"
+    },
+    {
+        "name": "1% Chance to cast level 18 Bloodlust on Death Blow"
+    },
+    {
+        "name": "# to (1744 - 1909)",
+        "min": "1021",
+        "max": "1117"
+    },
+    {
+        "name": "1% Chance to cast level 30 Bloodlust on Death Blow"
+    },
+    {
+        "name": "# to (2718 - 2942)",
+        "min": "1591",
+        "max": "1722"
+    },
+    {
+        "name": "1% Chance to cast level 36 Bloodlust on Death Blow"
+    },
+    {
+        "name": "# to (254 - 293)",
+        "min": "127",
+        "max": "147"
+    },
+    {
+        "name": "+# Life Regenerated per Second",
+        "min": "6",
+        "max": "10"
+    },
+    {
+        "name": "# to (816 - 911)",
+        "min": "452",
+        "max": "505"
+    },
+    {
+        "name": "# to (2031 - 2221)",
+        "min": "1166",
+        "max": "1275"
+    },
+    {
+        "name": "# to (3030 - 3287)",
+        "min": "1738",
+        "max": "1885"
+    },
+    {
+        "name": "# to (279 - 305)",
+        "min": "138",
+        "max": "150"
+    },
+    {
+        "name": "41 to 43"
+    },
+    {
+        "name": "Adds #-(11 to 13) cold damage",
+        "min": "3",
+        "max": "7"
+    },
+    {
+        "name": "#% Reanimate as: Returned Archer",
+        "min": "3",
+        "max": "4"
+    },
+    {
+        "name": "+# Life after each Demon Kill",
+        "min": "10",
+        "max": "15"
+    },
+    {
+        "name": "# to (798 - 860)",
+        "min": "437",
+        "max": "471"
+    },
+    {
+        "name": "54 to 56"
+    },
+    {
+        "name": "6% Chance to cast level 1 Arrow on Striking"
+    },
+    {
+        "name": "Adds #-(26 to 50) cold damage",
+        "min": "13",
+        "max": "25"
+    },
+    {
+        "name": "# to (1843 - 1967)",
+        "min": "1038",
+        "max": "1107"
+    },
+    {
+        "name": "98 to 104"
+    },
+    {
+        "name": "Adds #-(101 to 200) cold damage",
+        "min": "51",
+        "max": "100"
+    },
+    {
+        "name": "# to (2670 - 2838)",
+        "min": "1513",
+        "max": "1608"
+    },
+    {
+        "name": "188 to 200"
+    },
+    {
+        "name": "Adds #-(201 to 400) cold damage",
+        "min": "101",
+        "max": "200"
+    },
+    {
+        "name": "# to (379 - 422)",
+        "min": "203",
+        "max": "224"
+    },
+    {
+        "name": "5% Chance to cast level 1 Claw Tornado on Melee Attack"
+    },
+    {
+        "name": "# to (1100 - 1207)",
+        "min": "622",
+        "max": "681"
+    },
+    {
+        "name": "6% Chance to cast level 7 Claw Tornado on Melee Attack"
+    },
+    {
+        "name": "# to (2563 - 2777)",
+        "min": "1471",
+        "max": "1589"
+    },
+    {
+        "name": "7% Chance to cast level 13 Claw Tornado on Melee Attack"
+    },
+    {
+        "name": "8% Life stolen per Hit"
+    },
+    {
+        "name": "Physical Resist 5%"
+    },
+    {
+        "name": "# to (3757 - 4046)",
+        "min": "2168",
+        "max": "2330"
+    },
+    {
+        "name": "8% Chance to cast level 16 Claw Tornado on Melee Attack"
+    },
+    {
+        "name": "10% Life stolen per Hit"
+    },
+    {
+        "name": "# to (370 - 418)",
+        "min": "184",
+        "max": "208"
+    },
+    {
+        "name": "2% Chance to cast level 4 Guard Tower on Kill"
+    },
+    {
+        "name": "Adds #-(7 to 8) fire damage",
+        "min": "3",
+        "max": "4"
+    },
+    {
+        "name": "Adds #-(7 to 8) lightning damage",
+        "min": "3",
+        "max": "4"
+    },
+    {
+        "name": "Adds #-(7 to 8) cold damage",
+        "min": "3",
+        "max": "4"
+    },
+    {
+        "name": "# to (1106 - 1225)",
+        "min": "592",
+        "max": "656"
+    },
+    {
+        "name": "4% Chance to cast level 10 Guard Tower on Kill"
+    },
+    {
+        "name": "Adds #-(16 to 30) fire damage",
+        "min": "8",
+        "max": "15"
+    },
+    {
+        "name": "Adds #-(16 to 30) lightning damage",
+        "min": "8",
+        "max": "15"
+    },
+    {
+        "name": "Adds #-(16 to 30) cold damage",
+        "min": "8",
+        "max": "15"
+    },
+    {
+        "name": "# to (2663 - 2898)",
+        "min": "1466",
+        "max": "1596"
+    },
+    {
+        "name": "6% Chance to cast level 16 Guard Tower on Kill"
+    },
+    {
+        "name": "Adds #-(61 to 90) fire damage",
+        "min": "31",
+        "max": "60"
+    },
+    {
+        "name": "Adds #-(61 to 90) lightning damage",
+        "min": "31",
+        "max": "60"
+    },
+    {
+        "name": "Adds #-(61 to 90) cold damage",
+        "min": "31",
+        "max": "60"
+    },
+    {
+        "name": "# to (3925 - 4244)",
+        "min": "2175",
+        "max": "2352"
+    },
+    {
+        "name": "8% Chance to cast level 19 Guard Tower on Kill"
+    },
+    {
+        "name": "Adds #-(161 to 240) fire damage",
+        "min": "61",
+        "max": "120"
+    },
+    {
+        "name": "Adds #-(161 to 240) lightning damage",
+        "min": "61",
+        "max": "120"
+    },
+    {
+        "name": "Adds #-(161 to 240) cold damage",
+        "min": "61",
+        "max": "120"
+    },
+    {
+        "name": "# to (518 - 581)",
+        "min": "253",
+        "max": "285"
+    },
+    {
+        "name": "5% Chance to cast level 7 Ice Bolt Nova on Melee Attack"
+    },
+    {
+        "name": "2% Chance to cast level 5 Glacial Nova when Attacked"
+    },
+    {
+        "name": "Maximum Cold Resist +1%"
+    },
+    {
+        "name": "# to (1511 - 1657)",
+        "min": "802",
+        "max": "880"
+    },
+    {
+        "name": "6% Chance to cast level 14 Ice Bolt Nova on Melee Attack"
+    },
+    {
+        "name": "3% Chance to cast level 15 Glacial Nova when Attacked"
+    },
+    {
+        "name": "Adds 65-75 cold damage"
+    },
+    {
+        "name": "Maximum Cold Resist +#%",
+        "min": "1",
+        "max": "2"
+    },
+    {
+        "name": "# to (3345 - 3633)",
+        "min": "1867",
+        "max": "2024"
+    },
+    {
+        "name": "7% Chance to cast level 21 Ice Bolt Nova on Melee Attack"
+    },
+    {
+        "name": "4% Chance to cast level 25 Glacial Nova when Attacked"
+    },
+    {
+        "name": "Adds 130-150 cold damage"
+    },
+    {
+        "name": "# to (5347 - 5737)",
+        "min": "3017",
+        "max": "3231"
+    },
+    {
+        "name": "8% Chance to cast level 28 Ice Bolt Nova on Melee Attack"
+    },
+    {
+        "name": "4% Chance to cast level 30 Glacial Nova when Attacked"
+    },
+    {
+        "name": "Adds 260-300 cold damage"
+    },
+    {
+        "name": "268 to 540"
+    },
+    {
+        "name": "+50% Enhanced Defense"
+    },
+    {
+        "name": "+250 Defense vs. Melee"
+    },
+    {
+        "name": "+50 to Life"
+    },
+    {
+        "name": "890 to 1668"
+    },
+    {
+        "name": "+100% Enhanced Defense"
+    },
+    {
+        "name": "+500 Defense vs. Melee"
+    },
+    {
+        "name": "+100 to Life"
+    },
+    {
+        "name": "2232 to 4107"
+    },
+    {
+        "name": "+150% Enhanced Defense"
+    },
+    {
+        "name": "+750 Defense vs. Melee"
+    },
+    {
+        "name": "+175 to Life"
+    },
+    {
+        "name": "3642 to 6678"
+    },
+    {
+        "name": "+200% Enhanced Defense"
+    },
+    {
+        "name": "+1000 Defense vs. Melee"
+    },
+    {
+        "name": "+250 to Life"
+    },
+    {
+        "name": "# to (487 - 573)",
+        "min": "241",
+        "max": "284"
+    },
+    {
+        "name": "4% Chance to cast level 8 Wrath on Melee Attack"
+    },
+    {
+        "name": "# to (1526 - 1733)",
+        "min": "806",
+        "max": "915"
+    },
+    {
+        "name": "6% Chance to cast level 18 Wrath on Melee Attack"
+    },
+    {
+        "name": "# to (3809 - 4199)",
+        "min": "2057",
+        "max": "2268"
+    },
+    {
+        "name": "8% Chance to cast level 32 Wrath on Melee Attack"
+    },
+    {
+        "name": "# to (5716 - 6245)",
+        "min": "3094",
+        "max": "3380"
+    },
+    {
+        "name": "10% Chance to cast level 45 Wrath on Melee Attack"
+    },
+    {
+        "name": "# to (572 - 665)",
+        "min": "284",
+        "max": "331"
+    },
+    {
+        "name": "90 to 93"
+    },
+    {
+        "name": "Durability #%",
+        "min": "11",
+        "max": "15"
+    },
+    {
+        "name": "Requirements +#%",
+        "min": "7",
+        "max": "10"
+    },
+    {
+        "name": "# to (1755 - 1969)",
+        "min": "924",
+        "max": "1037"
+    },
+    {
+        "name": "143 to 147"
+    },
+    {
+        "name": "# to (4303 - 4740)",
+        "min": "2311",
+        "max": "2547"
+    },
+    {
+        "name": "323 to 331"
+    },
+    {
+        "name": "65% Hit Recovery"
+    },
+    {
+        "name": "# to (6419 - 6986)",
+        "min": "3458",
+        "max": "3764"
+    },
+    {
+        "name": "692 to 708"
+    },
+    {
+        "name": "# to (614 - 714)",
+        "min": "305",
+        "max": "354"
+    },
+    {
+        "name": "Additional Strength Damage Bonus: 0.03125%"
+    },
+    {
+        "name": "+# to Vanquish",
+        "min": "1",
+        "max": "2"
+    },
+    {
+        "name": "#% to All Attributes",
+        "min": "3",
+        "max": "5"
+    },
+    {
+        "name": "# to (1878 - 2107)",
+        "min": "984",
+        "max": "1104"
+    },
+    {
+        "name": "Additional Strength Damage Bonus: 0.0390625%"
+    },
+    {
+        "name": "# to (4596 - 5064)",
+        "min": "2461",
+        "max": "2711"
+    },
+    {
+        "name": "Additional Strength Damage Bonus: 0.046875%"
+    },
+    {
+        "name": "# to (6849 - 7455)",
+        "min": "3675",
+        "max": "3999"
+    },
+    {
+        "name": "Additional Strength Damage Bonus: 0.0546875%"
+    },
+    {
+        "name": "# to (572 - 625)",
+        "min": "286",
+        "max": "313"
+    },
+    {
+        "name": "82 to 86"
+    },
+    {
+        "name": "+# to Mana",
+        "min": "151",
+        "max": "250"
+    },
+    {
+        "name": "Durability -90%"
+    },
+    {
+        "name": "# to (1562 - 1684)",
+        "min": "817",
+        "max": "881"
+    },
+    {
+        "name": "107 to 112"
+    },
+    {
+        "name": "# to (3555 - 3794)",
+        "min": "1894",
+        "max": "2021"
+    },
+    {
+        "name": "195 to 207"
+    },
+    {
+        "name": "# to (5136 - 5459)",
+        "min": "2738",
+        "max": "2910"
+    },
+    {
+        "name": "373 to 398"
+    },
+    {
+        "name": "Random Movement Speed Bonus"
+    },
+    {
+        "name": "# to (115 - 125)",
+        "min": "76",
+        "max": "83"
+    },
+    {
+        "name": "Maximum Elemental Resists +1%"
+    },
+    {
+        "name": "# to (365 - 397)",
+        "min": "277",
+        "max": "301"
+    },
+    {
+        "name": "# to (876 - 943)",
+        "min": "704",
+        "max": "760"
+    },
+    {
+        "name": "Maximum Elemental Resists +2%"
+    },
+    {
+        "name": "# to (1471 - 1564)",
+        "min": "1182",
+        "max": "1258"
+    },
+    {
+        "name": "# to (115 - 131)",
+        "min": "78",
+        "max": "89"
+    },
+    {
+        "name": "+15 to Vitality"
+    },
+    {
+        "name": "# to (391 - 435)",
+        "min": "300",
+        "max": "334"
+    },
+    {
+        "name": "+30 to Vitality"
+    },
+    {
+        "name": "# to (970 - 1062)",
+        "min": "753",
+        "max": "825"
+    },
+    {
+        "name": "+45 to Vitality"
+    },
+    {
+        "name": "# to (1519 - 1645)",
+        "min": "1191",
+        "max": "1290"
+    },
+    {
+        "name": "# to (207 - 229)",
+        "min": "126",
+        "max": "141"
+    },
+    {
+        "name": "Cold Absorb 1%"
+    },
+    {
+        "name": "Lightning Absorb 1%"
+    },
+    {
+        "name": "Fire Absorb 1%"
+    },
+    {
+        "name": "Requirements -15%"
+    },
+    {
+        "name": "# to (711 - 768)",
+        "min": "477",
+        "max": "519"
+    },
+    {
+        "name": "62"
+    },
+    {
+        "name": "# to (1630 - 1746)",
+        "min": "1225",
+        "max": "1313"
+    },
+    {
+        "name": "114"
+    },
+    {
+        "name": "Lightning Absorb 2%"
+    },
+    {
+        "name": "# to (2526 - 2685)",
+        "min": "1958",
+        "max": "2078"
+    },
+    {
+        "name": "204"
+    },
+    {
+        "name": "# to (161 - 185)",
+        "min": "109",
+        "max": "126"
+    },
+    {
+        "name": "4% Chance to cast level 10 Flamefront on Melee Attack"
+    },
+    {
+        "name": "# to (536 - 594)",
+        "min": "388",
+        "max": "430"
+    },
+    {
+        "name": "6% Chance to cast level 16 Flamefront on Melee Attack"
+    },
+    {
+        "name": "# to (1343 - 1461)",
+        "min": "990",
+        "max": "1077"
+    },
+    {
+        "name": "8% Chance to cast level 22 Flamefront on Melee Attack"
+    },
+    {
+        "name": "+25 Life Regenerated per Second"
+    },
+    {
+        "name": "# to (1999 - 2161)",
+        "min": "1481",
+        "max": "1600"
+    },
+    {
+        "name": "10% Chance to cast level 28 Flamefront on Melee Attack"
+    },
+    {
+        "name": "# to (248 - 281)",
+        "min": "164",
+        "max": "187"
+    },
+    {
+        "name": "64 to 72"
+    },
+    {
+        "name": "# to (785 - 868)",
+        "min": "561",
+        "max": "620"
+    },
+    {
+        "name": "89 to 99"
+    },
+    {
+        "name": "# to (1754 - 1920)",
+        "min": "1272",
+        "max": "1392"
+    },
+    {
+        "name": "175 to 198"
+    },
+    {
+        "name": "# to (2614 - 2839)",
+        "min": "1911",
+        "max": "2076"
+    },
+    {
+        "name": "337 to 384"
+    },
+    {
+        "name": "+30 Energy Factor to Spell Damage"
+    },
+    {
+        "name": "Cold Resist +30%"
+    },
+    {
+        "name": "+60 Energy Factor to Spell Damage"
+    },
+    {
+        "name": "Cold Resist +60%"
+    },
+    {
+        "name": "+90 Energy Factor to Spell Damage"
+    },
+    {
+        "name": "Cold Resist +90%"
+    },
+    {
+        "name": "+120 Energy Factor to Spell Damage"
+    },
+    {
+        "name": "Cold Resist +120%"
+    },
+    {
+        "name": "58 to 106"
+    },
+    {
+        "name": "+10% to Physical/Magic Spell Damage"
+    },
+    {
+        "name": "144 to 225"
+    },
+    {
+        "name": "+15% to Physical/Magic Spell Damage"
+    },
+    {
+        "name": "262 to 399"
+    },
+    {
+        "name": "+20% to Physical/Magic Spell Damage"
+    },
+    {
+        "name": "337 to 514"
+    },
+    {
+        "name": "+25% to Physical/Magic Spell Damage"
+    },
+    {
+        "name": "Adds #-(26 to 35) fire damage",
+        "min": "21",
+        "max": "25"
+    },
+    {
+        "name": "Adds #-(26 to 35) cold damage",
+        "min": "21",
+        "max": "25"
+    },
+    {
+        "name": "Adds #-(101 to 140) fire damage",
+        "min": "61",
+        "max": "90"
+    },
+    {
+        "name": "Adds #-(101 to 140) cold damage",
+        "min": "61",
+        "max": "90"
+    },
+    {
+        "name": "Adds #-(241 to 280) fire damage",
+        "min": "101",
+        "max": "140"
+    },
+    {
+        "name": "Adds #-(241 to 280) cold damage",
+        "min": "101",
+        "max": "140"
+    },
+    {
+        "name": "1% Chance to cast level 1 Shackles of Ice on Melee Attack"
+    },
+    {
+        "name": "#% Bonus to Buff/Debuff/Cold Skill Duration",
+        "min": "4",
+        "max": "5"
+    },
+    {
+        "name": "Adds 10-13 cold damage"
+    },
+    {
+        "name": "2% Chance to cast level 5 Shackles of Ice on Melee Attack"
+    },
+    {
+        "name": "Adds 35-40 cold damage"
+    },
+    {
+        "name": "3% Chance to cast level 9 Shackles of Ice on Melee Attack"
+    },
+    {
+        "name": "Adds 110-130 cold damage"
+    },
+    {
+        "name": "4% Chance to cast level 11 Shackles of Ice on Melee Attack"
+    },
+    {
+        "name": "Adds 350-380 cold damage"
+    },
+    {
+        "name": "# to (195 - 209)",
+        "min": "116",
+        "max": "126"
+    },
+    {
+        "name": "+#% to Summoned Minion Attack Rating",
+        "min": "21",
+        "max": "40"
+    },
+    {
+        "name": "# to (546 - 587)",
+        "min": "416",
+        "max": "448"
+    },
+    {
+        "name": "# to (1163 - 1249)",
+        "min": "927",
+        "max": "994"
+    },
+    {
+        "name": "# to (1759 - 1876)",
+        "min": "1422",
+        "max": "1515"
+    },
+    {
+        "name": "# to (106 - 123)",
+        "min": "73",
+        "max": "85"
+    },
+    {
+        "name": "1% Chance to cast level 8 Mana Sweep when Attacked"
+    },
+    {
+        "name": "# to (371 - 418)",
+        "min": "277",
+        "max": "312"
+    },
+    {
+        "name": "1% Chance to cast level 12 Mana Sweep when Attacked"
+    },
+    {
+        "name": "+40 Mana after each Kill"
+    },
+    {
+        "name": "# to (933 - 1083)",
+        "min": "716",
+        "max": "831"
+    },
+    {
+        "name": "1% Chance to cast level 20 Mana Sweep when Attacked"
+    },
+    {
+        "name": "+55 Mana after each Kill"
+    },
+    {
+        "name": "# to (1553 - 1757)",
+        "min": "1195",
+        "max": "1352"
+    },
+    {
+        "name": "2% Chance to cast level 28 Mana Sweep when Attacked"
+    },
+    {
+        "name": "+70 Mana after each Kill"
+    },
+    {
+        "name": "# to (47 - 50)",
+        "min": "29",
+        "max": "31"
+    },
+    {
+        "name": "+0.3125 to Maximum Damage (Based on Character Level)"
+    },
+    {
+        "name": "# to (188 - 214)",
+        "min": "149",
+        "max": "169"
+    },
+    {
+        "name": "+0.375 to Maximum Damage (Based on Character Level)"
+    },
+    {
+        "name": "# to (481 - 538)",
+        "min": "386",
+        "max": "432"
+    },
+    {
+        "name": "# to (747 - 826)",
+        "min": "600",
+        "max": "664"
+    },
+    {
+        "name": "+0.5 to Maximum Damage (Based on Character Level)"
+    },
+    {
+        "name": "# to (112 - 123)",
+        "min": "59",
+        "max": "65"
+    },
+    {
+        "name": "15"
+    },
+    {
+        "name": "34"
+    },
+    {
+        "name": "+50 poison damage over 2 seconds"
+    },
+    {
+        "name": "# to (363 - 392)",
+        "min": "229",
+        "max": "248"
+    },
+    {
+        "name": "24"
+    },
+    {
+        "name": "55"
+    },
+    {
+        "name": "+150 poison damage over 2 seconds"
+    },
+    {
+        "name": "Requirements +20%"
+    },
+    {
+        "name": "# to (880 - 941)",
+        "min": "581",
+        "max": "621"
+    },
+    {
+        "name": "124"
+    },
+    {
+        "name": "+300 poison damage over 2 seconds"
+    },
+    {
+        "name": "Requirements +30%"
+    },
+    {
+        "name": "# to (1287 - 1371)",
+        "min": "858",
+        "max": "914"
+    },
+    {
+        "name": "126"
+    },
+    {
+        "name": "278"
+    },
+    {
+        "name": "+600 poison damage over 2 seconds"
+    },
+    {
+        "name": "Lightning Absorb 3%"
+    },
+    {
+        "name": "# to (266 - 305)",
+        "min": "138",
+        "max": "157"
+    },
+    {
+        "name": "2% Chance to cast level 1 Bloodlust on Melee Attack"
+    },
+    {
+        "name": "1% Chance to cast level 1 Fortress on Melee Attack"
+    },
+    {
+        "name": "# to (817 - 909)",
+        "min": "462",
+        "max": "513"
+    },
+    {
+        "name": "3% Chance to cast level 5 Bloodlust on Melee Attack"
+    },
+    {
+        "name": "2% Chance to cast level 5 Fortress on Melee Attack"
+    },
+    {
+        "name": "# to (2015 - 2188)",
+        "min": "1174",
+        "max": "1274"
+    },
+    {
+        "name": "4% Chance to cast level 9 Bloodlust on Melee Attack"
+    },
+    {
+        "name": "3% Chance to cast level 9 Fortress on Melee Attack"
+    },
+    {
+        "name": "# to (2982 - 3216)",
+        "min": "1744",
+        "max": "1881"
+    },
+    {
+        "name": "4% Chance to cast level 11 Bloodlust on Melee Attack"
+    },
+    {
+        "name": "4% Chance to cast level 11 Fortress on Melee Attack"
+    },
+    {
+        "name": "# to (404 - 459)",
+        "min": "205",
+        "max": "233"
+    },
+    {
+        "name": "22"
+    },
+    {
+        "name": "# to (1219 - 1280)",
+        "min": "678",
+        "max": "712"
+    },
+    {
+        "name": "30"
+    },
+    {
+        "name": "58"
+    },
+    {
+        "name": "Requirements -45%"
+    },
+    {
+        "name": "# to (2685 - 2805)",
+        "min": "1525",
+        "max": "1593"
+    },
+    {
+        "name": "59"
+    },
+    {
+        "name": "113"
+    },
+    {
+        "name": "# to (4002 - 4165)",
+        "min": "2278",
+        "max": "2371"
+    },
+    {
+        "name": "210"
+    },
+    {
+        "name": "# to (696 - 902)",
+        "min": "357",
+        "max": "462"
+    },
+    {
+        "name": "-#% Attack Speed",
+        "min": "1",
+        "max": "10"
+    },
+    {
+        "name": "15% Block Speed"
+    },
+    {
+        "name": "# to (1745 - 2222)",
+        "min": "939",
+        "max": "1198"
+    },
+    {
+        "name": "30% Block Speed"
+    },
+    {
+        "name": "# to (3667 - 4609)",
+        "min": "2072",
+        "max": "2595"
+    },
+    {
+        "name": "45% Block Speed"
+    },
+    {
+        "name": "# to (5610 - 6886)",
+        "min": "3209",
+        "max": "3922"
+    },
+    {
+        "name": "60% Block Speed"
+    },
+    {
+        "name": "# to (134 - 153)",
+        "min": "69",
+        "max": "79"
+    },
+    {
+        "name": "4% Chance to cast level 5 Hunting Banshee on Melee Attack"
+    },
+    {
+        "name": "Adds #-(8 to 10) cold damage",
+        "min": "4",
+        "max": "6"
+    },
+    {
+        "name": "Magic Resist +#%",
+        "min": "2",
+        "max": "3"
+    },
+    {
+        "name": "# to (454 - 505)",
+        "min": "275",
+        "max": "305"
+    },
+    {
+        "name": "6% Chance to cast level 12 Hunting Banshee on Melee Attack"
+    },
+    {
+        "name": "Adds #-(21 to 25) cold damage",
+        "min": "12",
+        "max": "15"
+    },
+    {
+        "name": "Magic Resist +3%"
+    },
+    {
+        "name": "# to (1155 - 1254)",
+        "min": "731",
+        "max": "793"
+    },
+    {
+        "name": "8% Chance to cast level 20 Hunting Banshee on Melee Attack"
+    },
+    {
+        "name": "Adds #-(91 to 100) cold damage",
+        "min": "51",
+        "max": "60"
+    },
+    {
+        "name": "# to (1721 - 1856)",
+        "min": "1093",
+        "max": "1179"
+    },
+    {
+        "name": "10% Chance to cast level 30 Hunting Banshee on Melee Attack"
+    },
+    {
+        "name": "Adds #-(181 to 200) cold damage",
+        "min": "101",
+        "max": "120"
+    },
+    {
+        "name": "Magic Resist +5%"
+    },
+    {
+        "name": "# to (203 - 230)",
+        "min": "102",
+        "max": "116"
+    },
+    {
+        "name": "+20 to all Attributes"
+    },
+    {
+        "name": "# to (629 - 699)",
+        "min": "372",
+        "max": "414"
+    },
+    {
+        "name": "+30 to all Attributes"
+    },
+    {
+        "name": "# to (1503 - 1645)",
+        "min": "920",
+        "max": "1007"
+    },
+    {
+        "name": "+40 to all Attributes"
+    },
+    {
+        "name": "# to (2346 - 2743)",
+        "min": "1443",
+        "max": "1687"
+    },
+    {
+        "name": "+50 to all Attributes"
+    },
+    {
+        "name": "# to (20 - 21)",
+        "min": "16",
+        "max": "18"
+    },
+    {
+        "name": "+3% to Spell Damage"
+    },
+    {
+        "name": "# to (131 - 141)",
+        "min": "119",
+        "max": "129"
+    },
+    {
+        "name": "+9% to Spell Damage"
+    },
+    {
+        "name": "# to (370 - 395)",
+        "min": "331",
+        "max": "353"
+    },
+    {
+        "name": "+15% to Spell Damage"
+    },
+    {
+        "name": "# to (542 - 576)",
+        "min": "493",
+        "max": "524"
+    },
+    {
+        "name": "+20% to Spell Damage"
+    },
+    {
+        "name": "# to (71 - 78)",
+        "min": "53",
+        "max": "58"
+    },
+    {
+        "name": "Adds 5-13 poison damage over 2 seconds"
+    },
+    {
+        "name": "# to (259 - 279)",
+        "min": "214",
+        "max": "231"
+    },
+    {
+        "name": "Adds 19-50 poison damage over 2 seconds"
+    },
+    {
+        "name": "# to (649 - 693)",
+        "min": "544",
+        "max": "581"
+    },
+    {
+        "name": "Adds 75-150 poison damage over 2 seconds"
+    },
+    {
+        "name": "# to (946 - 1006)",
+        "min": "801",
+        "max": "851"
+    },
+    {
+        "name": "Adds 100-250 poison damage over 2 seconds"
+    },
+    {
+        "name": "# to (121 - 132)",
+        "min": "88",
+        "max": "96"
+    },
+    {
+        "name": "# to (389 - 419)",
+        "min": "310",
+        "max": "334"
+    },
+    {
+        "name": "# to (938 - 1001)",
+        "min": "754",
+        "max": "805"
+    },
+    {
+        "name": "# to (1358 - 1443)",
+        "min": "1104",
+        "max": "1173"
+    },
+    {
+        "name": "# to (178 - 210)",
+        "min": "135",
+        "max": "159"
+    },
+    {
+        "name": "1% Chance to cast level 2 Shower of Rocks on Kill"
+    },
+    {
+        "name": "1% Chance of Crushing Blow"
+    },
+    {
+        "name": "# to (616 - 700)",
+        "min": "485",
+        "max": "551"
+    },
+    {
+        "name": "2% Chance to cast level 4 Shower of Rocks on Kill"
+    },
+    {
+        "name": "2% Chance of Crushing Blow"
+    },
+    {
+        "name": "# to (1595 - 1758)",
+        "min": "1270",
+        "max": "1400"
+    },
+    {
+        "name": "3% Chance to cast level 8 Shower of Rocks on Kill"
+    },
+    {
+        "name": "# to (2403 - 2626)",
+        "min": "1918",
+        "max": "2095"
+    },
+    {
+        "name": "4% Chance to cast level 12 Shower of Rocks on Kill"
+    },
+    {
+        "name": "4% Chance of Crushing Blow"
+    },
+    {
+        "name": "# to (277 - 312)",
+        "min": "206",
+        "max": "232"
+    },
+    {
+        "name": "5% Chance to cast level 6 Seal of Fire on Melee Attack"
+    },
+    {
+        "name": "# to (828 - 916)",
+        "min": "640",
+        "max": "708"
+    },
+    {
+        "name": "6% Chance to cast level 14 Seal of Fire on Melee Attack"
+    },
+    {
+        "name": "Adds #-(26 to 40) fire damage",
+        "min": "15",
+        "max": "25"
+    },
+    {
+        "name": "# to (1928 - 2102)",
+        "min": "1519",
+        "max": "1656"
+    },
+    {
+        "name": "7% Chance to cast level 20 Seal of Fire on Melee Attack"
+    },
+    {
+        "name": "Adds #-(80 to 110) fire damage",
+        "min": "50",
+        "max": "70"
+    },
+    {
+        "name": "# to (2993 - 3229)",
+        "min": "2366",
+        "max": "2553"
+    },
+    {
+        "name": "8% Chance to cast level 24 Seal of Fire on Melee Attack"
+    },
+    {
+        "name": "Adds #-(241 to 320) fire damage",
+        "min": "161",
+        "max": "200"
+    },
+    {
+        "name": "+100 poison damage over 1 seconds"
+    },
+    {
+        "name": "+225 poison damage over 1 seconds"
+    },
+    {
+        "name": "# to (30 - 34)",
+        "min": "15",
+        "max": "18"
+    },
+    {
+        "name": "2% Chance to cast level 1 Glacial Nova on Melee Attack"
+    },
+    {
+        "name": "# to (160 - 177)",
+        "min": "129",
+        "max": "143"
+    },
+    {
+        "name": "3% Chance to cast level 2 Glacial Nova on Melee Attack"
+    },
+    {
+        "name": "Adds #-(31 to 50) cold damage",
+        "min": "21",
+        "max": "30"
+    },
+    {
+        "name": "# to (448 - 488)",
+        "min": "376",
+        "max": "409"
+    },
+    {
+        "name": "4% Chance to cast level 3 Glacial Nova on Melee Attack"
+    },
+    {
+        "name": "Adds #-(91 to 125) cold damage",
+        "min": "71",
+        "max": "90"
+    },
+    {
+        "name": "# to (685 - 740)",
+        "min": "568",
+        "max": "614"
+    },
+    {
+        "name": "5% Chance to cast level 3 Glacial Nova on Melee Attack"
+    },
+    {
+        "name": "Adds #-(201 to 250) cold damage",
+        "min": "161",
+        "max": "200"
+    },
+    {
+        "name": "# to (203 - 218)",
+        "min": "149",
+        "max": "161"
+    },
+    {
+        "name": "# to (519 - 554)",
+        "min": "393",
+        "max": "420"
+    },
+    {
+        "name": "# to (759 - 807)",
+        "min": "581",
+        "max": "617"
+    },
+    {
+        "name": "5% Chance to cast level 5 Crucify on Melee Attack"
+    },
+    {
+        "name": "2% to Dexterity"
+    },
+    {
+        "name": "6% Chance to cast level 10 Crucify on Melee Attack"
+    },
+    {
+        "name": "7% Chance to cast level 19 Crucify on Melee Attack"
+    },
+    {
+        "name": "8% Chance to cast level 30 Crucify on Melee Attack"
+    },
+    {
+        "name": "# to (90 - 102)",
+        "min": "48",
+        "max": "54"
+    },
+    {
+        "name": "60"
+    },
+    {
+        "name": "4% Chance to cast level 3 Time Strike when Attacked"
+    },
+    {
+        "name": "Requirements -8%"
+    },
+    {
+        "name": "# to (333 - 369)",
+        "min": "216",
+        "max": "239"
+    },
+    {
+        "name": "81"
+    },
+    {
+        "name": "8% Chance to cast level 5 Time Strike when Attacked"
+    },
+    {
+        "name": "Requirements -16%"
+    },
+    {
+        "name": "# to (854 - 930)",
+        "min": "583",
+        "max": "635"
+    },
+    {
+        "name": "155"
+    },
+    {
+        "name": "12% Chance to cast level 7 Time Strike when Attacked"
+    },
+    {
+        "name": "Requirements -24%"
+    },
+    {
+        "name": "# to (1274 - 1378)",
+        "min": "875",
+        "max": "946"
+    },
+    {
+        "name": "287"
+    },
+    {
+        "name": "14% Chance to cast level 8 Time Strike when Attacked"
+    },
+    {
+        "name": "Requirements -32%"
+    },
+    {
+        "name": "#% Movement Speed",
+        "min": "40"
+    },
+    {
+        "name": "+10% to Spell Damage"
+    },
+    {
+        "name": "+5 Maximum Stamina"
+    },
+    {
+        "name": "+12% to Spell Damage"
+    },
+    {
+        "name": "+10 Maximum Stamina"
+    },
+    {
+        "name": "+16% to Spell Damage"
+    },
+    {
+        "name": "+15 Maximum Stamina"
+    },
+    {
+        "name": "+20 Maximum Stamina"
+    },
+    {
+        "name": "1% Chance to cast level 6 Spike Nova on Kill"
+    },
+    {
+        "name": "+0.09375 to Maximum Damage (Based on Character Level)"
+    },
+    {
+        "name": "1% Chance to cast level 10 Spike Nova on Kill"
+    },
+    {
+        "name": "+0.15625 to Maximum Damage (Based on Character Level)"
+    },
+    {
+        "name": "1% Chance to cast level 14 Spike Nova on Kill"
+    },
+    {
+        "name": "+0.21875 to Maximum Damage (Based on Character Level)"
+    },
+    {
+        "name": "1% Chance to cast level 16 Spike Nova on Kill"
+    },
+    {
+        "name": "+0.25 to Maximum Damage (Based on Character Level)"
+    },
+    {
+        "name": "# to (267 - 288)",
+        "min": "203",
+        "max": "218"
+    },
+    {
+        "name": "# to (667 - 712)",
+        "min": "519",
+        "max": "554"
+    },
+    {
+        "name": "# to (974 - 1036)",
+        "min": "759",
+        "max": "807"
+    },
+    {
+        "name": "1% Reanimate as: Dark Templar"
+    },
+    {
+        "name": "# to (338 - 384)",
+        "min": "248",
+        "max": "281"
+    },
+    {
+        "name": "#% Reanimate as: Dark Templar",
+        "min": "2",
+        "max": "3"
+    },
+    {
+        "name": "# to (817 - 914)",
+        "min": "613",
+        "max": "685"
+    },
+    {
+        "name": "# to (1247 - 1378)",
+        "min": "944",
+        "max": "1044"
+    },
+    {
+        "name": "# to (135 - 152)",
+        "min": "90",
+        "max": "102"
+    },
+    {
+        "name": "# to (462 - 512)",
+        "min": "333",
+        "max": "369"
+    },
+    {
+        "name": "84"
+    },
+    {
+        "name": "Requirements -25%"
+    },
+    {
+        "name": "# to (1152 - 1254)",
+        "min": "854",
+        "max": "930"
+    },
+    {
+        "name": "164"
+    },
+    {
+        "name": "# to (1713 - 1853)",
+        "min": "1274",
+        "max": "1378"
+    },
+    {
+        "name": "292"
+    },
+    {
+        "name": "# to (74 - 76)",
+        "min": "44",
+        "max": "46"
+    },
+    {
+        "name": "5% Chance to cast level 5 Tempest on Melee Attack"
+    },
+    {
+        "name": "Adds 1-25 lightning damage"
+    },
+    {
+        "name": "# to (257 - 270)",
+        "min": "197",
+        "max": "209"
+    },
+    {
+        "name": "7% Chance to cast level 12 Tempest on Melee Attack"
+    },
+    {
+        "name": "Adds 1-50 lightning damage"
+    },
+    {
+        "name": "# to (509 - 540)",
+        "min": "427",
+        "max": "455"
+    },
+    {
+        "name": "9% Chance to cast level 19 Tempest on Melee Attack"
+    },
+    {
+        "name": "Adds 1-100 lightning damage"
+    },
+    {
+        "name": "# to (740 - 805)",
+        "min": "647",
+        "max": "706"
+    },
+    {
+        "name": "10% Chance to cast level 33 Tempest on Melee Attack"
+    },
+    {
+        "name": "Adds 1-200 lightning damage"
+    },
+    {
+        "name": "# to (66 - 76)",
+        "min": "43",
+        "max": "50"
+    },
+    {
+        "name": "1% Chance to cast level 7 Arachnomancy on Striking"
+    },
+    {
+        "name": "# to (242 - 268)",
+        "min": "185",
+        "max": "205"
+    },
+    {
+        "name": "1% Chance to cast level 16 Arachnomancy on Striking"
+    },
+    {
+        "name": "# to (628 - 683)",
+        "min": "486",
+        "max": "529"
+    },
+    {
+        "name": "1% Chance to cast level 32 Arachnomancy on Striking"
+    },
+    {
+        "name": "+150 to Life"
+    },
+    {
+        "name": "# to (936 - 1012)",
+        "min": "734",
+        "max": "793"
+    },
+    {
+        "name": "1% Chance to cast level 40 Arachnomancy on Striking"
+    },
+    {
+        "name": "+200 to Life"
+    },
+    {
+        "name": "# to (99 - 112)",
+        "min": "65",
+        "max": "74"
+    },
+    {
+        "name": "#% Reanimate as: Ghost Wolf",
+        "min": "2",
+        "max": "3"
+    },
+    {
+        "name": "# to (339 - 376)",
+        "min": "249",
+        "max": "276"
+    },
+    {
+        "name": "# to (846 - 921)",
+        "min": "635",
+        "max": "691"
+    },
+    {
+        "name": "# to (1254 - 1356)",
+        "min": "946",
+        "max": "1023"
+    },
+    {
+        "name": "# to (170 - 197)",
+        "min": "113",
+        "max": "131"
+    },
+    {
+        "name": "4% Chance to cast level 3 Shower of Rocks on Melee Attack"
+    },
+    {
+        "name": "# to (562 - 631)",
+        "min": "401",
+        "max": "450"
+    },
+    {
+        "name": "8% Chance to cast level 9 Shower of Rocks on Melee Attack"
+    },
+    {
+        "name": "Physical Resist 7%"
+    },
+    {
+        "name": "# to (1419 - 1563)",
+        "min": "1028",
+        "max": "1132"
+    },
+    {
+        "name": "12% Chance to cast level 15 Shower of Rocks on Melee Attack"
+    },
+    {
+        "name": "Physical Resist 9%"
+    },
+    {
+        "name": "# to (2118 - 2306)",
+        "min": "1548",
+        "max": "1685"
+    },
+    {
+        "name": "16% Chance to cast level 18 Shower of Rocks on Melee Attack"
+    },
+    {
+        "name": "Physical Resist 10%"
+    },
+    {
+        "name": "# to (84 - 92)",
+        "min": "43",
+        "max": "47"
+    },
+    {
+        "name": "+5 to Maximum Damage"
+    },
+    {
+        "name": "Slow Target 5%"
+    },
+    {
+        "name": "# to (271 - 293)",
+        "min": "171",
+        "max": "185"
+    },
+    {
+        "name": "Adds 22-30 cold damage"
+    },
+    {
+        "name": "Slow Target 7%"
+    },
+    {
+        "name": "# to (658 - 704)",
+        "min": "436",
+        "max": "466"
+    },
+    {
+        "name": "Adds 66-80 cold damage"
+    },
+    {
+        "name": "Slow Target 9%"
+    },
+    {
+        "name": "# to (964 - 1027)",
+        "min": "643",
+        "max": "685"
+    },
+    {
+        "name": "# to (139 - 156)",
+        "min": "72",
+        "max": "81"
+    },
+    {
+        "name": "26"
+    },
+    {
+        "name": "# to (436 - 475)",
+        "min": "259",
+        "max": "282"
+    },
+    {
+        "name": "36"
+    },
+    {
+        "name": "# to (1052 - 1138)",
+        "min": "645",
+        "max": "697"
+    },
+    {
+        "name": "72"
+    },
+    {
+        "name": "# to (1559 - 1668)",
+        "min": "957",
+        "max": "1024"
+    },
+    {
+        "name": "142"
+    },
+    {
+        "name": "# to (969 - 1127)",
+        "min": "492",
+        "max": "573"
+    },
+    {
+        "name": "5% Chance to cast level 3 Guard Tower on Kill"
+    },
+    {
+        "name": "# to (3048 - 3418)",
+        "min": "1695",
+        "max": "1902"
+    },
+    {
+        "name": "6% Chance to cast level 9 Guard Tower on Kill"
+    },
+    {
+        "name": "# to (7550 - 8319)",
+        "min": "4287",
+        "max": "4723"
+    },
+    {
+        "name": "7% Chance to cast level 15 Guard Tower on Kill"
+    },
+    {
+        "name": "# to (11272 - 12268)",
+        "min": "6416",
+        "max": "6983"
+    },
+    {
+        "name": "8% Chance to cast level 18 Guard Tower on Kill"
+    },
+    {
+        "name": "# to (151 - 174)",
+        "min": "78",
+        "max": "90"
+    },
+    {
+        "name": "Adds 5-10 damage"
+    },
+    {
+        "name": "#% Reanimate as: Soul Spider",
+        "min": "2",
+        "max": "3"
+    },
+    {
+        "name": "# to (495 - 580)",
+        "min": "294",
+        "max": "344"
+    },
+    {
+        "name": "Adds 10-15 damage"
+    },
+    {
+        "name": "# to (1297 - 1408)",
+        "min": "795",
+        "max": "864"
+    },
+    {
+        "name": "Adds 15-20 damage"
+    },
+    {
+        "name": "# to (2090 - 2403)",
+        "min": "1281",
+        "max": "1473"
+    },
+    {
+        "name": "+10 to Energy"
+    },
+    {
+        "name": "+20 to Energy"
+    },
+    {
+        "name": "+40 Life on Attack"
+    },
+    {
+        "name": "+30 to Energy"
+    },
+    {
+        "name": "+60 Life on Attack"
+    },
+    {
+        "name": "+40 to Energy"
+    },
+    {
+        "name": "+80 Life on Attack"
+    },
+    {
+        "name": "# to (91 - 100)",
+        "min": "47",
+        "max": "51"
+    },
+    {
+        "name": "4% to Dexterity"
+    },
+    {
+        "name": "+2 to Light Radius"
+    },
+    {
+        "name": "# to (290 - 313)",
+        "min": "175",
+        "max": "189"
+    },
+    {
+        "name": "Adds 36-45 magic damage"
+    },
+    {
+        "name": "8% to Dexterity"
+    },
+    {
+        "name": "# to (701 - 750)",
+        "min": "442",
+        "max": "473"
+    },
+    {
+        "name": "Adds 121-135 magic damage"
+    },
+    {
+        "name": "12% to Dexterity"
+    },
+    {
+        "name": "+7 to Light Radius"
+    },
+    {
+        "name": "# to (1025 - 1092)",
+        "min": "650",
+        "max": "693"
+    },
+    {
+        "name": "16% to Dexterity"
+    },
+    {
+        "name": "+10 to Light Radius"
+    },
+    {
+        "name": "# to (127 - 144)",
+        "min": "64",
+        "max": "72"
+    },
+    {
+        "name": "2% Reanimate as: Bone Sorcerer"
+    },
+    {
+        "name": "2% Reanimate as: Reignited Sorcerer"
+    },
+    {
+        "name": "2% Reanimate as: Horror Sorcerer"
+    },
+    {
+        "name": "# to (418 - 463)",
+        "min": "246",
+        "max": "273"
+    },
+    {
+        "name": "3% Reanimate as: Bone Sorcerer"
+    },
+    {
+        "name": "3% Reanimate as: Reignited Sorcerer"
+    },
+    {
+        "name": "3% Reanimate as: Horror Sorcerer"
+    },
+    {
+        "name": "# to (1031 - 1122)",
+        "min": "631",
+        "max": "687"
+    },
+    {
+        "name": "4% Reanimate as: Bone Sorcerer"
+    },
+    {
+        "name": "4% Reanimate as: Reignited Sorcerer"
+    },
+    {
+        "name": "4% Reanimate as: Horror Sorcerer"
+    },
+    {
+        "name": "# to (1527 - 1652)",
+        "min": "938",
+        "max": "1014"
+    },
+    {
+        "name": "5% Reanimate as: Bone Sorcerer"
+    },
+    {
+        "name": "5% Reanimate as: Reignited Sorcerer"
+    },
+    {
+        "name": "5% Reanimate as: Horror Sorcerer"
+    },
+    {
+        "name": "# to (50 - 55)",
+        "min": "34",
+        "max": "37"
+    },
+    {
+        "name": "6% Chance to cast level 12 Poison Flash on Melee Attack"
+    },
+    {
+        "name": "+38 poison damage over 1 seconds"
+    },
+    {
+        "name": "Attacker Flees after Striking 5%"
+    },
+    {
+        "name": "10% to All Vendor Prices"
+    },
+    {
+        "name": "# to (200 - 215)",
+        "min": "157",
+        "max": "170"
+    },
+    {
+        "name": "9% Chance to cast level 20 Poison Flash on Melee Attack"
+    },
+    {
+        "name": "+75 poison damage over 1 seconds"
+    },
+    {
+        "name": "Attacker Flees after Striking 7%"
+    },
+    {
+        "name": "# to (503 - 537)",
+        "min": "411",
+        "max": "439"
+    },
+    {
+        "name": "12% Chance to cast level 28 Poison Flash on Melee Attack"
+    },
+    {
+        "name": "+150 poison damage over 1 seconds"
+    },
+    {
+        "name": "Attacker Flees after Striking 9%"
+    },
+    {
+        "name": "# to (736 - 783)",
+        "min": "605",
+        "max": "643"
+    },
+    {
+        "name": "15% Chance to cast level 36 Poison Flash on Melee Attack"
+    },
+    {
+        "name": "+300 poison damage over 1 seconds"
+    },
+    {
+        "name": "Attacker Flees after Striking 10%"
+    },
+    {
+        "name": "# to (83 - 95)",
+        "min": "55",
+        "max": "63"
+    },
+    {
+        "name": "Lion Stance Damage Bonus #%",
+        "min": "41",
+        "max": "60"
+    },
+    {
+        "name": "#% Reanimate as: Desecrator",
+        "min": "2",
+        "max": "3"
+    },
+    {
+        "name": "# to (300 - 334)",
+        "min": "231",
+        "max": "256"
+    },
+    {
+        "name": "# to (783 - 850)",
+        "min": "607",
+        "max": "659"
+    },
+    {
+        "name": "# to (1166 - 1258)",
+        "min": "913",
+        "max": "985"
+    },
+    {
+        "name": "# to (206 - 234)",
+        "min": "72",
+        "max": "90"
+    },
+    {
+        "name": "# to (565 - 640)",
+        "min": "370",
+        "max": "425"
+    },
+    {
+        "name": "# to (1208 - 1362)",
+        "min": "883",
+        "max": "999"
+    },
+    {
+        "name": "+3 Mana on Striking"
+    },
+    {
+        "name": "# to (1857 - 2067)",
+        "min": "1402",
+        "max": "1561"
+    },
+    {
+        "name": "+100 Life Regenerated per Second"
+    },
+    {
+        "name": "+4 Mana on Striking"
+    },
+    {
+        "name": "# to (174 - 198)",
+        "min": "118",
+        "max": "134"
+    },
+    {
+        "name": "5% Chance to cast level 10 Flash on Melee Attack"
+    },
+    {
+        "name": "-3% to Enemy Lightning Resistance"
+    },
+    {
+        "name": "+12 to Lightning Shield"
+    },
+    {
+        "name": "# to (542 - 602)",
+        "min": "391",
+        "max": "435"
+    },
+    {
+        "name": "10% Chance to cast level 20 Flash on Melee Attack"
+    },
+    {
+        "name": "-6% to Enemy Lightning Resistance"
+    },
+    {
+        "name": "+18 to Lightning Shield"
+    },
+    {
+        "name": "# to (1294 - 1481)",
+        "min": "952",
+        "max": "1090"
+    },
+    {
+        "name": "15% Chance to cast level 30 Flash on Melee Attack"
+    },
+    {
+        "name": "-9% to Enemy Lightning Resistance"
+    },
+    {
+        "name": "+24 to Lightning Shield"
+    },
+    {
+        "name": "# to (2201 - 2367)",
+        "min": "1631",
+        "max": "1755"
+    },
+    {
+        "name": "20% Chance to cast level 40 Flash on Melee Attack"
+    },
+    {
+        "name": "+30 to Lightning Shield"
+    },
+    {
+        "name": "+35 Mana after each Kill"
+    },
+    {
+        "name": "# to (188 - 217)",
+        "min": "126",
+        "max": "145"
+    },
+    {
+        "name": "72 to 75"
+    },
+    {
+        "name": "# to (618 - 689)",
+        "min": "441",
+        "max": "492"
+    },
+    {
+        "name": "93 to 98"
+    },
+    {
+        "name": "# to (1548 - 1692)",
+        "min": "1122",
+        "max": "1226"
+    },
+    {
+        "name": "170 to 181"
+    },
+    {
+        "name": "# to (2302 - 2498)",
+        "min": "1684",
+        "max": "1827"
+    },
+    {
+        "name": "282 to 300"
+    },
+    {
+        "name": "# to (105 - 120)",
+        "min": "54",
+        "max": "62"
+    },
+    {
+        "name": "# to (343 - 381)",
+        "min": "217",
+        "max": "241"
+    },
+    {
+        "name": "# to (838 - 917)",
+        "min": "554",
+        "max": "607"
+    },
+    {
+        "name": "# to (1319 - 1427)",
+        "min": "880",
+        "max": "952"
+    },
+    {
+        "name": "# to (250 - 282)",
+        "min": "131",
+        "max": "148"
+    },
+    {
+        "name": "Indestructible"
+    },
+    {
+        "name": "# to (797 - 883)",
+        "min": "474",
+        "max": "525"
+    },
+    {
+        "name": "# to (1960 - 2133)",
+        "min": "1200",
+        "max": "1306"
+    },
+    {
+        "name": "# to (2907 - 3143)",
+        "min": "1784",
+        "max": "1930"
+    },
+    {
+        "name": "# to (598 - 705)",
+        "min": "293",
+        "max": "346"
+    },
+    {
+        "name": "1% Chance to cast level 3 Gift of the Wild on Kill"
+    },
+    {
+        "name": "+15 to all Attributes"
+    },
+    {
+        "name": "# to (1897 - 2156)",
+        "min": "1029",
+        "max": "1169"
+    },
+    {
+        "name": "2% Chance to cast level 7 Gift of the Wild on Kill"
+    },
+    {
+        "name": "# to (4760 - 5247)",
+        "min": "2644",
+        "max": "2915"
+    },
+    {
+        "name": "2% Chance to cast level 11 Gift of the Wild on Kill"
+    },
+    {
+        "name": "+25 to all Attributes"
+    },
+    {
+        "name": "# to (7140 - 7800)",
+        "min": "3984",
+        "max": "4352"
+    },
+    {
+        "name": "3% Chance to cast level 15 Gift of the Wild on Kill"
+    },
+    {
+        "name": "Additional Strength Damage Bonus: 0.0625%"
+    },
+    {
+        "name": "# to (54 - 62)",
+        "min": "39",
+        "max": "44"
+    },
+    {
+        "name": "# to (224 - 248)",
+        "min": "174",
+        "max": "193"
+    },
+    {
+        "name": "# to (540 - 594)",
+        "min": "443",
+        "max": "487"
+    },
+    {
+        "name": "# to (818 - 892)",
+        "min": "670",
+        "max": "731"
+    },
+    {
+        "name": "# to (79 - 92)",
+        "min": "54",
+        "max": "63"
+    },
+    {
+        "name": "# to (276 - 311)",
+        "min": "211",
+        "max": "238"
+    },
+    {
+        "name": "# to (658 - 731)",
+        "min": "513",
+        "max": "570"
+    },
+    {
+        "name": "# to (1004 - 1157)",
+        "min": "788",
+        "max": "908"
+    },
+    {
+        "name": "5% Chance to cast level 1 Arrow when Struck by a Missile"
+    },
+    {
+        "name": "+0.375% Enhanced Defense (Based on Character Level)"
+    },
+    {
+        "name": "9% Chance to cast level 1 Arrow when Struck by a Missile"
+    },
+    {
+        "name": "+0.75% Enhanced Defense (Based on Character Level)"
+    },
+    {
+        "name": "13% Chance to cast level 1 Arrow when Struck by a Missile"
+    },
+    {
+        "name": "+1.125% Enhanced Defense (Based on Character Level)"
+    },
+    {
+        "name": "15% Chance to cast level 1 Arrow when Struck by a Missile"
+    },
+    {
+        "name": "+1.5% Enhanced Defense (Based on Character Level)"
+    },
+    {
+        "name": "# to (148 - 166)",
+        "min": "101",
+        "max": "113"
+    },
+    {
+        "name": "# to (478 - 525)",
+        "min": "346",
+        "max": "379"
+    },
+    {
+        "name": "# to (1174 - 1269)",
+        "min": "865",
+        "max": "935"
+    },
+    {
+        "name": "# to (1737 - 1874)",
+        "min": "1283",
+        "max": "1385"
+    },
+    {
+        "name": "# to (173 - 196)",
+        "min": "115",
+        "max": "130"
+    },
+    {
+        "name": "+10% to Cold Spell Damage"
+    },
+    {
+        "name": "#% Reanimate as: Shrieker",
+        "min": "2",
+        "max": "3"
+    },
+    {
+        "name": "# to (546 - 605)",
+        "min": "390",
+        "max": "432"
+    },
+    {
+        "name": "+16% to Cold Spell Damage"
+    },
+    {
+        "name": "# to (1340 - 1458)",
+        "min": "971",
+        "max": "1057"
+    },
+    {
+        "name": "+23% to Cold Spell Damage"
+    },
+    {
+        "name": "# to (1977 - 2137)",
+        "min": "1446",
+        "max": "1563"
+    },
+    {
+        "name": "+30% to Cold Spell Damage"
+    },
+    {
+        "name": "+40% to Summoned Minion Resistances"
+    },
+    {
+        "name": "# to (77 - 87)",
+        "min": "40",
+        "max": "45"
+    },
+    {
+        "name": "-5% to Enemy Poison Resistance"
+    },
+    {
+        "name": "5% Reanimate as: Horror Archer"
+    },
+    {
+        "name": "# to (252 - 286)",
+        "min": "159",
+        "max": "180"
+    },
+    {
+        "name": "6% Reanimate as: Horror Archer"
+    },
+    {
+        "name": "# to (634 - 704)",
+        "min": "420",
+        "max": "467"
+    },
+    {
+        "name": "-11% to Enemy Poison Resistance"
+    },
+    {
+        "name": "7% Reanimate as: Horror Archer"
+    },
+    {
+        "name": "# to (1021 - 1168)",
+        "min": "679",
+        "max": "777"
+    },
+    {
+        "name": "8% Reanimate as: Horror Archer"
+    },
+    {
+        "name": "# to (200 - 221)",
+        "min": "109",
+        "max": "120"
+    },
+    {
+        "name": "# to (569 - 648)",
+        "min": "352",
+        "max": "399"
+    },
+    {
+        "name": "# to (1327 - 1431)",
+        "min": "833",
+        "max": "896"
+    },
+    {
+        "name": "Lightning Absorb 4%"
+    },
+    {
+        "name": "# to (2112 - 2253)",
+        "min": "1343",
+        "max": "1429"
+    },
+    {
+        "name": "Lightning Absorb 5%"
+    },
+    {
+        "name": "5% Hit Recovery"
+    },
+    {
+        "name": "#% Reanimate as: Sanguine Servant",
+        "min": "2",
+        "max": "3"
+    },
+    {
+        "name": "# to (527 - 585)",
+        "min": "296",
+        "max": "329"
+    },
+    {
+        "name": "# to (1299 - 1414)",
+        "min": "758",
+        "max": "825"
+    },
+    {
+        "name": "# to (1928 - 2084)",
+        "min": "1126",
+        "max": "1217"
+    },
+    {
+        "name": "# to (269 - 305)",
+        "min": "138",
+        "max": "156"
+    },
+    {
+        "name": "# to (767 - 853)",
+        "min": "427",
+        "max": "475"
+    },
+    {
+        "name": "# to (1788 - 1958)",
+        "min": "1015",
+        "max": "1111"
+    },
+    {
+        "name": "# to (2788 - 3258)",
+        "min": "1584",
+        "max": "1852"
+    },
+    {
+        "name": "# to (273 - 313)",
+        "min": "140",
+        "max": "160"
+    },
+    {
+        "name": "15% Chance to cast level 2 Doom on Kill"
+    },
+    {
+        "name": "21% Chance to cast level 6 Doom on Kill"
+    },
+    {
+        "name": "# to (1987 - 2157)",
+        "min": "1105",
+        "max": "1199"
+    },
+    {
+        "name": "27% Chance to cast level 10 Doom on Kill"
+    },
+    {
+        "name": "# to (2939 - 3170)",
+        "min": "1640",
+        "max": "1768"
+    },
+    {
+        "name": "30% Chance to cast level 12 Doom on Kill"
+    },
+    {
+        "name": "# to (145 - 196)",
+        "min": "97",
+        "max": "132"
+    },
+    {
+        "name": "# to (523 - 650)",
+        "min": "373",
+        "max": "464"
+    },
+    {
+        "name": "# to (1379 - 1635)",
+        "min": "1000",
+        "max": "1185"
+    },
+    {
+        "name": "# to (2315 - 2661)",
+        "min": "1693",
+        "max": "1947"
+    },
+    {
+        "name": "#% Reanimate as: Knight of Famine",
+        "min": "2",
+        "max": "3"
+    },
+    {
+        "name": "# to (242 - 261)",
+        "min": "184",
+        "max": "199"
+    },
+    {
+        "name": "# to (592 - 631)",
+        "min": "459",
+        "max": "490"
+    },
+    {
+        "name": "# to (864 - 918)",
+        "min": "675",
+        "max": "717"
+    },
+    {
+        "name": "# to (324 - 365)",
+        "min": "203",
+        "max": "229"
+    },
+    {
+        "name": "# to (805 - 890)",
+        "min": "532",
+        "max": "588"
+    },
+    {
+        "name": "# to (1282 - 1398)",
+        "min": "856",
+        "max": "933"
+    },
+    {
+        "name": "# to (193 - 215)",
+        "min": "96",
+        "max": "107"
+    },
+    {
+        "name": "+# to Drakemaw (Paladin Only)",
+        "min": "2",
+        "max": "4"
+    },
+    {
+        "name": "# to (576 - 628)",
+        "min": "331",
+        "max": "362"
+    },
+    {
+        "name": "+16 Mana after each Kill"
+    },
+    {
+        "name": "# to (1331 - 1436)",
+        "min": "825",
+        "max": "889"
+    },
+    {
+        "name": "+23 Mana after each Kill"
+    },
+    {
+        "name": "# to (1962 - 2104)",
+        "min": "1234",
+        "max": "1321"
+    },
+    {
+        "name": "+30 Mana after each Kill"
+    },
+    {
+        "name": "# to (385 - 438)",
+        "min": "172",
+        "max": "199"
+    },
+    {
+        "name": "+#% Damage to Vessel of Justice",
+        "min": "21",
+        "max": "30"
+    },
+    {
+        "name": "+#% Damage to Vessel of Retribution",
+        "min": "21",
+        "max": "30"
+    },
+    {
+        "name": "#% Block Speed",
+        "min": "11",
+        "max": "20"
+    },
+    {
+        "name": "Lightning Resist +25%"
+    },
+    {
+        "name": "# to (992 - 1117)",
+        "min": "592",
+        "max": "662"
+    },
+    {
+        "name": "Lightning Resist +50%"
+    },
+    {
+        "name": "# to (2096 - 2346)",
+        "min": "1309",
+        "max": "1455"
+    },
+    {
+        "name": "Lightning Resist +75%"
+    },
+    {
+        "name": "# to (3183 - 3522)",
+        "min": "2012",
+        "max": "2211"
+    },
+    {
+        "name": "Lightning Resist +100%"
+    },
+    {
+        "name": "# to (368 - 389)",
+        "min": "188",
+        "max": "198"
+    },
+    {
+        "name": "5% Chance to cast level 6 Flamefront on Melee Attack"
+    },
+    {
+        "name": "Adds #-(8 to 13) damage",
+        "min": "4",
+        "max": "7"
+    },
+    {
+        "name": "2% Reanimate as: Crimson Templar"
+    },
+    {
+        "name": "# to (1027 - 1076)",
+        "min": "573",
+        "max": "600"
+    },
+    {
+        "name": "9% Chance to cast level 18 Flamefront on Melee Attack"
+    },
+    {
+        "name": "Adds #-(18 to 23) damage",
+        "min": "9",
+        "max": "12"
+    },
+    {
+        "name": "3% Reanimate as: Crimson Templar"
+    },
+    {
+        "name": "# to (2362 - 2458)",
+        "min": "1341",
+        "max": "1396"
+    },
+    {
+        "name": "13% Chance to cast level 30 Flamefront on Melee Attack"
+    },
+    {
+        "name": "Adds #-(28 to 33) damage",
+        "min": "14",
+        "max": "17"
+    },
+    {
+        "name": "4% Reanimate as: Crimson Templar"
+    },
+    {
+        "name": "# to (3489 - 3620)",
+        "min": "1985",
+        "max": "2060"
+    },
+    {
+        "name": "15% Chance to cast level 36 Flamefront on Melee Attack"
+    },
+    {
+        "name": "Adds #-(33 to 38) damage",
+        "min": "17",
+        "max": "19"
+    },
+    {
+        "name": "5% Reanimate as: Crimson Templar"
+    },
+    {
+        "name": "# to (329 - 376)",
+        "min": "167",
+        "max": "191"
+    },
+    {
+        "name": "# to (983 - 1093)",
+        "min": "535",
+        "max": "594"
+    },
+    {
+        "name": "# to (2386 - 2590)",
+        "min": "1325",
+        "max": "1439"
+    },
+    {
+        "name": "# to (3529 - 3806)",
+        "min": "1968",
+        "max": "2123"
+    },
+    {
+        "name": "# to (260 - 286)",
+        "min": "130",
+        "max": "143"
+    },
+    {
+        "name": "12"
+    },
+    {
+        "name": "+# to Arcane Torrent (Sorceress Only)",
+        "min": "1",
+        "max": "2"
+    },
+    {
+        "name": "+# to Immersion (Sorceress Only)",
+        "min": "1",
+        "max": "2"
+    },
+    {
+        "name": "Elemental Resists +10%"
+    },
+    {
+        "name": "# to (775 - 845)",
+        "min": "491",
+        "max": "532"
+    },
+    {
+        "name": "18"
+    },
+    {
+        "name": "Elemental Resists +20%"
+    },
+    {
+        "name": "# to (1875 - 2025)",
+        "min": "1261",
+        "max": "1354"
+    },
+    {
+        "name": "39"
+    },
+    {
+        "name": "Elemental Resists +30%"
+    },
+    {
+        "name": "# to (2823 - 3020)",
+        "min": "1937",
+        "max": "2060"
+    },
+    {
+        "name": "Elemental Resists +40%"
+    },
+    {
+        "name": "# to (354 - 417)",
+        "min": "173",
+        "max": "204"
+    },
+    {
+        "name": "46 to 48"
+    },
+    {
+        "name": "# to (1152 - 1309)",
+        "min": "625",
+        "max": "710"
+    },
+    {
+        "name": "60 to 63"
+    },
+    {
+        "name": "# to (2915 - 3213)",
+        "min": "1618",
+        "max": "1784"
+    },
+    {
+        "name": "110 to 117"
+    },
+    {
+        "name": "# to (4372 - 4776)",
+        "min": "2444",
+        "max": "2670"
+    },
+    {
+        "name": "211 to 225"
+    },
+    {
+        "name": "# to (218 - 232)",
+        "min": "105",
+        "max": "112"
+    },
+    {
+        "name": "# to (629 - 664)",
+        "min": "359",
+        "max": "379"
+    },
+    {
+        "name": "# to (1438 - 1510)",
+        "min": "856",
+        "max": "898"
+    },
+    {
+        "name": "# to (2170 - 2376)",
+        "min": "1298",
+        "max": "1421"
+    },
+    {
+        "name": "81 to 85"
+    },
+    {
+        "name": "+3 to Skeletal Flayer"
+    },
+    {
+        "name": "-1 to Light Radius"
+    },
+    {
+        "name": "+6 to Skeletal Flayer"
+    },
+    {
+        "name": "-2 to Light Radius"
+    },
+    {
+        "name": "196 to 207"
+    },
+    {
+        "name": "+9 to Skeletal Flayer"
+    },
+    {
+        "name": "-3 to Light Radius"
+    },
+    {
+        "name": "378 to 402"
+    },
+    {
+        "name": "+12 to Skeletal Flayer"
+    },
+    {
+        "name": "# to (706 - 821)",
+        "min": "352",
+        "max": "409"
+    },
+    {
+        "name": "+# to Spiral Dance",
+        "min": "2",
+        "max": "3"
+    },
+    {
+        "name": "+#% Enhanced Damage to Moonstrike",
+        "min": "21",
+        "max": "50"
+    },
+    {
+        "name": "# to (2161 - 2423)",
+        "min": "1131",
+        "max": "1268"
+    },
+    {
+        "name": "# to (5286 - 5824)",
+        "min": "2818",
+        "max": "3105"
+    },
+    {
+        "name": "# to (7888 - 8585)",
+        "min": "4203",
+        "max": "4574"
+    },
+    {
+        "name": "Elemental Resists +25%"
+    },
+    {
+        "name": "Physical Resist -5%"
+    },
+    {
+        "name": "5% Reanimate as: Searing Vermin"
+    },
+    {
+        "name": "Maximum Mana -25%"
+    },
+    {
+        "name": "10% Chance to cast level 10 Magic Missiles on Kill"
+    },
+    {
+        "name": "-1 Life Regenerated per Second"
+    },
+    {
+        "name": "+# to Light Radius",
+        "min": "3",
+        "max": "5"
+    },
+    {
+        "name": "+4 to Life (Based on Character Level)"
+    },
+    {
+        "name": "3% Reanimate as: Molting Torment"
+    },
+    {
+        "name": "+10% to Fire Spell Damage"
+    },
+    {
+        "name": "+10% to Lightning Spell Damage"
+    },
+    {
+        "name": "1% Chance to cast level 17 Mana Sweep on Death Blow"
+    },
+    {
+        "name": "25% Block Speed"
+    },
+    {
+        "name": "1% Chance to cast level 8 Celerity on Kill"
+    },
+    {
+        "name": "Adds 3-5 damage"
+    },
+    {
+        "name": "+5% to Spell Damage"
+    },
+    {
+        "name": "2% Chance to cast level 10 Earthquake on Melee Attack"
+    },
+    {
+        "name": "Enhanced Weapon Damage +25%"
+    },
+    {
+        "name": "10% Chance to cast level 19 Punishers on Kill"
+    },
+    {
+        "name": "Adds 25-75 poison damage over 1 seconds"
+    },
+    {
+        "name": "-50 Life Regenerated per Second"
+    },
+    {
+        "name": "1% Chance to cast level 7 Singularity on Kill"
+    },
+    {
+        "name": "Increase Maximum Life and Mana 10%"
+    },
+    {
+        "name": "1% Chance to cast level 50 Burning Veil on Kill"
+    },
+    {
+        "name": "Adds 20-40 fire damage"
+    },
+    {
+        "name": "1% Chance to cast level 4 Shower of Rocks on Kill"
+    },
+    {
+        "name": "+10% Damage to Demons"
+    },
+    {
+        "name": "Enhanced Weapon Damage +10%"
+    },
+    {
+        "name": "+5% to Summoned Minion Life"
+    },
+    {
+        "name": "+10% to Summoned Minion Damage"
+    },
+    {
+        "name": "+5% to Summoned Minion Resistances"
+    },
+    {
+        "name": "+5 Life after each Kill"
+    },
+    {
+        "name": "15% Magic Find"
+    },
+    {
+        "name": "4% Chance to cast level 1 Arrow on Striking"
+    },
+    {
+        "name": "1% Chance to cast level 20 Flamefront on Striking"
+    },
+    {
+        "name": "Adds 25-50 fire damage"
+    },
+    {
+        "name": "5% Chance to cast level 36 Forked Lightning on Kill"
+    },
+    {
+        "name": "5% Chance to cast level 36 Flamefront on Kill"
+    },
+    {
+        "name": "5% Chance to cast level 36 Ice Lance on Kill"
+    },
+    {
+        "name": "Adds 25-50 lightning damage"
+    },
+    {
+        "name": "Adds 25-50 cold damage"
+    },
+    {
+        "name": "+100 poison damage over 2 seconds"
+    },
+    {
+        "name": "Poison Resist +40%"
+    },
+    {
+        "name": "4% Chance to cast level 10 Bolt on Striking"
+    },
+    {
+        "name": "4% Chance to cast level 40 Punisher Bolt on Striking"
+    }
+]
